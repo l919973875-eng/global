@@ -1,1 +1,844 @@
-[]
+[
+  {
+    "id": "dd79c4cd48a9a65a072f",
+    "title": "Washington discussing nuclear strike on Iran – former congresswoman",
+    "status": "报道中",
+    "category": "社会动荡",
+    "severity": "critical",
+    "priority_score": 64,
+    "confidence_score": 40,
+    "importance_score": 77,
+    "china_relevance_score": 55,
+    "first_seen": "2026-08-17T01:12:42+00:00",
+    "last_seen": "2026-08-17T01:12:42+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Russia"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=Russia; 中国关联利益=中俄关系, 能源, 远东, 跨境贸易, 军事合作, 北极, 中亚, 人员与劳务; 中国关联实体/项目=Power of Siberia, Yamal LNG China exposure, China-Russia border trade | 事件关联地区=United States; 中国关联利益=中美关系, 贸易与关税, 科技与出口管制, 半导体, 人工智能, 金融制裁, 军事与印太, 台海; 中国关联实体/项目=Huawei, ZTE, SMIC, ByteDance, TikTok, DJI, CATL, BYD, China Telecom, China Mobile | 事件关联地区=Iran; 中国关联利益=能源, 制裁, 核问题, 中东安全, 中伊合作; 中国关联实体/项目=China-Iran energy trade",
+    "evidence": [
+      {
+        "id": "e4a734ef339dade6f1c8",
+        "origin_type": "news",
+        "source": "RT",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Washington discussing nuclear strike on Iran – former congresswoman",
+        "url": "https://www.rt.com/news/644313-us-iran-nuclear-strike/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "published_at": "2026-08-17T01:12:42+00:00",
+        "collected_at": "2026-08-17T04:27:10.415159+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "4e788d96b58b1bc6e49f",
+    "title": "十大券商一周策略 ： 中国股市有望走出 金秋行情 ， 主线行情重启还缺哪些拼图 ？- 股票 - 金融界",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 60,
+    "confidence_score": 46,
+    "importance_score": 38,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-17T01:00:00+00:00",
+    "last_seen": "2026-08-17T01:15:00+00:00",
+    "source_count": 2,
+    "news_count": 2,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "China"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "f780432b431c396e8a54",
+        "origin_type": "news",
+        "source": "stock.jrj.com.cn",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "十大券商一周策略 ： 中国股市有望走出 金秋行情 ， 主线行情重启还缺哪些拼图 ？- 股票 - 金融界",
+        "url": "https://stock.jrj.com.cn/2026/08/17072958133575.shtml",
+        "published_at": "2026-08-17T01:15:00+00:00",
+        "collected_at": "2026-08-17T04:27:10.415159+00:00",
+        "relation": "direct",
+        "confidence": 94
+      },
+      {
+        "id": "8ed3d0527712ffdc2728",
+        "origin_type": "news",
+        "source": "finance.sina.com.cn",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "十大券商一周策略 ： 中国股市有望走出 金秋行情 ， 主线行情重启还缺哪些拼图 ？_ 新浪财经 _ 新浪网",
+        "url": "https://finance.sina.com.cn/stock/roll/2026-08-17/doc-ininqpew9191398.shtml",
+        "published_at": "2026-08-17T01:00:00+00:00",
+        "collected_at": "2026-08-17T04:27:10.415159+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "6003407e6fe880a5fa6a",
+    "title": "Da Nang police arrest 5 Chinese sought by Chinese authorities",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-17T17:44:00+00:00",
+    "last_seen": "2026-08-17T17:44:00+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Vietnam"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "0a9f214dd5ccc7146186",
+        "origin_type": "news",
+        "source": "Tuoi Tre News",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Da Nang police arrest 5 Chinese sought by Chinese authorities",
+        "url": "https://news.tuoitre.vn/da-nang-police-arrest-5-chinese-sought-by-chinese-authorities-103260817101842752.htm",
+        "published_at": "2026-08-17T17:44:00+00:00",
+        "collected_at": "2026-08-17T04:27:10.415159+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "fc00446a9b305e279874",
+    "title": "Kazakh, Austrian FMs discuss safety of Kazakh oil supplies to Europe via CPC",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-17T04:27:10.415159+00:00",
+    "last_seen": "2026-08-17T04:27:10.415159+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Russia"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "022c2e4ed70da44b4d8e",
+        "origin_type": "news",
+        "source": "Interfax",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Kazakh, Austrian FMs discuss safety of Kazakh oil supplies to Europe via CPC",
+        "url": "https://interfax.com/newsroom/top-stories/118721/",
+        "published_at": null,
+        "collected_at": "2026-08-17T04:27:10.415159+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "499516ef73472ba4f976",
+    "title": "日米同盟、老いとの戦い 中国台頭がさらす安保体制の弱点",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 56,
+    "importance_score": 42,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-17T04:27:10.415159+00:00",
+    "last_seen": "2026-08-17T04:27:10.415159+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Japan"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "9aa76617dd2d2e965671",
+        "origin_type": "news",
+        "source": "Nikkei",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "日米同盟、老いとの戦い 中国台頭がさらす安保体制の弱点",
+        "url": "https://www.nikkei.com/article/DGXZQOCD132AA0T10C26A8000000/",
+        "published_at": null,
+        "collected_at": "2026-08-17T04:27:10.415159+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "89498ae8d35160adaf12",
+    "title": "経済プラス テスラ復調の立役者は中国だけど…マスク氏に忍び寄るジレンマ 8/17 11:00 深掘り",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-17T04:27:10.415159+00:00",
+    "last_seen": "2026-08-17T04:27:10.415159+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Japan"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "04c55067e67b1c46bb05",
+        "origin_type": "news",
+        "source": "Mainichi",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "経済プラス テスラ復調の立役者は中国だけど…マスク氏に忍び寄るジレンマ 8/17 11:00 深掘り",
+        "url": "https://mainichi.jp/articles/20260814/k00/00m/020/215000c",
+        "published_at": null,
+        "collected_at": "2026-08-17T04:27:10.415159+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "07d85f41da0cf3ac9ef1",
+    "title": "Zhu Rongji’s death adds new dimension to China's high-profile remembrance of Jiang Zemin",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-17T04:27:10.415159+00:00",
+    "last_seen": "2026-08-17T04:27:10.415159+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Singapore"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "6e6d85b6ca4863d4a4e7",
+        "origin_type": "news",
+        "source": "Channel NewsAsia",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Zhu Rongji’s death adds new dimension to China's high-profile remembrance of Jiang Zemin",
+        "url": "https://www.channelnewsasia.com/east-asia/china-jiang-zemin-zhu-rongji-death-legacy-reforms-6319441",
+        "published_at": null,
+        "collected_at": "2026-08-17T04:27:10.415159+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "31e874078d0bc2c2f7ab",
+    "title": "Humanoids reshape global business as China and US race to scale",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-17T04:27:10.415159+00:00",
+    "last_seen": "2026-08-17T04:27:10.415159+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Thailand"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "3db2a50187f9ffbc4420",
+        "origin_type": "news",
+        "source": "The Nation Thailand",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Humanoids reshape global business as China and US race to scale",
+        "url": "https://www.nationthailand.com/blogs/business/tech/40069872",
+        "published_at": null,
+        "collected_at": "2026-08-17T04:27:10.415159+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "a6d743d7f4e9361bf537",
+    "title": "King’s visit to China offers chance to deepen economic cooperation — JSF",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-17T04:27:10.415159+00:00",
+    "last_seen": "2026-08-17T04:27:10.415159+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Jordan"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "15665954ce555d3793e7",
+        "origin_type": "news",
+        "source": "Jordan Times",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "King’s visit to China offers chance to deepen economic cooperation — JSF",
+        "url": "https://jordantimes.com/news/local/kings-visit-to-china-offers-chance-to-deepen-economic-cooperation-jsf",
+        "published_at": null,
+        "collected_at": "2026-08-17T04:27:10.415159+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "709f9cd6e83d8bc43015",
+    "title": "La 'Lorcamanía': el regreso del poeta como ídolo de TikTok",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-17T04:06:47+00:00",
+    "last_seen": "2026-08-17T04:06:47+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Spain"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "2059a13ccf8ac598a616",
+        "origin_type": "news",
+        "source": "ABC España",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "La 'Lorcamanía': el regreso del poeta como ídolo de TikTok",
+        "url": "https://www.abc.es/cultura/lorcamania-regreso-poeta-idolo-tiktok-20260816012928-nt.html",
+        "published_at": "2026-08-17T04:06:47+00:00",
+        "collected_at": "2026-08-17T04:27:10.415159+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "feaeb4faeaf60626dcd6",
+    "title": "Osun poll: 295 suspects arrested – Police",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "high",
+    "priority_score": 58,
+    "confidence_score": 40,
+    "importance_score": 64,
+    "china_relevance_score": 55,
+    "first_seen": "2026-08-17T05:01:38+00:00",
+    "last_seen": "2026-08-17T05:01:38+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Nigeria"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=Nigeria; 中国关联利益=铁路, 港口, 电信, 石油, 中资企业与人员安全; 中国关联实体/项目=CCECC, Huawei, Lekki-related Chinese investment",
+    "evidence": [
+      {
+        "id": "ca34f341530510575e1b",
+        "origin_type": "news",
+        "source": "Punch Nigeria",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Osun poll: 295 suspects arrested – Police",
+        "url": "https://punchng.com/osun-poll-295-suspects-arrested-police/?utm_source=rss.punchng.com&utm_medium=web",
+        "published_at": "2026-08-17T05:01:38+00:00",
+        "collected_at": "2026-08-17T04:27:10.415159+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "be71ff16d140a298f94e",
+    "title": "Russia says at least seven killed in largest Ukrainian attack of 2026 Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv. 9 hrs ago Europe",
+    "status": "报道中",
+    "category": "安全/冲突",
+    "severity": "high",
+    "priority_score": 58,
+    "confidence_score": 56,
+    "importance_score": 69,
+    "china_relevance_score": 55,
+    "first_seen": "2026-08-17T04:27:10.415159+00:00",
+    "last_seen": "2026-08-17T04:27:10.415159+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "United Kingdom"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=United Kingdom; 中国关联利益=中英关系, 金融, 香港议题, 投资审查, 科技, 核电, 教育, 情报安全; 中国关联实体/项目=Huawei, CGN, HSBC China exposure, TikTok | 事件关联地区=European Union; 中国关联利益=中欧关系, 电动汽车, 电池, 反补贴调查, 投资审查, 关键原材料, 供应链, 出口管制; 中国关联实体/项目=BYD, CATL, SAIC, Geely, Huawei, ZTE, COSCO | 事件关联地区=Russia; 中国关联利益=中俄关系, 能源, 远东, 跨境贸易, 军事合作, 北极, 中亚, 人员与劳务; 中国关联实体/项目=Power of Siberia, Yamal LNG China exposure, China-Russia border trade | 事件关联地区=Ukraine; 中国关联利益=俄乌战争, 中国外交, 粮食, 黑海航运, 军民两用技术, 重建; 中国关联实体/项目=Chinese trade exposure",
+    "evidence": [
+      {
+        "id": "ab8af0dd7c977995996b",
+        "origin_type": "news",
+        "source": "BBC News",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Russia says at least seven killed in largest Ukrainian attack of 2026 Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv. 9 hrs ago Europe",
+        "url": "https://www.bbc.com/news/articles/c1411pgje8xo",
+        "published_at": null,
+        "collected_at": "2026-08-17T04:27:10.415159+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "ab93a5d48440b4b7e33a",
+    "title": "Seven dead in stampede in Bihar’s Ashok Dham temple",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "high",
+    "priority_score": 58,
+    "confidence_score": 40,
+    "importance_score": 64,
+    "china_relevance_score": 55,
+    "first_seen": "2026-08-17T04:10:19+00:00",
+    "last_seen": "2026-08-17T04:10:19+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "India"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=India; 中国关联利益=中印边境, 印太, 供应链, 投资限制, 电信, 制造业, 南亚, 金砖合作; 中国关联实体/项目=Xiaomi India, Vivo India, Oppo India, BYD India, Huawei",
+    "evidence": [
+      {
+        "id": "6ab37b47c7ac07753f67",
+        "origin_type": "news",
+        "source": "The Hindu",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Seven dead in stampede in Bihar’s Ashok Dham temple",
+        "url": "https://www.thehindu.com/news/national/bihar/ashok-dham-temple-stampede-lakhisarai-august-17-2026/article71354800.ece",
+        "published_at": "2026-08-17T04:10:19+00:00",
+        "collected_at": "2026-08-17T04:27:10.415159+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "6d7039625545e4b93520",
+    "title": "China's Z.ai says new model nears Anthropic's Mythos 5 in cyber-defence tests",
+    "status": "报道中",
+    "category": "经贸/科技",
+    "severity": "low",
+    "priority_score": 58,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-17T04:02:31+00:00",
+    "last_seen": "2026-08-17T04:02:31+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "India"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "b28675dc202d4393dc2d",
+        "origin_type": "news",
+        "source": "The Hindu",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "China's Z.ai says new model nears Anthropic's Mythos 5 in cyber-defence tests",
+        "url": "https://www.thehindu.com/sci-tech/technology/chinas-zai-says-new-model-nears-anthropics-mythos-5-in-cyber-defence-tests/article71354773.ece",
+        "published_at": "2026-08-17T04:02:31+00:00",
+        "collected_at": "2026-08-17T04:27:10.415159+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "ce9c05a18488df2dc232",
+    "title": "No girl should face this alone: Why China and the UN are standing together for Lesotho's girls",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 58,
+    "confidence_score": 56,
+    "importance_score": 42,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-17T04:00:00+00:00",
+    "last_seen": "2026-08-17T04:00:00+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "South Africa"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "3dc358bf21e5c1aa30bd",
+        "origin_type": "news",
+        "source": "Mail & Guardian",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "No girl should face this alone: Why China and the UN are standing together for Lesotho's girls",
+        "url": "https://mg.co.za/thought-leader/2026-08-17-no-girl-should-face-this-alone-why-china-and-the-un-are-standing-together-for-lesotho-s-girls/",
+        "published_at": "2026-08-17T04:00:00+00:00",
+        "collected_at": "2026-08-17T04:27:10.415159+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "c54af77ccd1d49bec911",
+    "title": "今天15点 ， 重磅发布 ！ 黄仁勋 、 六大资管巨头 ： 将AI算力打造为独立资产 ； 外资大幅流入 ， 聚焦中国芯片股",
+    "status": "报道中",
+    "category": "经贸/科技",
+    "severity": "low",
+    "priority_score": 57,
+    "confidence_score": 40,
+    "importance_score": 35,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-17T01:15:00+00:00",
+    "last_seen": "2026-08-17T01:15:00+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "China"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "55debc89cd703c73b000",
+        "origin_type": "news",
+        "source": "stock.jrj.com.cn",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "今天15点 ， 重磅发布 ！ 黄仁勋 、 六大资管巨头 ： 将AI算力打造为独立资产 ； 外资大幅流入 ， 聚焦中国芯片股",
+        "url": "https://stock.jrj.com.cn/2026/08/17081858133740.shtml",
+        "published_at": "2026-08-17T01:15:00+00:00",
+        "collected_at": "2026-08-17T04:27:10.415159+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "c8be4878b4f278d3612d",
+    "title": "问界 「 童车 」 上市 ， 华为联合设计 ； DeepSeek 涨价策略今日实行 ； 大学生用 AI 人脸视频盗刷 5 万元被判刑",
+    "status": "报道中",
+    "category": "经贸/科技",
+    "severity": "low",
+    "priority_score": 57,
+    "confidence_score": 40,
+    "importance_score": 35,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-17T01:00:00+00:00",
+    "last_seen": "2026-08-17T01:00:00+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "China"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "2dca420f9ab5a5664d5c",
+        "origin_type": "news",
+        "source": "163.com",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "问界 「 童车 」 上市 ， 华为联合设计 ； DeepSeek 涨价策略今日实行 ； 大学生用 AI 人脸视频盗刷 5 万元被判刑",
+        "url": "https://www.163.com/dy/article/L4H6J07D05119FMA.html",
+        "published_at": "2026-08-17T01:00:00+00:00",
+        "collected_at": "2026-08-17T04:27:10.415159+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "31eee78557539f62bb96",
+    "title": "Nifty Chemical Index stocks : Chemical sector : Although long , there is a way around China trouble ; combine 20 stocks to get your portfolio chemistry right",
+    "status": "报道中",
+    "category": "海外利益",
+    "severity": "low",
+    "priority_score": 57,
+    "confidence_score": 40,
+    "importance_score": 35,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-17T01:00:00+00:00",
+    "last_seen": "2026-08-17T01:00:00+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "India"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "fb782337e54dce57d3ba",
+        "origin_type": "news",
+        "source": "economictimes.indiatimes.com",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Nifty Chemical Index stocks : Chemical sector : Although long , there is a way around China trouble ; combine 20 stocks to get your portfolio chemistry right",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/chemical-sector-although-long-there-is-a-way-around-china-trouble-combine-20-stocks-to-get-your-portfolios-chemistry-right/articleshow/133284241.cms",
+        "published_at": "2026-08-17T01:00:00+00:00",
+        "collected_at": "2026-08-17T04:27:10.415159+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "df2ae4cbf13e47ca327d",
+    "title": "Trump orders Pentagon to 'substantially' reduce S. Korea-U.S. military exercises",
+    "status": "报道中",
+    "category": "安全/冲突",
+    "severity": "medium",
+    "priority_score": 56,
+    "confidence_score": 86,
+    "importance_score": 66,
+    "china_relevance_score": 55,
+    "first_seen": "2026-08-16T23:16:31+00:00",
+    "last_seen": "2026-08-17T04:27:10.415159+00:00",
+    "source_count": 3,
+    "news_count": 3,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "South Korea",
+      "Nepal",
+      "United States"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=South Korea; 中国关联利益=中韩关系, 半导体, 电池, 朝鲜半岛, 供应链, 对美技术政策; 中国关联实体/项目=Samsung China exposure, SK Hynix China fabs, LG Energy Solution | 事件关联地区=United States; 中国关联利益=中美关系, 贸易与关税, 科技与出口管制, 半导体, 人工智能, 金融制裁, 军事与印太, 台海; 中国关联实体/项目=Huawei, ZTE, SMIC, ByteDance, TikTok, DJI, CATL, BYD, China Telecom, China Mobile",
+    "evidence": [
+      {
+        "id": "ab08f41b618705973b86",
+        "origin_type": "news",
+        "source": "Yonhap News",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Trump orders Pentagon to 'substantially' reduce S. Korea-U.S. military exercises",
+        "url": "https://en.yna.co.kr/view/AEN20260817000252315?section=national/diplomacy",
+        "published_at": null,
+        "collected_at": "2026-08-17T04:27:10.415159+00:00",
+        "relation": "potential",
+        "confidence": 62
+      },
+      {
+        "id": "1b6e24285394c9d33ab5",
+        "origin_type": "news",
+        "source": "The Kathmandu Post",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Trump orders Pentagon to cut back military exercises with South Korea",
+        "url": "https://kathmandupost.com/world/2026/08/17/trump-orders-pentagon-to-cut-back-military-exercises-with-south-korea",
+        "published_at": null,
+        "collected_at": "2026-08-17T04:27:10.415159+00:00",
+        "relation": "potential",
+        "confidence": 62
+      },
+      {
+        "id": "50d5f672cd964280e7eb",
+        "origin_type": "news",
+        "source": "NBC News",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Trump orders military to ‘substantially reduce’ joint exercises with South Korea",
+        "url": "https://www.nbcnews.com/politics/trump-administration/trump-orders-military-substantially-reduce-joint-exercises-south-korea-rcna592832",
+        "published_at": "2026-08-16T23:16:31+00:00",
+        "collected_at": "2026-08-17T04:27:10.415159+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "3e822b967d0cd8b16268",
+    "title": "EU foreign chief plans fresh sanctions against Russia",
+    "status": "报道中",
+    "category": "外交/制裁",
+    "severity": "high",
+    "priority_score": 56,
+    "confidence_score": 40,
+    "importance_score": 63,
+    "china_relevance_score": 55,
+    "first_seen": "2026-08-17T00:41:28+00:00",
+    "last_seen": "2026-08-17T00:41:28+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Ireland"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=European Union; 中国关联利益=中欧关系, 电动汽车, 电池, 反补贴调查, 投资审查, 关键原材料, 供应链, 出口管制; 中国关联实体/项目=BYD, CATL, SAIC, Geely, Huawei, ZTE, COSCO | 事件关联地区=Russia; 中国关联利益=中俄关系, 能源, 远东, 跨境贸易, 军事合作, 北极, 中亚, 人员与劳务; 中国关联实体/项目=Power of Siberia, Yamal LNG China exposure, China-Russia border trade",
+    "evidence": [
+      {
+        "id": "4d2d0aeb3608950e2c56",
+        "origin_type": "news",
+        "source": "RTE News",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "EU foreign chief plans fresh sanctions against Russia",
+        "url": "https://www.rte.ie/news/2026/0817/1588152-eu-russia-sanctions/",
+        "published_at": "2026-08-17T00:41:28+00:00",
+        "collected_at": "2026-08-17T04:27:10.415159+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "243aba107a86d42792d1",
+    "title": "New Chinese model adds to AI competition",
+    "status": "报道中",
+    "category": "经贸/科技",
+    "severity": "low",
+    "priority_score": 56,
+    "confidence_score": 40,
+    "importance_score": 34,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-16T22:31:30+00:00",
+    "last_seen": "2026-08-16T22:31:30+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "United States"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "0d4d5dad32578068a8b3",
+        "origin_type": "news",
+        "source": "Semafor",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "New Chinese model adds to AI competition",
+        "url": "https://www.semafor.com/article/08/16/2026/new-chinese-model-adds-to-ai-competition",
+        "published_at": "2026-08-16T22:31:30+00:00",
+        "collected_at": "2026-08-17T04:27:10.415159+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  }
+]
