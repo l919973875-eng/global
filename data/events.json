@@ -166,6 +166,165 @@
     ]
   },
   {
+    "id": "bc055c75bf017d2a8130",
+    "title": "China-built data center stirs debate on Pakistan's digital sovereignty",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 56,
+    "importance_score": 42,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-17T04:38:04.349127+00:00",
+    "last_seen": "2026-08-17T04:38:04.349127+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Japan"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "f771dcffe855efd32ad4",
+        "origin_type": "news",
+        "source": "Nikkei Asia",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "China-built data center stirs debate on Pakistan's digital sovereignty",
+        "url": "https://asia.nikkei.com/politics/international-relations/china-built-data-center-stirs-debate-on-pakistan-s-digital-sovereignty",
+        "published_at": null,
+        "collected_at": "2026-08-17T04:38:04.349127+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "0d59b5ae971dc6498418",
+    "title": "Trump orders Pentagon to 'scale back' military drills with South Korea citing good relations with Kim Jong Un",
+    "status": "报道中",
+    "category": "安全/冲突",
+    "severity": "medium",
+    "priority_score": 59,
+    "confidence_score": 77,
+    "importance_score": 64,
+    "china_relevance_score": 55,
+    "first_seen": "2026-08-17T03:57:48+00:00",
+    "last_seen": "2026-08-17T04:38:04.349127+00:00",
+    "source_count": 4,
+    "news_count": 4,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Japan",
+      "United States",
+      "Nepal",
+      "Europe"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=Japan; 中国关联利益=中日关系, 东海, 台海, 半导体设备, 出口管制, 钓鱼岛/尖阁诸岛, 供应链, 汽车; 中国关联实体/项目=Tokyo Electron, Rapidus, Japanese semiconductor controls | 事件关联地区=South Korea; 中国关联利益=中韩关系, 半导体, 电池, 朝鲜半岛, 供应链, 对美技术政策; 中国关联实体/项目=Samsung China exposure, SK Hynix China fabs, LG Energy Solution",
+    "evidence": [
+      {
+        "id": "3cc269dc76a307be2d6d",
+        "origin_type": "news",
+        "source": "Kyodo News",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Trump orders Pentagon to slash military drills with South Korea",
+        "url": "https://english.kyodonews.net/articles/-/82366",
+        "published_at": null,
+        "collected_at": "2026-08-17T04:38:04.349127+00:00",
+        "relation": "potential",
+        "confidence": 62
+      },
+      {
+        "id": "a2c51620a1cc4fcb3ca8",
+        "origin_type": "news",
+        "source": "USA Today",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Trump directs Pentagon to reduce military drills with South Korea",
+        "url": "https://www.usatoday.com/story/news/politics/2026/08/16/trump-united-states-south-korea-military-exercises-iran/91331282007/",
+        "published_at": null,
+        "collected_at": "2026-08-17T04:27:10.415159+00:00",
+        "relation": "potential",
+        "confidence": 62
+      },
+      {
+        "id": "1b6e24285394c9d33ab5",
+        "origin_type": "news",
+        "source": "The Kathmandu Post",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Trump orders Pentagon to cut back military exercises with South Korea",
+        "url": "https://kathmandupost.com/world/2026/08/17/trump-orders-pentagon-to-cut-back-military-exercises-with-south-korea",
+        "published_at": null,
+        "collected_at": "2026-08-17T04:27:10.415159+00:00",
+        "relation": "potential",
+        "confidence": 62
+      },
+      {
+        "id": "4d02b3a435cc8b559d4c",
+        "origin_type": "news",
+        "source": "Euronews",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Trump orders Pentagon to 'scale back' military drills with South Korea citing good relations with Kim Jong Un",
+        "url": "http://www.euronews.com/2026/08/17/trump-orders-pentagon-to-scale-back-military-drills-with-south-korea-citing-good-relations",
+        "published_at": "2026-08-17T03:57:48+00:00",
+        "collected_at": "2026-08-17T04:27:10.415159+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "65299990731180103389",
+    "title": "U.S. to tell partners they must pick sides in AI race with China",
+    "status": "报道中",
+    "category": "经贸/科技",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-17T04:32:04+00:00",
+    "last_seen": "2026-08-17T04:32:04+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "India"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "bbf499415b215fb5ed46",
+        "origin_type": "news",
+        "source": "The Hindu",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "U.S. to tell partners they must pick sides in AI race with China",
+        "url": "https://www.thehindu.com/sci-tech/technology/us-to-tell-partners-they-must-pick-sides-in-ai-race-with-china/article71354765.ece",
+        "published_at": "2026-08-17T04:32:04+00:00",
+        "collected_at": "2026-08-17T04:38:04.349127+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
     "id": "fc00446a9b305e279874",
     "title": "Kazakh, Austrian FMs discuss safety of Kazakh oil supplies to Europe via CPC",
     "status": "报道中",
@@ -394,44 +553,6 @@
     ]
   },
   {
-    "id": "709f9cd6e83d8bc43015",
-    "title": "La 'Lorcamanía': el regreso del poeta como ídolo de TikTok",
-    "status": "报道中",
-    "category": "其他",
-    "severity": "low",
-    "priority_score": 59,
-    "confidence_score": 40,
-    "importance_score": 37,
-    "china_relevance_score": 99,
-    "first_seen": "2026-08-17T04:06:47+00:00",
-    "last_seen": "2026-08-17T04:06:47+00:00",
-    "source_count": 1,
-    "news_count": 1,
-    "social_count": 0,
-    "platforms": [],
-    "countries": [
-      "Spain"
-    ],
-    "entities": [],
-    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
-    "evidence": [
-      {
-        "id": "2059a13ccf8ac598a616",
-        "origin_type": "news",
-        "source": "ABC España",
-        "source_kind": "news",
-        "platform": null,
-        "author": null,
-        "title": "La 'Lorcamanía': el regreso del poeta como ídolo de TikTok",
-        "url": "https://www.abc.es/cultura/lorcamania-regreso-poeta-idolo-tiktok-20260816012928-nt.html",
-        "published_at": "2026-08-17T04:06:47+00:00",
-        "collected_at": "2026-08-17T04:27:10.415159+00:00",
-        "relation": "direct",
-        "confidence": 94
-      }
-    ]
-  },
-  {
     "id": "feaeb4faeaf60626dcd6",
     "title": "Osun poll: 295 suspects arrested – Police",
     "status": "报道中",
@@ -508,6 +629,44 @@
     ]
   },
   {
+    "id": "e513324a0a983baf0eab",
+    "title": "Two killed after e-rickshaw battery blast triggers fire in Delhi godown",
+    "status": "报道中",
+    "category": "经贸/科技",
+    "severity": "high",
+    "priority_score": 58,
+    "confidence_score": 40,
+    "importance_score": 64,
+    "china_relevance_score": 55,
+    "first_seen": "2026-08-17T04:20:30+00:00",
+    "last_seen": "2026-08-17T04:20:30+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "India"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=India; 中国关联利益=中印边境, 印太, 供应链, 投资限制, 电信, 制造业, 南亚, 金砖合作; 中国关联实体/项目=Xiaomi India, Vivo India, Oppo India, BYD India, Huawei",
+    "evidence": [
+      {
+        "id": "9ab25e06d7c73abc0994",
+        "origin_type": "news",
+        "source": "The Hindu",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Two killed after e-rickshaw battery blast triggers fire in Delhi godown",
+        "url": "https://www.thehindu.com/news/cities/Delhi/e-rickshaw-battery-blast-triggers-fire-in-delhi-godown-people-killed/article71354877.ece",
+        "published_at": "2026-08-17T04:20:30+00:00",
+        "collected_at": "2026-08-17T04:38:04.349127+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
     "id": "ab93a5d48440b4b7e33a",
     "title": "Seven dead in stampede in Bihar’s Ashok Dham temple",
     "status": "报道中",
@@ -542,6 +701,44 @@
         "collected_at": "2026-08-17T04:27:10.415159+00:00",
         "relation": "potential",
         "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "709f9cd6e83d8bc43015",
+    "title": "La 'Lorcamanía': el regreso del poeta como ídolo de TikTok",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 58,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-17T04:06:47+00:00",
+    "last_seen": "2026-08-17T04:06:47+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Spain"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "2059a13ccf8ac598a616",
+        "origin_type": "news",
+        "source": "ABC España",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "La 'Lorcamanía': el regreso del poeta como ídolo de TikTok",
+        "url": "https://www.abc.es/cultura/lorcamania-regreso-poeta-idolo-tiktok-20260816012928-nt.html",
+        "published_at": "2026-08-17T04:06:47+00:00",
+        "collected_at": "2026-08-17T04:27:10.415159+00:00",
+        "relation": "direct",
+        "confidence": 94
       }
     ]
   },
@@ -591,7 +788,7 @@
     "severity": "low",
     "priority_score": 58,
     "confidence_score": 56,
-    "importance_score": 42,
+    "importance_score": 41,
     "china_relevance_score": 99,
     "first_seen": "2026-08-17T04:00:00+00:00",
     "last_seen": "2026-08-17T04:00:00+00:00",
@@ -1116,74 +1313,6 @@
     ]
   },
   {
-    "id": "df2ae4cbf13e47ca327d",
-    "title": "Trump orders Pentagon to 'substantially' reduce S. Korea-U.S. military exercises",
-    "status": "报道中",
-    "category": "安全/冲突",
-    "severity": "medium",
-    "priority_score": 56,
-    "confidence_score": 86,
-    "importance_score": 66,
-    "china_relevance_score": 55,
-    "first_seen": "2026-08-16T23:16:31+00:00",
-    "last_seen": "2026-08-17T04:27:10.415159+00:00",
-    "source_count": 3,
-    "news_count": 3,
-    "social_count": 0,
-    "platforms": [],
-    "countries": [
-      "South Korea",
-      "Nepal",
-      "United States"
-    ],
-    "entities": [],
-    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=South Korea; 中国关联利益=中韩关系, 半导体, 电池, 朝鲜半岛, 供应链, 对美技术政策; 中国关联实体/项目=Samsung China exposure, SK Hynix China fabs, LG Energy Solution | 事件关联地区=United States; 中国关联利益=中美关系, 贸易与关税, 科技与出口管制, 半导体, 人工智能, 金融制裁, 军事与印太, 台海; 中国关联实体/项目=Huawei, ZTE, SMIC, ByteDance, TikTok, DJI, CATL, BYD, China Telecom, China Mobile",
-    "evidence": [
-      {
-        "id": "ab08f41b618705973b86",
-        "origin_type": "news",
-        "source": "Yonhap News",
-        "source_kind": "news",
-        "platform": null,
-        "author": null,
-        "title": "Trump orders Pentagon to 'substantially' reduce S. Korea-U.S. military exercises",
-        "url": "https://en.yna.co.kr/view/AEN20260817000252315?section=national/diplomacy",
-        "published_at": null,
-        "collected_at": "2026-08-17T04:27:10.415159+00:00",
-        "relation": "potential",
-        "confidence": 62
-      },
-      {
-        "id": "1b6e24285394c9d33ab5",
-        "origin_type": "news",
-        "source": "The Kathmandu Post",
-        "source_kind": "news",
-        "platform": null,
-        "author": null,
-        "title": "Trump orders Pentagon to cut back military exercises with South Korea",
-        "url": "https://kathmandupost.com/world/2026/08/17/trump-orders-pentagon-to-cut-back-military-exercises-with-south-korea",
-        "published_at": null,
-        "collected_at": "2026-08-17T04:27:10.415159+00:00",
-        "relation": "potential",
-        "confidence": 62
-      },
-      {
-        "id": "50d5f672cd964280e7eb",
-        "origin_type": "news",
-        "source": "NBC News",
-        "source_kind": "news",
-        "platform": null,
-        "author": null,
-        "title": "Trump orders military to ‘substantially reduce’ joint exercises with South Korea",
-        "url": "https://www.nbcnews.com/politics/trump-administration/trump-orders-military-substantially-reduce-joint-exercises-south-korea-rcna592832",
-        "published_at": "2026-08-16T23:16:31+00:00",
-        "collected_at": "2026-08-17T04:27:10.415159+00:00",
-        "relation": "potential",
-        "confidence": 62
-      }
-    ]
-  },
-  {
     "id": "3e822b967d0cd8b16268",
     "title": "EU foreign chief plans fresh sanctions against Russia",
     "status": "报道中",
@@ -1294,6 +1423,73 @@
         "collected_at": "2026-08-17T04:27:10.415159+00:00",
         "relation": "direct",
         "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "df2ae4cbf13e47ca327d",
+    "title": "Trump orders Pentagon to 'substantially' reduce S. Korea-U.S. military exercises",
+    "status": "报道中",
+    "category": "安全/冲突",
+    "severity": "medium",
+    "priority_score": 53,
+    "confidence_score": 79,
+    "importance_score": 64,
+    "china_relevance_score": 55,
+    "first_seen": "2026-08-16T23:16:31+00:00",
+    "last_seen": "2026-08-17T04:38:04.349127+00:00",
+    "source_count": 2,
+    "news_count": 3,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "South Korea",
+      "United States"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=South Korea; 中国关联利益=中韩关系, 半导体, 电池, 朝鲜半岛, 供应链, 对美技术政策; 中国关联实体/项目=Samsung China exposure, SK Hynix China fabs, LG Energy Solution | 事件关联地区=United States; 中国关联利益=中美关系, 贸易与关税, 科技与出口管制, 半导体, 人工智能, 金融制裁, 军事与印太, 台海; 中国关联实体/项目=Huawei, ZTE, SMIC, ByteDance, TikTok, DJI, CATL, BYD, China Telecom, China Mobile",
+    "evidence": [
+      {
+        "id": "aee0583a6655dab36b49",
+        "origin_type": "news",
+        "source": "Yonhap News",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Trump orders Pentagon to 'substantially' reduce S. Korea-U.S. military exercises",
+        "url": "https://en.yna.co.kr/view/AEN20260817000253315?section=national/diplomacy",
+        "published_at": null,
+        "collected_at": "2026-08-17T04:38:04.349127+00:00",
+        "relation": "potential",
+        "confidence": 62
+      },
+      {
+        "id": "ab08f41b618705973b86",
+        "origin_type": "news",
+        "source": "Yonhap News",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Trump orders Pentagon to 'substantially' reduce S. Korea-U.S. military exercises",
+        "url": "https://en.yna.co.kr/view/AEN20260817000252315?section=national/diplomacy",
+        "published_at": null,
+        "collected_at": "2026-08-17T04:27:10.415159+00:00",
+        "relation": "potential",
+        "confidence": 62
+      },
+      {
+        "id": "50d5f672cd964280e7eb",
+        "origin_type": "news",
+        "source": "NBC News",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Trump orders military to ‘substantially reduce’ joint exercises with South Korea",
+        "url": "https://www.nbcnews.com/politics/trump-administration/trump-orders-military-substantially-reduce-joint-exercises-south-korea-rcna592832",
+        "published_at": "2026-08-16T23:16:31+00:00",
+        "collected_at": "2026-08-17T04:27:10.415159+00:00",
+        "relation": "potential",
+        "confidence": 62
       }
     ]
   },
@@ -1520,44 +1716,6 @@
         "author": null,
         "title": "Trump says US will reduce military exercises with South Korea The president cites his positive ties with North Korean leader and Seoul's lack of help with Iran",
         "url": "https://edition.cnn.com/2026/08/16/middleeast/trump-south-korea-military-exercises",
-        "published_at": null,
-        "collected_at": "2026-08-17T04:27:10.415159+00:00",
-        "relation": "potential",
-        "confidence": 62
-      }
-    ]
-  },
-  {
-    "id": "85ee0bb3a645b7d306a2",
-    "title": "Trump directs Pentagon to reduce military drills with South Korea",
-    "status": "报道中",
-    "category": "安全/冲突",
-    "severity": "medium",
-    "priority_score": 50,
-    "confidence_score": 40,
-    "importance_score": 50,
-    "china_relevance_score": 55,
-    "first_seen": "2026-08-17T04:27:10.415159+00:00",
-    "last_seen": "2026-08-17T04:27:10.415159+00:00",
-    "source_count": 1,
-    "news_count": 1,
-    "social_count": 0,
-    "platforms": [],
-    "countries": [
-      "United States"
-    ],
-    "entities": [],
-    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=United States; 中国关联利益=中美关系, 贸易与关税, 科技与出口管制, 半导体, 人工智能, 金融制裁, 军事与印太, 台海; 中国关联实体/项目=Huawei, ZTE, SMIC, ByteDance, TikTok, DJI, CATL, BYD, China Telecom, China Mobile | 事件关联地区=South Korea; 中国关联利益=中韩关系, 半导体, 电池, 朝鲜半岛, 供应链, 对美技术政策; 中国关联实体/项目=Samsung China exposure, SK Hynix China fabs, LG Energy Solution",
-    "evidence": [
-      {
-        "id": "a2c51620a1cc4fcb3ca8",
-        "origin_type": "news",
-        "source": "USA Today",
-        "source_kind": "news",
-        "platform": null,
-        "author": null,
-        "title": "Trump directs Pentagon to reduce military drills with South Korea",
-        "url": "https://www.usatoday.com/story/news/politics/2026/08/16/trump-united-states-south-korea-military-exercises-iran/91331282007/",
         "published_at": null,
         "collected_at": "2026-08-17T04:27:10.415159+00:00",
         "relation": "potential",
@@ -1832,44 +1990,6 @@
     ]
   },
   {
-    "id": "0d59b5ae971dc6498418",
-    "title": "Trump orders Pentagon to 'scale back' military drills with South Korea citing good relations with Kim Jong Un",
-    "status": "报道中",
-    "category": "安全/冲突",
-    "severity": "medium",
-    "priority_score": 50,
-    "confidence_score": 56,
-    "importance_score": 55,
-    "china_relevance_score": 55,
-    "first_seen": "2026-08-17T03:57:48+00:00",
-    "last_seen": "2026-08-17T03:57:48+00:00",
-    "source_count": 1,
-    "news_count": 1,
-    "social_count": 0,
-    "platforms": [],
-    "countries": [
-      "Europe"
-    ],
-    "entities": [],
-    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=European Union; 中国关联利益=中欧关系, 电动汽车, 电池, 反补贴调查, 投资审查, 关键原材料, 供应链, 出口管制; 中国关联实体/项目=BYD, CATL, SAIC, Geely, Huawei, ZTE, COSCO | 事件关联地区=United States; 中国关联利益=中美关系, 贸易与关税, 科技与出口管制, 半导体, 人工智能, 金融制裁, 军事与印太, 台海; 中国关联实体/项目=Huawei, ZTE, SMIC, ByteDance, TikTok, DJI, CATL, BYD, China Telecom, China Mobile | 事件关联地区=South Korea; 中国关联利益=中韩关系, 半导体, 电池, 朝鲜半岛, 供应链, 对美技术政策; 中国关联实体/项目=Samsung China exposure, SK Hynix China fabs, LG Energy Solution | 事件关联地区=Singapore; 中国关联利益=金融, 航运, 东盟, 中美竞争, 科技与数据, 中国企业海外总部; 中国关联实体/项目=Chinese tech regional headquarters, Singapore port",
-    "evidence": [
-      {
-        "id": "4d02b3a435cc8b559d4c",
-        "origin_type": "news",
-        "source": "Euronews",
-        "source_kind": "news",
-        "platform": null,
-        "author": null,
-        "title": "Trump orders Pentagon to 'scale back' military drills with South Korea citing good relations with Kim Jong Un",
-        "url": "http://www.euronews.com/2026/08/17/trump-orders-pentagon-to-scale-back-military-drills-with-south-korea-citing-good-relations",
-        "published_at": "2026-08-17T03:57:48+00:00",
-        "collected_at": "2026-08-17T04:27:10.415159+00:00",
-        "relation": "potential",
-        "confidence": 62
-      }
-    ]
-  },
-  {
     "id": "e3b4da6d041ffe48f9fe",
     "title": "Donald Trump announces reduction in scale and funding for joint US-South Korea military exercises",
     "status": "报道中",
@@ -1908,44 +2028,6 @@
     ]
   },
   {
-    "id": "bfe18558c10e0a3bf4a8",
-    "title": "Report: Israeli military prepares for possible escalation in Lebanon",
-    "status": "报道中",
-    "category": "安全/冲突",
-    "severity": "medium",
-    "priority_score": 50,
-    "confidence_score": 40,
-    "importance_score": 50,
-    "china_relevance_score": 55,
-    "first_seen": "2026-08-17T03:23:58+00:00",
-    "last_seen": "2026-08-17T03:23:58+00:00",
-    "source_count": 1,
-    "news_count": 1,
-    "social_count": 0,
-    "platforms": [],
-    "countries": [
-      "United Kingdom"
-    ],
-    "entities": [],
-    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=United Kingdom; 中国关联利益=中英关系, 金融, 香港议题, 投资审查, 科技, 核电, 教育, 情报安全; 中国关联实体/项目=Huawei, CGN, HSBC China exposure, TikTok | 事件关联地区=Israel; 中国关联利益=科技, 港口, 中东安全, 中美科技竞争, 基础设施; 中国关联实体/项目=Haifa port China-related discussions, Israeli tech investment",
-    "evidence": [
-      {
-        "id": "e0610edacef112eb2fca",
-        "origin_type": "news",
-        "source": "Middle East Eye",
-        "source_kind": "news",
-        "platform": null,
-        "author": null,
-        "title": "Report: Israeli military prepares for possible escalation in Lebanon",
-        "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-israeli-military-prepares-possible-escalation-lebanon",
-        "published_at": "2026-08-17T03:23:58+00:00",
-        "collected_at": "2026-08-17T04:27:10.415159+00:00",
-        "relation": "potential",
-        "confidence": 62
-      }
-    ]
-  },
-  {
     "id": "30f60c87005e0fabd2ab",
     "title": "Russia killed Austria’s dream of peace, but military service is also cheap labour",
     "status": "报道中",
@@ -1977,6 +2059,44 @@
         "title": "Russia killed Austria’s dream of peace, but military service is also cheap labour",
         "url": "https://euobserver.com/231569/russia-killed-austrias-dream-of-peace-but-military-service-is-also-cheap-labour/",
         "published_at": "2026-08-16T09:12:00+00:00",
+        "collected_at": "2026-08-17T04:27:10.415159+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "bfe18558c10e0a3bf4a8",
+    "title": "Report: Israeli military prepares for possible escalation in Lebanon",
+    "status": "报道中",
+    "category": "安全/冲突",
+    "severity": "medium",
+    "priority_score": 49,
+    "confidence_score": 40,
+    "importance_score": 50,
+    "china_relevance_score": 55,
+    "first_seen": "2026-08-17T03:23:58+00:00",
+    "last_seen": "2026-08-17T03:23:58+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "United Kingdom"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=United Kingdom; 中国关联利益=中英关系, 金融, 香港议题, 投资审查, 科技, 核电, 教育, 情报安全; 中国关联实体/项目=Huawei, CGN, HSBC China exposure, TikTok | 事件关联地区=Israel; 中国关联利益=科技, 港口, 中东安全, 中美科技竞争, 基础设施; 中国关联实体/项目=Haifa port China-related discussions, Israeli tech investment",
+    "evidence": [
+      {
+        "id": "e0610edacef112eb2fca",
+        "origin_type": "news",
+        "source": "Middle East Eye",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Report: Israeli military prepares for possible escalation in Lebanon",
+        "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-israeli-military-prepares-possible-escalation-lebanon",
+        "published_at": "2026-08-17T03:23:58+00:00",
         "collected_at": "2026-08-17T04:27:10.415159+00:00",
         "relation": "potential",
         "confidence": 62
@@ -2620,7 +2740,7 @@
     "severity": "medium",
     "priority_score": 48,
     "confidence_score": 56,
-    "importance_score": 54,
+    "importance_score": 53,
     "china_relevance_score": 55,
     "first_seen": "2026-08-16T23:42:14+00:00",
     "last_seen": "2026-08-16T23:42:14+00:00",
@@ -2736,6 +2856,386 @@
         "url": "https://punchng.com/2027-kwankwaso-explains-obi-alliance-declares-ganduje-yusuf-finished/?utm_source=rss.punchng.com&utm_medium=web",
         "published_at": "2026-08-17T04:59:32+00:00",
         "collected_at": "2026-08-17T04:27:10.415159+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "27d82274203179c86179",
+    "title": "Pakistan telecom sector faces test after Telenor-Ufone merger",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 42,
+    "confidence_score": 56,
+    "importance_score": 42,
+    "china_relevance_score": 55,
+    "first_seen": "2026-08-17T04:38:04.349127+00:00",
+    "last_seen": "2026-08-17T04:38:04.349127+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Japan"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=Japan; 中国关联利益=中日关系, 东海, 台海, 半导体设备, 出口管制, 钓鱼岛/尖阁诸岛, 供应链, 汽车; 中国关联实体/项目=Tokyo Electron, Rapidus, Japanese semiconductor controls | 事件关联地区=Pakistan; 中国关联利益=中巴经济走廊, 瓜达尔港, 中国公民安全, 电力, 基础设施, 反恐, 印巴关系; 中国关联实体/项目=CPEC, Gwadar Port, Chinese power projects",
+    "evidence": [
+      {
+        "id": "9948229794810af0362f",
+        "origin_type": "news",
+        "source": "Nikkei Asia",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Pakistan telecom sector faces test after Telenor-Ufone merger",
+        "url": "https://asia.nikkei.com/business/business-deals/pakistan-telecom-sector-faces-test-after-telenor-ufone-merger",
+        "published_at": null,
+        "collected_at": "2026-08-17T04:38:04.349127+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "b90a8342c4b3a31dcf2c",
+    "title": "Thailand Q2 GDP growth slows to 1.9% on energy, travel woes",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 42,
+    "confidence_score": 56,
+    "importance_score": 42,
+    "china_relevance_score": 55,
+    "first_seen": "2026-08-17T04:38:04.349127+00:00",
+    "last_seen": "2026-08-17T04:38:04.349127+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Japan"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=Japan; 中国关联利益=中日关系, 东海, 台海, 半导体设备, 出口管制, 钓鱼岛/尖阁诸岛, 供应链, 汽车; 中国关联实体/项目=Tokyo Electron, Rapidus, Japanese semiconductor controls | 事件关联地区=Thailand; 中国关联利益=电动汽车, 中泰铁路, 旅游, 东盟, 供应链; 中国关联实体/项目=BYD Thailand, Great Wall Motor Thailand, China-Thailand railway",
+    "evidence": [
+      {
+        "id": "69f3fcce0ed6da3d282d",
+        "origin_type": "news",
+        "source": "Nikkei Asia",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Thailand Q2 GDP growth slows to 1.9% on energy, travel woes",
+        "url": "https://asia.nikkei.com/economy/thailand-q2-gdp-growth-slows-to-1.9-on-energy-travel-woes",
+        "published_at": null,
+        "collected_at": "2026-08-17T04:38:04.349127+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "8fcf811500741f88d536",
+    "title": "A Democratic Civil War Is Brewing in Trump’s Home State",
+    "status": "报道中",
+    "category": "安全/冲突",
+    "severity": "low",
+    "priority_score": 42,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 55,
+    "first_seen": "2026-08-17T04:38:04.349127+00:00",
+    "last_seen": "2026-08-17T04:38:04.349127+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "United States"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=United States; 中国关联利益=中美关系, 贸易与关税, 科技与出口管制, 半导体, 人工智能, 金融制裁, 军事与印太, 台海; 中国关联实体/项目=Huawei, ZTE, SMIC, ByteDance, TikTok, DJI, CATL, BYD, China Telecom, China Mobile",
+    "evidence": [
+      {
+        "id": "9cc51065cd9cdb5cd902",
+        "origin_type": "news",
+        "source": "Newsweek",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "A Democratic Civil War Is Brewing in Trump’s Home State",
+        "url": "https://www.newsweek.com/a-democratic-civil-war-is-brewing-in-trumps-home-state-12325449",
+        "published_at": null,
+        "collected_at": "2026-08-17T04:38:04.349127+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "966da7d9c32eb538e20a",
+    "title": "Unions slam Carney government over silence on Bank of Canada’s use of replacement workers",
+    "status": "报道中",
+    "category": "海外利益",
+    "severity": "low",
+    "priority_score": 42,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 55,
+    "first_seen": "2026-08-17T04:38:04.349127+00:00",
+    "last_seen": "2026-08-17T04:38:04.349127+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Canada"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=Canada; 中国关联利益=中加关系, 关键矿产, 投资审查, 科技, 北极, 农产品; 中国关联实体/项目=Chinese mining investment reviews, Huawei",
+    "evidence": [
+      {
+        "id": "c9c5985cc24e34c3ded9",
+        "origin_type": "news",
+        "source": "Toronto Star",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Unions slam Carney government over silence on Bank of Canada’s use of replacement workers",
+        "url": "https://www.thestar.com/politics/federal/unions-slam-carney-government-over-silence-on-bank-of-canadas-use-of-replacement-workers/article_44bad0cb-200f-4706-b947-ff0072ac4f6e.html",
+        "published_at": null,
+        "collected_at": "2026-08-17T04:38:04.349127+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "221ced8c892c98bd8edb",
+    "title": "Industry minister says S. Korea, U.S. seek to resolve outstanding issues over investment plan",
+    "status": "报道中",
+    "category": "经贸/科技",
+    "severity": "low",
+    "priority_score": 42,
+    "confidence_score": 72,
+    "importance_score": 47,
+    "china_relevance_score": 55,
+    "first_seen": "2026-08-17T04:38:04.349127+00:00",
+    "last_seen": "2026-08-17T04:38:04.349127+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "South Korea"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=South Korea; 中国关联利益=中韩关系, 半导体, 电池, 朝鲜半岛, 供应链, 对美技术政策; 中国关联实体/项目=Samsung China exposure, SK Hynix China fabs, LG Energy Solution | 事件关联地区=United States; 中国关联利益=中美关系, 贸易与关税, 科技与出口管制, 半导体, 人工智能, 金融制裁, 军事与印太, 台海; 中国关联实体/项目=Huawei, ZTE, SMIC, ByteDance, TikTok, DJI, CATL, BYD, China Telecom, China Mobile",
+    "evidence": [
+      {
+        "id": "ade1ff99d8d6e0a816f8",
+        "origin_type": "news",
+        "source": "Yonhap News",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Industry minister says S. Korea, U.S. seek to resolve outstanding issues over investment plan",
+        "url": "https://en.yna.co.kr/view/AEN20260817001000320?section=economy-finance/economy",
+        "published_at": null,
+        "collected_at": "2026-08-17T04:38:04.349127+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "67d3dd1ca938c859cc28",
+    "title": "Did the former Hungarian prime minister send a message to PM Magyar and the government? Here’s what he had to say",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 42,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 55,
+    "first_seen": "2026-08-17T04:34:00+00:00",
+    "last_seen": "2026-08-17T04:34:00+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Hungary"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=Hungary; 中国关联利益=中匈关系, 新能源汽车, 电池产业, 中国制造业投资, 中东欧合作, 欧盟对华政策, 基础设施; 中国关联实体/项目=BYD Szeged, CATL Debrecen, Budapest-Belgrade railway, Bank of China",
+    "evidence": [
+      {
+        "id": "f462991af3494033df4d",
+        "origin_type": "news",
+        "source": "Daily News Hungary",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Did the former Hungarian prime minister send a message to PM Magyar and the government? Here’s what he had to say",
+        "url": "https://dailynewshungary.com/former-prime-minister-sends-message-magyar/",
+        "published_at": "2026-08-17T04:34:00+00:00",
+        "collected_at": "2026-08-17T04:38:04.349127+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "534b688e70eafce1ef5d",
+    "title": "Javier Milei y sus medidas, en vivo: el discurso en el acto homenaje a San Martín y el armado electoral de cara al 2027",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 42,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 55,
+    "first_seen": "2026-08-17T04:30:00+00:00",
+    "last_seen": "2026-08-17T04:30:00+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Argentina"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=Argentina; 中国关联利益=锂矿, 粮食, 金融合作, 太空观测设施, 一带一路, 金砖相关; 中国关联实体/项目=Chinese lithium investment, Neuquén space station",
+    "evidence": [
+      {
+        "id": "0ef75830804346b4f251",
+        "origin_type": "news",
+        "source": "La Nación Argentina",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Javier Milei y sus medidas, en vivo: el discurso en el acto homenaje a San Martín y el armado electoral de cara al 2027",
+        "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-discurso-en-el-acto-homenaje-a-san-martin-y-el-armado-nid17082026/",
+        "published_at": "2026-08-17T04:30:00+00:00",
+        "collected_at": "2026-08-17T04:38:04.349127+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "c02cacce5cc3f9d32ef1",
+    "title": "Trump’s shocking grab for power will create secrecy for him and his cronies",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 42,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 55,
+    "first_seen": "2026-08-17T04:30:00+00:00",
+    "last_seen": "2026-08-17T04:30:00+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Australia"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=Australia; 中国关联利益=中澳关系, 铁矿石, 锂矿, 关键矿产, AUKUS, 南太平洋, 农产品; 中国关联实体/项目=Pilbara iron ore China exposure, lithium supply chains",
+    "evidence": [
+      {
+        "id": "63ce4f377682fd8398ef",
+        "origin_type": "news",
+        "source": "Sydney Morning Herald",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Trump’s shocking grab for power will create secrecy for him and his cronies",
+        "url": "https://www.smh.com.au/world/north-america/trump-s-shocking-grab-for-power-will-create-secrecy-for-him-and-his-cronies-20260816-p60ope.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+        "published_at": "2026-08-17T04:30:00+00:00",
+        "collected_at": "2026-08-17T04:38:04.349127+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "e8fbc5558fa369cf6cd5",
+    "title": "US senator slams Trump, Hegseth over 'disgraceful' disregard for American troops",
+    "status": "报道中",
+    "category": "安全/冲突",
+    "severity": "low",
+    "priority_score": 42,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 55,
+    "first_seen": "2026-08-17T04:29:41+00:00",
+    "last_seen": "2026-08-17T04:29:41+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "United Kingdom"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=United Kingdom; 中国关联利益=中英关系, 金融, 香港议题, 投资审查, 科技, 核电, 教育, 情报安全; 中国关联实体/项目=Huawei, CGN, HSBC China exposure, TikTok | 事件关联地区=United States; 中国关联利益=中美关系, 贸易与关税, 科技与出口管制, 半导体, 人工智能, 金融制裁, 军事与印太, 台海; 中国关联实体/项目=Huawei, ZTE, SMIC, ByteDance, TikTok, DJI, CATL, BYD, China Telecom, China Mobile",
+    "evidence": [
+      {
+        "id": "59a500c85b6a512cc471",
+        "origin_type": "news",
+        "source": "Middle East Eye",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "US senator slams Trump, Hegseth over 'disgraceful' disregard for American troops",
+        "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-senator-slams-trump-hegseth-over-disgraceful-disregard-american",
+        "published_at": "2026-08-17T04:29:41+00:00",
+        "collected_at": "2026-08-17T04:38:04.349127+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "62c090c08792b9fcf5ff",
+    "title": "Government weighs Prabowo visit to monitor NTT quake response",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 42,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 55,
+    "first_seen": "2026-08-17T04:29:32+00:00",
+    "last_seen": "2026-08-17T04:29:32+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Indonesia"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=Indonesia; 中国关联利益=镍矿, 雅万高铁, 电池, 电动汽车, 南海周边, 矿业, 东盟; 中国关联实体/项目=Jakarta-Bandung High-Speed Railway, Tsingshan, CATL Indonesia",
+    "evidence": [
+      {
+        "id": "3df570e41782edb613ca",
+        "origin_type": "news",
+        "source": "ANTARA News",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Government weighs Prabowo visit to monitor NTT quake response",
+        "url": "https://en.antaranews.com/news/427372/government-weighs-prabowo-visit-to-monitor-ntt-quake-response",
+        "published_at": "2026-08-17T04:29:32+00:00",
+        "collected_at": "2026-08-17T04:38:04.349127+00:00",
         "relation": "potential",
         "confidence": 62
       }
@@ -4490,6 +4990,44 @@
     ]
   },
   {
+    "id": "c07a79ce2a4d76fcc411",
+    "title": "Calls for U.K. inquiry into ‘hounding’ of ex-Cambridge academic",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 42,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 55,
+    "first_seen": "2026-08-17T04:21:35+00:00",
+    "last_seen": "2026-08-17T04:21:35+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "India"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=India; 中国关联利益=中印边境, 印太, 供应链, 投资限制, 电信, 制造业, 南亚, 金砖合作; 中国关联实体/项目=Xiaomi India, Vivo India, Oppo India, BYD India, Huawei",
+    "evidence": [
+      {
+        "id": "258ab602139dd5b5f5e4",
+        "origin_type": "news",
+        "source": "The Hindu",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Calls for U.K. inquiry into ‘hounding’ of ex-Cambridge academic",
+        "url": "https://www.thehindu.com/news/international/calls-for-uk-inquiry-into-hounding-of-ex-cambridge-academic/article71354811.ece",
+        "published_at": "2026-08-17T04:21:35+00:00",
+        "collected_at": "2026-08-17T04:38:04.349127+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
     "id": "a40d3abef90441ff66b1",
     "title": "President Prabowo leads Indonesia's 81st Independence Day Ceremony",
     "status": "报道中",
@@ -4763,7 +5301,7 @@
     "severity": "low",
     "priority_score": 42,
     "confidence_score": 40,
-    "importance_score": 37,
+    "importance_score": 36,
     "china_relevance_score": 55,
     "first_seen": "2026-08-17T04:01:47+00:00",
     "last_seen": "2026-08-17T04:01:47+00:00",
@@ -4801,7 +5339,7 @@
     "severity": "low",
     "priority_score": 42,
     "confidence_score": 56,
-    "importance_score": 42,
+    "importance_score": 41,
     "china_relevance_score": 55,
     "first_seen": "2026-08-17T04:01:18+00:00",
     "last_seen": "2026-08-17T04:01:18+00:00",
@@ -4839,7 +5377,7 @@
     "severity": "low",
     "priority_score": 42,
     "confidence_score": 40,
-    "importance_score": 37,
+    "importance_score": 36,
     "china_relevance_score": 55,
     "first_seen": "2026-08-17T04:00:00+00:00",
     "last_seen": "2026-08-17T04:00:00+00:00",
@@ -4877,7 +5415,7 @@
     "severity": "low",
     "priority_score": 42,
     "confidence_score": 56,
-    "importance_score": 42,
+    "importance_score": 41,
     "china_relevance_score": 55,
     "first_seen": "2026-08-17T04:00:00+00:00",
     "last_seen": "2026-08-17T04:00:00+00:00",
@@ -4915,7 +5453,7 @@
     "severity": "low",
     "priority_score": 42,
     "confidence_score": 40,
-    "importance_score": 37,
+    "importance_score": 36,
     "china_relevance_score": 55,
     "first_seen": "2026-08-17T04:00:00+00:00",
     "last_seen": "2026-08-17T04:00:00+00:00",
@@ -4953,7 +5491,7 @@
     "severity": "low",
     "priority_score": 42,
     "confidence_score": 40,
-    "importance_score": 37,
+    "importance_score": 36,
     "china_relevance_score": 55,
     "first_seen": "2026-08-17T03:56:11+00:00",
     "last_seen": "2026-08-17T03:56:11+00:00",
@@ -4991,7 +5529,7 @@
     "severity": "low",
     "priority_score": 42,
     "confidence_score": 56,
-    "importance_score": 42,
+    "importance_score": 41,
     "china_relevance_score": 55,
     "first_seen": "2026-08-17T03:52:58+00:00",
     "last_seen": "2026-08-17T03:52:58+00:00",
@@ -5485,7 +6023,7 @@
     "severity": "low",
     "priority_score": 40,
     "confidence_score": 40,
-    "importance_score": 35,
+    "importance_score": 34,
     "china_relevance_score": 55,
     "first_seen": "2026-08-16T23:03:44+00:00",
     "last_seen": "2026-08-16T23:03:44+00:00",
@@ -5547,44 +6085,6 @@
         "title": "Trump snubs South Korea over ‘very good relationship’ with Kim",
         "url": "https://www.rt.com/news/644311-trump-south-korea-scale-back-drill/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
         "published_at": "2026-08-16T22:47:38+00:00",
-        "collected_at": "2026-08-17T04:27:10.415159+00:00",
-        "relation": "potential",
-        "confidence": 62
-      }
-    ]
-  },
-  {
-    "id": "ec1a62e7db0b27c136c8",
-    "title": "UNCOOPERATIVE GOVERNANCE: NMB coalition pushes to write off R23bn irregular spending, bypassing legal requisites",
-    "status": "报道中",
-    "category": "其他",
-    "severity": "low",
-    "priority_score": 40,
-    "confidence_score": 40,
-    "importance_score": 34,
-    "china_relevance_score": 55,
-    "first_seen": "2026-08-16T22:44:16+00:00",
-    "last_seen": "2026-08-16T22:44:16+00:00",
-    "source_count": 1,
-    "news_count": 1,
-    "social_count": 0,
-    "platforms": [],
-    "countries": [
-      "South Africa"
-    ],
-    "entities": [],
-    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=South Africa; 中国关联利益=金砖, 矿产, 汽车, 电力, 中非关系; 中国关联实体/项目=Chinese auto and energy investment",
-    "evidence": [
-      {
-        "id": "7125677bd44d04bae5c4",
-        "origin_type": "news",
-        "source": "Daily Maverick",
-        "source_kind": "news",
-        "platform": null,
-        "author": null,
-        "title": "UNCOOPERATIVE GOVERNANCE: NMB coalition pushes to write off R23bn irregular spending, bypassing legal requisites",
-        "url": "https://www.dailymaverick.co.za/article/2026-08-16-nmb-coalition-pushes-to-write-off-r23bn-irregular-spending-bypassing-legal-requisites/",
-        "published_at": "2026-08-16T22:44:16+00:00",
         "collected_at": "2026-08-17T04:27:10.415159+00:00",
         "relation": "potential",
         "confidence": 62
@@ -5775,6 +6275,44 @@
         "title": "Final election phase begins in Pakistan-administered Kashmir despite banned group’s boycott call",
         "url": "https://www.arabnews.com/node/2654152/world",
         "published_at": "2026-08-11T09:08:09+00:00",
+        "collected_at": "2026-08-17T04:27:10.415159+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "ec1a62e7db0b27c136c8",
+    "title": "UNCOOPERATIVE GOVERNANCE: NMB coalition pushes to write off R23bn irregular spending, bypassing legal requisites",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 39,
+    "confidence_score": 40,
+    "importance_score": 34,
+    "china_relevance_score": 55,
+    "first_seen": "2026-08-16T22:44:16+00:00",
+    "last_seen": "2026-08-16T22:44:16+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "South Africa"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=South Africa; 中国关联利益=金砖, 矿产, 汽车, 电力, 中非关系; 中国关联实体/项目=Chinese auto and energy investment",
+    "evidence": [
+      {
+        "id": "7125677bd44d04bae5c4",
+        "origin_type": "news",
+        "source": "Daily Maverick",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "UNCOOPERATIVE GOVERNANCE: NMB coalition pushes to write off R23bn irregular spending, bypassing legal requisites",
+        "url": "https://www.dailymaverick.co.za/article/2026-08-16-nmb-coalition-pushes-to-write-off-r23bn-irregular-spending-bypassing-legal-requisites/",
+        "published_at": "2026-08-16T22:44:16+00:00",
         "collected_at": "2026-08-17T04:27:10.415159+00:00",
         "relation": "potential",
         "confidence": 62
@@ -6587,7 +7125,7 @@
     "severity": "low",
     "priority_score": 36,
     "confidence_score": 40,
-    "importance_score": 31,
+    "importance_score": 30,
     "china_relevance_score": 55,
     "first_seen": "2026-08-16T13:34:05+00:00",
     "last_seen": "2026-08-16T13:34:05+00:00",
