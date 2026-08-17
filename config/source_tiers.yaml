@@ -1,0 +1,61 @@
+# 来源等级用于排序和多源印证，不代表“某媒体永远正确”。
+# Tier 1: 通讯社、官方机构、国际组织；Tier 2: 成熟主流媒体；Tier 3: 地区/专业媒体/智库；Tier 4: 聚合/社交。
+default_tier: 3
+
+tier1_patterns:
+  - Reuters
+  - Associated Press
+  - AP News
+  - AFP
+  - United Nations
+  - UN News
+  - NATO
+  - European Commission
+  - European Council
+  - U.S. Department
+  - White House
+  - State Department
+  - Treasury
+  - Ministry of Foreign Affairs
+  - Ministry of Defence
+  - Ministry of Defense
+
+tier2_patterns:
+  - BBC
+  - Financial Times
+  - Bloomberg
+  - Wall Street Journal
+  - New York Times
+  - Washington Post
+  - Guardian
+  - Al Jazeera
+  - Deutsche Welle
+  - France 24
+  - Euronews
+  - Nikkei
+  - CNA
+  - South China Morning Post
+  - Politico
+  - Foreign Policy
+  - Defense News
+  - Breaking Defense
+  - The Diplomat
+
+tier3_patterns:
+  - Institute
+  - Center
+  - Centre
+  - Council
+  - Foundation
+  - Think Tank
+
+publisher_families:
+  Reuters: [Reuters]
+  AP: [Associated Press, AP News]
+  BBC: [BBC]
+  FT: [Financial Times]
+  Bloomberg: [Bloomberg]
+  Guardian: [Guardian]
+  DW: [Deutsche Welle]
+  France24: [France 24]
+  AlJazeera: [Al Jazeera]
