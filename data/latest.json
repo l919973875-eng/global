@@ -1,69 +1,472 @@
 [
   {
-    "id": "d188e02cf23e91dc0408",
-    "title": "How US military funding propelled China’s robot dogs",
+    "id": "1e18bb43e728dcab2d16",
+    "title": "US Navy destroyer spent 4 days without power in South China Sea",
     "status": "报道中",
     "category": "安全/冲突",
     "severity": "medium",
-    "priority_score": 61,
-    "confidence_score": 63,
-    "importance_score": 50,
+    "priority_score": 67,
+    "confidence_score": 56,
+    "importance_score": 56,
     "china_relevance_score": 99,
-    "first_seen": "2026-08-19T03:17:50.219300+00:00",
-    "last_seen": "2026-08-19T03:17:50.219300+00:00",
-    "source_count": 2,
-    "news_count": 2,
+    "first_seen": "2026-08-20T03:17:07.807712+00:00",
+    "last_seen": "2026-08-20T03:17:07.807712+00:00",
+    "source_count": 1,
+    "news_count": 1,
     "social_count": 0,
     "platforms": [],
     "countries": [
-      "United States",
-      "Nepal"
+      "United States"
     ],
     "entities": [],
     "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
     "evidence": [
       {
-        "id": "cda3640846ed7e302828",
+        "id": "e29f2f11d7b316f40bae",
         "origin_type": "news",
         "source": "Defense News",
         "source_kind": "news",
         "platform": null,
         "author": null,
-        "title": "How US military funding propelled China’s robot dogs",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/08/18/how-us-military-funding-propelled-chinas-robot-dogs/",
+        "title": "US Navy destroyer spent 4 days without power in South China Sea",
+        "url": "https://www.defensenews.com/news/your-military/2026/08/19/us-navy-destroyer-spent-4-days-without-power-in-south-china-sea/",
         "published_at": null,
-        "collected_at": "2026-08-19T03:17:50.219300+00:00",
-        "relation": "direct",
-        "confidence": 94
-      },
-      {
-        "id": "867eb89c7ca1937fbcb0",
-        "origin_type": "news",
-        "source": "The Kathmandu Post",
-        "source_kind": "news",
-        "platform": null,
-        "author": null,
-        "title": "How US military funding propelled China’s robot dogs",
-        "url": "https://kathmandupost.com/world/2026/08/19/how-us-military-funding-propelled-china-s-robot-dogs",
-        "published_at": null,
-        "collected_at": "2026-08-19T03:17:50.219300+00:00",
+        "collected_at": "2026-08-20T03:17:07.807712+00:00",
         "relation": "direct",
         "confidence": 94
       }
     ]
   },
   {
-    "id": "631c3670d301254e7922",
-    "title": "Sacked Ukrainian defence minister calls for presidential election Martial law has been in place in Ukraine since February 2022, under which elections are suspended. 2 hrs ago Europe",
+    "id": "a004a94e8bb9408ba1de",
+    "title": "Bishop's stocks up, Stanford's down after failed leadership coup",
     "status": "报道中",
     "category": "其他",
     "severity": "critical",
-    "priority_score": 57,
-    "confidence_score": 56,
-    "importance_score": 74,
+    "priority_score": 66,
+    "confidence_score": 40,
+    "importance_score": 78,
     "china_relevance_score": 55,
-    "first_seen": "2026-08-19T03:17:50.219300+00:00",
-    "last_seen": "2026-08-19T03:17:50.219300+00:00",
+    "first_seen": "2026-08-20T03:17:07.807712+00:00",
+    "last_seen": "2026-08-20T03:17:07.807712+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "New Zealand"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=New Zealand; 中国关联利益=中新增贸, 南太平洋, 农产品, 安全合作; 中国关联实体/项目=China-New Zealand FTA",
+    "evidence": [
+      {
+        "id": "5d69507856e3f38793ed",
+        "origin_type": "news",
+        "source": "NZ Herald",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Bishop's stocks up, Stanford's down after failed leadership coup",
+        "url": "https://www.nzherald.co.nz/nz/politics/chris-bishops-stocks-up-erica-stanfords-down-after-failed-leadership-coup-audrey-young/premium/LYHY3I67XJDDNF3PRC2LMKZHGQ/",
+        "published_at": null,
+        "collected_at": "2026-08-20T03:17:07.807712+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "49945b5e06046b6eb1a9",
+    "title": "Chinese national in blue state charged with illegally voting in federal election under another man's name: DOJ",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "medium",
+    "priority_score": 66,
+    "confidence_score": 40,
+    "importance_score": 50,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-20T01:39:20+00:00",
+    "last_seen": "2026-08-20T01:39:20+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "United States"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "04dace698354b3d60b9a",
+        "origin_type": "news",
+        "source": "Fox News",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Chinese national in blue state charged with illegally voting in federal election under another man's name: DOJ",
+        "url": "https://www.foxnews.com/politics/chinese-national-blue-state-charged-illegally-voting-federal-election-another-mans-name-doj",
+        "published_at": "2026-08-20T01:39:20+00:00",
+        "collected_at": "2026-08-20T03:17:07.807712+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "38ffa8d7130954f6164b",
+    "title": "China blocks EU anti-subsidies probe of JD.com",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "medium",
+    "priority_score": 65,
+    "confidence_score": 40,
+    "importance_score": 49,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-19T22:52:02+00:00",
+    "last_seen": "2026-08-19T22:52:02+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "United States"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "c6091348a45dbef9a89a",
+        "origin_type": "news",
+        "source": "Semafor",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "China blocks EU anti-subsidies probe of JD.com",
+        "url": "https://www.semafor.com/article/08/19/2026/china-blocks-eu-anti-subsidies-probe-of-jdcom",
+        "published_at": "2026-08-19T22:52:02+00:00",
+        "collected_at": "2026-08-20T03:17:07.807712+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "b85513a6ad925dc913d8",
+    "title": "Russia, China to oppose Japan’s attempts to obtain nuclear weapons — Chinese ambassador",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-20T03:17:07.807712+00:00",
+    "last_seen": "2026-08-20T03:17:07.807712+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Russia"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "4e47ddbd22f8e680935a",
+        "origin_type": "news",
+        "source": "TASS",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Russia, China to oppose Japan’s attempts to obtain nuclear weapons — Chinese ambassador",
+        "url": "https://tass.com/world/2175387",
+        "published_at": null,
+        "collected_at": "2026-08-20T03:17:07.807712+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "7ab22a52461238c42334",
+    "title": "Chinese FM pledges to keep playing 'constructive role' for peace on Korean Peninsula",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 72,
+    "importance_score": 47,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-20T03:17:07.807712+00:00",
+    "last_seen": "2026-08-20T03:17:07.807712+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "South Korea"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "69196de63530dfa00aa0",
+        "origin_type": "news",
+        "source": "Yonhap News",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Chinese FM pledges to keep playing 'constructive role' for peace on Korean Peninsula",
+        "url": "https://en.yna.co.kr/view/AEN20260819000852315?section=national/diplomacy",
+        "published_at": null,
+        "collected_at": "2026-08-20T03:17:07.807712+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "e9f6bd6a982fc0ab9389",
+    "title": "Confusion at Arunachal arises as border with China not demarcated: Rijiju",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-20T03:17:07.807712+00:00",
+    "last_seen": "2026-08-20T03:17:07.807712+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "India"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "b2d5e91d93d129d9c9ac",
+        "origin_type": "news",
+        "source": "Hindustan Times",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Confusion at Arunachal arises as border with China not demarcated: Rijiju",
+        "url": "https://www.hindustantimes.com/india-news/confusion-at-arunachal-pradesh-arises-as-border-with-china-not-demarcated-kiren-rijiju-india-101787166425570.html",
+        "published_at": null,
+        "collected_at": "2026-08-20T03:17:07.807712+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "d14d87dd7ec7b42e8276",
+    "title": "TikTok may soon let users send money in DMs",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-20T03:17:07.807712+00:00",
+    "last_seen": "2026-08-20T03:17:07.807712+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Pakistan"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "159223644c2a1dc1311a",
+        "origin_type": "news",
+        "source": "The News International",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "TikTok may soon let users send money in DMs",
+        "url": "https://www.thenews.com.pk/latest/1412777-tiktok-may-soon-let-users-send-money-in-dms",
+        "published_at": null,
+        "collected_at": "2026-08-20T03:17:07.807712+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "d8605fd047908d7649cd",
+    "title": "2 Chinese cities stand among world's 10 most intelligent",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-20T03:17:07.807712+00:00",
+    "last_seen": "2026-08-20T03:17:07.807712+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Vietnam"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "5116b13833bf2a8f529d",
+        "origin_type": "news",
+        "source": "VnExpress International",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "2 Chinese cities stand among world's 10 most intelligent",
+        "url": "https://e.vnexpress.net/news/news/2-chinese-cities-stand-among-world-s-10-most-intelligent-5107772.html",
+        "published_at": null,
+        "collected_at": "2026-08-20T03:17:07.807712+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "206c5c13266ead162cbd",
+    "title": "Tropical Depression Neneng speeds up over east Taiwan",
+    "status": "报道中",
+    "category": "台海/印太",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-20T03:17:07.807712+00:00",
+    "last_seen": "2026-08-20T03:17:07.807712+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Philippines"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "a137c3939ade46e1bc84",
+        "origin_type": "news",
+        "source": "The Philippine Star",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Tropical Depression Neneng speeds up over east Taiwan",
+        "url": "https://www.philstar.com/headlines/weather/2026/08/20/2550586/tropical-depression-neneng-speeds-over-east-taiwan",
+        "published_at": null,
+        "collected_at": "2026-08-20T03:17:07.807712+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "415d3140bef94339c1e1",
+    "title": "So bad it's good: How 'terrible' Chinese animated film Niu Lai became a hit",
+    "status": "报道中",
+    "category": "经贸/科技",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-20T03:17:07.807712+00:00",
+    "last_seen": "2026-08-20T03:17:07.807712+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "04ec62801e0b1df95537",
+        "origin_type": "news",
+        "source": "The National",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "So bad it's good: How 'terrible' Chinese animated film Niu Lai became a hit",
+        "url": "https://www.thenationalnews.com/arts-culture/film-tv/2026/08/19/niu-lai-how-a-terrible-chinese-animated-film-became-an-unlikely-box-office-hit/",
+        "published_at": null,
+        "collected_at": "2026-08-20T03:17:07.807712+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "c76d2776686d8e0c814f",
+    "title": "BYD tries where others failed with tiny EV designed for Japan",
+    "status": "报道中",
+    "category": "经贸/科技",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-20T03:05:00+00:00",
+    "last_seen": "2026-08-20T03:05:00+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Japan"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "6b2b8b0c687ac8ff0348",
+        "origin_type": "news",
+        "source": "The Japan Times",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "BYD tries where others failed with tiny EV designed for Japan",
+        "url": "https://www.japantimes.co.jp/business/2026/08/20/companies/byd-racco-minicar-japan/",
+        "published_at": "2026-08-20T03:05:00+00:00",
+        "collected_at": "2026-08-20T03:17:07.807712+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "27ce34a62f72166b3a38",
+    "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives. 12 hrs ago Middle East",
+    "status": "报道中",
+    "category": "安全/冲突",
+    "severity": "high",
+    "priority_score": 58,
+    "confidence_score": 56,
+    "importance_score": 69,
+    "china_relevance_score": 55,
+    "first_seen": "2026-08-20T03:17:07.807712+00:00",
+    "last_seen": "2026-08-20T03:17:07.807712+00:00",
     "source_count": 1,
     "news_count": 1,
     "social_count": 0,
@@ -72,21 +475,363 @@
       "United Kingdom"
     ],
     "entities": [],
-    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=United Kingdom; 中国关联利益=中英关系, 金融, 香港议题, 投资审查, 科技, 核电, 教育, 情报安全; 中国关联实体/项目=Huawei, CGN, HSBC China exposure, TikTok | 事件关联地区=European Union; 中国关联利益=中欧关系, 电动汽车, 电池, 反补贴调查, 投资审查, 关键原材料, 供应链, 出口管制; 中国关联实体/项目=BYD, CATL, SAIC, Geely, Huawei, ZTE, COSCO | 事件关联地区=Ukraine; 中国关联利益=俄乌战争, 中国外交, 粮食, 黑海航运, 军民两用技术, 重建; 中国关联实体/项目=Chinese trade exposure",
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=United Kingdom; 中国关联利益=中英关系, 金融, 香港议题, 投资审查, 科技, 核电, 教育, 情报安全; 中国关联实体/项目=Huawei, CGN, HSBC China exposure, TikTok | 事件关联地区=Israel; 中国关联利益=科技, 港口, 中东安全, 中美科技竞争, 基础设施; 中国关联实体/项目=Haifa port China-related discussions, Israeli tech investment",
     "evidence": [
       {
-        "id": "a36c93f20b4d4b95d978",
+        "id": "1529f163de6ed2e3036e",
         "origin_type": "news",
         "source": "BBC News",
         "source_kind": "news",
         "platform": null,
         "author": null,
-        "title": "Sacked Ukrainian defence minister calls for presidential election Martial law has been in place in Ukraine since February 2022, under which elections are suspended. 2 hrs ago Europe",
-        "url": "https://www.bbc.com/news/articles/cdew8n9erlwo",
+        "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives. 12 hrs ago Middle East",
+        "url": "https://www.bbc.com/news/articles/crl7yjlpx2po",
         "published_at": null,
-        "collected_at": "2026-08-19T03:17:50.219300+00:00",
+        "collected_at": "2026-08-20T03:17:07.807712+00:00",
         "relation": "potential",
         "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "d5caeb5652cfe8205baa",
+    "title": "トランプ政権によるＩＣＣ所長ら制裁、国連事務総長が「深刻な懸念」…欧州首脳らも相次ぎＩＣＣ支持を表明",
+    "status": "报道中",
+    "category": "外交/制裁",
+    "severity": "high",
+    "priority_score": 58,
+    "confidence_score": 40,
+    "importance_score": 64,
+    "china_relevance_score": 55,
+    "first_seen": "2026-08-20T03:17:07.807712+00:00",
+    "last_seen": "2026-08-20T03:17:07.807712+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Japan"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=Japan; 中国关联利益=中日关系, 东海, 台海, 半导体设备, 出口管制, 钓鱼岛/尖阁诸岛, 供应链, 汽车; 中国关联实体/项目=Tokyo Electron, Rapidus, Japanese semiconductor controls",
+    "evidence": [
+      {
+        "id": "9de0c2ba13c64fc13ded",
+        "origin_type": "news",
+        "source": "Yomiuri Shimbun",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "トランプ政権によるＩＣＣ所長ら制裁、国連事務総長が「深刻な懸念」…欧州首脳らも相次ぎＩＣＣ支持を表明",
+        "url": "https://www.yomiuri.co.jp/world/20260820-GYT1T00116/",
+        "published_at": null,
+        "collected_at": "2026-08-20T03:17:07.807712+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "748ef8df7e74061ef3d9",
+    "title": "日本政府の談話「ｖｅｒｙ ｕｎｆｏｒｔｕｎａｔｅ」と抑制的…ＩＣＣ所長制裁、中露への「遺憾」より弱く",
+    "status": "报道中",
+    "category": "外交/制裁",
+    "severity": "high",
+    "priority_score": 58,
+    "confidence_score": 40,
+    "importance_score": 64,
+    "china_relevance_score": 55,
+    "first_seen": "2026-08-20T03:17:07.807712+00:00",
+    "last_seen": "2026-08-20T03:17:07.807712+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Japan"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=Japan; 中国关联利益=中日关系, 东海, 台海, 半导体设备, 出口管制, 钓鱼岛/尖阁诸岛, 供应链, 汽车; 中国关联实体/项目=Tokyo Electron, Rapidus, Japanese semiconductor controls",
+    "evidence": [
+      {
+        "id": "f2d58b1d8d00d7ef527a",
+        "origin_type": "news",
+        "source": "Yomiuri Shimbun",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "日本政府の談話「ｖｅｒｙ ｕｎｆｏｒｔｕｎａｔｅ」と抑制的…ＩＣＣ所長制裁、中露への「遺憾」より弱く",
+        "url": "https://www.yomiuri.co.jp/politics/20260820-GYT1T00118/",
+        "published_at": null,
+        "collected_at": "2026-08-20T03:17:07.807712+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "814f91b36e61bdace671",
+    "title": "LIVE | India & World News Today: SIT to probe Kolkata hotel fire that killed 9",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "high",
+    "priority_score": 58,
+    "confidence_score": 40,
+    "importance_score": 64,
+    "china_relevance_score": 55,
+    "first_seen": "2026-08-20T03:17:07.807712+00:00",
+    "last_seen": "2026-08-20T03:17:07.807712+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "India"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=India; 中国关联利益=中印边境, 印太, 供应链, 投资限制, 电信, 制造业, 南亚, 金砖合作; 中国关联实体/项目=Xiaomi India, Vivo India, Oppo India, BYD India, Huawei",
+    "evidence": [
+      {
+        "id": "0db2a01a18129f6db075",
+        "origin_type": "news",
+        "source": "WION",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "LIVE | India & World News Today: SIT to probe Kolkata hotel fire that killed 9",
+        "url": "https://www.wionews.com/world/live-blog-latest-india-world-news-today-live-updates-20-august-2026-trump-iran-campaign-us-debt-canada-trade-deal-kolkata-hotel-fire-breaking-news-headlines-1787187777486",
+        "published_at": null,
+        "collected_at": "2026-08-20T03:17:07.807712+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "9b594458ed2dae523081",
+    "title": "ICC condemns US sanctions on president, senior prosecutor, calls it ‘flagrant attack’",
+    "status": "报道中",
+    "category": "安全/冲突",
+    "severity": "high",
+    "priority_score": 58,
+    "confidence_score": 40,
+    "importance_score": 64,
+    "china_relevance_score": 55,
+    "first_seen": "2026-08-20T03:17:07.807712+00:00",
+    "last_seen": "2026-08-20T03:17:07.807712+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Pakistan"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=Pakistan; 中国关联利益=中巴经济走廊, 瓜达尔港, 中国公民安全, 电力, 基础设施, 反恐, 印巴关系; 中国关联实体/项目=CPEC, Gwadar Port, Chinese power projects | 事件关联地区=United States; 中国关联利益=中美关系, 贸易与关税, 科技与出口管制, 半导体, 人工智能, 金融制裁, 军事与印太, 台海; 中国关联实体/项目=Huawei, ZTE, SMIC, ByteDance, TikTok, DJI, CATL, BYD, China Telecom, China Mobile",
+    "evidence": [
+      {
+        "id": "739f6be5b298e20ee85e",
+        "origin_type": "news",
+        "source": "The News International",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "ICC condemns US sanctions on president, senior prosecutor, calls it ‘flagrant attack’",
+        "url": "https://www.thenews.com.pk/latest/1412781-icc-condemns-us-sanctions-on-president-senior-prosecutor-calls-it-flagrant-attack",
+        "published_at": null,
+        "collected_at": "2026-08-20T03:17:07.807712+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "4f5c97f590d6f8fc2a6d",
+    "title": "Explosion heard in Daraa region of southwestern Syria, state TV reports",
+    "status": "报道中",
+    "category": "安全/冲突",
+    "severity": "high",
+    "priority_score": 58,
+    "confidence_score": 40,
+    "importance_score": 64,
+    "china_relevance_score": 55,
+    "first_seen": "2026-08-20T03:17:07.807712+00:00",
+    "last_seen": "2026-08-20T03:17:07.807712+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Israel"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=Israel; 中国关联利益=科技, 港口, 中东安全, 中美科技竞争, 基础设施; 中国关联实体/项目=Haifa port China-related discussions, Israeli tech investment",
+    "evidence": [
+      {
+        "id": "c6ee36d1e4345631eec3",
+        "origin_type": "news",
+        "source": "Haaretz",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Explosion heard in Daraa region of southwestern Syria, state TV reports",
+        "url": "https://www.haaretz.com/israel-news/israel-security/2026-08-20/ty-article-live/trump-warns-of-tremendous-economic-consequences-for-countries-supporting-iran/000001a0-1cee-da03-abe9-3ffe6ad50000?liveBlogItemId=1446731407#1446731407",
+        "published_at": null,
+        "collected_at": "2026-08-20T03:17:07.807712+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "da6012c262abf8073380",
+    "title": "International Criminal Court: New US sanctions ‘a flagrant attack’ against its independence",
+    "status": "官方信号",
+    "category": "安全/冲突",
+    "severity": "high",
+    "priority_score": 58,
+    "confidence_score": 72,
+    "importance_score": 74,
+    "china_relevance_score": 55,
+    "first_seen": "2026-08-20T03:17:07.807712+00:00",
+    "last_seen": "2026-08-20T03:17:07.807712+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Global"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=Global; 中国关联利益=全球贸易, 金融, 能源, 粮食, 关键矿产, 航运, 核安全, 太空; 中国关联实体/项目=WTO, IMF, World Bank, IAEA, IEA, UN | 事件关联地区=United States; 中国关联利益=中美关系, 贸易与关税, 科技与出口管制, 半导体, 人工智能, 金融制裁, 军事与印太, 台海; 中国关联实体/项目=Huawei, ZTE, SMIC, ByteDance, TikTok, DJI, CATL, BYD, China Telecom, China Mobile",
+    "evidence": [
+      {
+        "id": "ef9ce07543815b1a365d",
+        "origin_type": "news",
+        "source": "UN News",
+        "source_kind": "official",
+        "platform": null,
+        "author": null,
+        "title": "International Criminal Court: New US sanctions ‘a flagrant attack’ against its independence",
+        "url": "https://news.un.org/en/story/2026/08/1168168",
+        "published_at": null,
+        "collected_at": "2026-08-20T03:17:07.807712+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "7251650e0996c131ff95",
+    "title": "Zambia: Arrests and detention of political opponents following election raises concern",
+    "status": "官方信号",
+    "category": "其他",
+    "severity": "high",
+    "priority_score": 58,
+    "confidence_score": 72,
+    "importance_score": 74,
+    "china_relevance_score": 55,
+    "first_seen": "2026-08-20T03:17:07.807712+00:00",
+    "last_seen": "2026-08-20T03:17:07.807712+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Global"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=Global; 中国关联利益=全球贸易, 金融, 能源, 粮食, 关键矿产, 航运, 核安全, 太空; 中国关联实体/项目=WTO, IMF, World Bank, IAEA, IEA, UN | 事件关联地区=Zambia; 中国关联利益=铜矿, 债务, 电力, 中国矿企; 中国关联实体/项目=CNMC Zambia, Chinese copper mining",
+    "evidence": [
+      {
+        "id": "6273d40ecd0b334b35e2",
+        "origin_type": "news",
+        "source": "UN News",
+        "source_kind": "official",
+        "platform": null,
+        "author": null,
+        "title": "Zambia: Arrests and detention of political opponents following election raises concern",
+        "url": "https://news.un.org/en/story/2026/08/1168169",
+        "published_at": null,
+        "collected_at": "2026-08-20T03:17:07.807712+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "de845c603d2b823a2bcc",
+    "title": "Missing Sydney bushwalker dead after her family was told she was found alive",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "high",
+    "priority_score": 58,
+    "confidence_score": 40,
+    "importance_score": 64,
+    "china_relevance_score": 55,
+    "first_seen": "2026-08-20T02:54:16+00:00",
+    "last_seen": "2026-08-20T02:54:16+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "New Zealand"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=New Zealand; 中国关联利益=中新增贸, 南太平洋, 农产品, 安全合作; 中国关联实体/项目=China-New Zealand FTA",
+    "evidence": [
+      {
+        "id": "5cb0935cd41151835272",
+        "origin_type": "news",
+        "source": "Stuff",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Missing Sydney bushwalker dead after her family was told she was found alive",
+        "url": "https://www.stuff.co.nz/world-news/361022678/missing-sydney-bushwalker-found-dead-nsw-bushland",
+        "published_at": "2026-08-20T02:54:16+00:00",
+        "collected_at": "2026-08-20T03:17:07.807712+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "9d3f9bf28a90414843c5",
+    "title": "China: Banco central mantém taxas básicas de juros inalteradas",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 58,
+    "confidence_score": 40,
+    "importance_score": 36,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-20T01:45:56+00:00",
+    "last_seen": "2026-08-20T01:45:56+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Brazil"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "b14266d039f8076d5bd1",
+        "origin_type": "news",
+        "source": "Valor Econômico",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "China: Banco central mantém taxas básicas de juros inalteradas",
+        "url": "https://valor.globo.com/financas/noticia/2026/08/19/china-banco-central-mantm-taxas-bsicas-de-juros-inalteradas.ghtml",
+        "published_at": "2026-08-20T01:45:56+00:00",
+        "collected_at": "2026-08-20T03:17:07.807712+00:00",
+        "relation": "direct",
+        "confidence": 94
       }
     ]
   }
