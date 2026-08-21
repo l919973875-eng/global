@@ -1,92 +1,944 @@
 [
   {
-    "id": "1e18bb43e728dcab2d16",
-    "title": "US Navy destroyer spent 4 days without power in South China Sea",
+    "id": "30499f02c184dc4287de",
+    "title": "US says it will impose ‘toughest sanctions in history’ on Iran",
     "status": "报道中",
-    "category": "安全/冲突",
-    "severity": "medium",
-    "priority_score": 58,
-    "confidence_score": 56,
-    "importance_score": 47,
+    "category": "外交/制裁",
+    "severity": "high",
+    "priority_score": 81,
+    "confidence_score": 54,
+    "importance_score": 70,
     "china_relevance_score": 99,
-    "first_seen": "2026-08-20T03:17:07.807712+00:00",
-    "last_seen": "2026-08-20T03:17:07.807712+00:00",
-    "source_count": 1,
-    "news_count": 1,
+    "first_seen": "2026-08-21T03:04:38+00:00",
+    "last_seen": "2026-08-21T04:47:14+00:00",
+    "source_count": 3,
+    "news_count": 3,
     "social_count": 0,
     "platforms": [],
     "countries": [
-      "United States"
+      "South Africa",
+      "Nepal",
+      "India"
     ],
     "entities": [],
-    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=South Africa; 中国关联利益=金砖, 矿产, 汽车, 电力, 中非关系; 中国关联实体/项目=Chinese auto and energy investment | 事件关联地区=United States; 中国关联利益=中美关系, 贸易与关税, 科技与出口管制, 半导体, 人工智能, 金融制裁, 军事与印太, 台海; 中国关联实体/项目=Huawei, ZTE, SMIC, ByteDance, TikTok, DJI, CATL, BYD, China Telecom, China Mobile | 事件关联地区=Iran; 中国关联利益=能源, 制裁, 核问题, 中东安全, 中伊合作; 中国关联实体/项目=China-Iran energy trade",
     "evidence": [
       {
-        "id": "e29f2f11d7b316f40bae",
+        "id": "a815ab35e18e0e921f77",
         "origin_type": "news",
-        "source": "Defense News",
+        "source": "Daily Maverick",
         "source_kind": "news",
         "platform": null,
         "author": null,
-        "title": "US Navy destroyer spent 4 days without power in South China Sea",
-        "url": "https://www.defensenews.com/news/your-military/2026/08/19/us-navy-destroyer-spent-4-days-without-power-in-south-china-sea/",
+        "title": "US says it will impose ‘toughest sanctions in history’ on Iran",
+        "url": "https://www.dailymaverick.co.za/article/2026-08-21-us-says-it-will-impose-toughest-sanctions-in-history-on-iran/",
+        "published_at": "2026-08-21T04:47:14+00:00",
+        "collected_at": "2026-08-21T03:35:26.537474+00:00",
+        "relation": "potential",
+        "confidence": 62
+      },
+      {
+        "id": "1d9d70f86c7e2675f366",
+        "origin_type": "news",
+        "source": "The Kathmandu Post",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "US says it will impose ‘toughest sanctions in history’ on Iran",
+        "url": "https://kathmandupost.com/world/2026/08/21/us-says-it-will-impose-toughest-sanctions-in-history-on-iran",
         "published_at": null,
-        "collected_at": "2026-08-20T03:17:07.807712+00:00",
+        "collected_at": "2026-08-21T03:35:26.537474+00:00",
+        "relation": "potential",
+        "confidence": 62
+      },
+      {
+        "id": "26d80bf5bdcbf67ee9a7",
+        "origin_type": "news",
+        "source": "The Hindu",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "West Asia LIVE: U.S. says it will impose 'toughest sanctions in history' on Iran",
+        "url": "https://www.thehindu.com/news/international/iran-us-war-live-updates-donald-trump-economic-sanctions-strait-of-hormuz-ceasefire-deal/article71372035.ece",
+        "published_at": "2026-08-21T03:04:38+00:00",
+        "collected_at": "2026-08-21T03:35:26.537474+00:00",
         "relation": "direct",
         "confidence": 94
       }
     ]
   },
   {
-    "id": "a004a94e8bb9408ba1de",
-    "title": "Bishop's stocks up, Stanford's down after failed leadership coup",
+    "id": "81047ab89608c38112df",
+    "title": "EQS Newswire : Autoworld Limited : 5 . 096 Million Units Exported in Six Months : Beyond the Headline Figure , China is Reshaping Global Automotive Rules",
+    "status": "报道中",
+    "category": "海外利益",
+    "severity": "low",
+    "priority_score": 64,
+    "confidence_score": 54,
+    "importance_score": 42,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-21T01:45:00+00:00",
+    "last_seen": "2026-08-21T02:00:00+00:00",
+    "source_count": 3,
+    "news_count": 3,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Germany",
+      "Philippines",
+      "New Zealand"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "2778a17368d3b056f595",
+        "origin_type": "news",
+        "source": "finanznachrichten.de",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "EQS Newswire : Autoworld Limited : 5 . 096 Million Units Exported in Six Months : Beyond the Headline Figure , China is Reshaping Global Automotive Rules",
+        "url": "https://www.finanznachrichten.de/nachrichten-2026-08/69369712-eqs-newswire-autoworld-limited-5-096-million-units-exported-in-six-months-beyond-the-headline-figure-china-is-reshaping-global-automotive-rules-023.htm",
+        "published_at": "2026-08-21T02:00:00+00:00",
+        "collected_at": "2026-08-21T03:35:26.537474+00:00",
+        "relation": "direct",
+        "confidence": 94
+      },
+      {
+        "id": "e3cf8053b09029f8ad9c",
+        "origin_type": "news",
+        "source": "manilatimes.net",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "5 . 096 Million Units Exported in Six Months : Beyond the Headline Figure , China is Reshaping Global Automotive Rules",
+        "url": "https://www.manilatimes.net/2026/08/21/tmt-newswire/media-outreach-newswire/5096-million-units-exported-in-six-months-beyond-the-headline-figure-china-is-reshaping-global-automotive-rules/2409716",
+        "published_at": "2026-08-21T02:00:00+00:00",
+        "collected_at": "2026-08-21T03:35:26.537474+00:00",
+        "relation": "direct",
+        "confidence": 94
+      },
+      {
+        "id": "721052772364689ec065",
+        "origin_type": "news",
+        "source": "livenews.co.nz",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "5 . 096 Million Units Exported in Six Months : Beyond the Headline Figure , China is Reshaping Global Automotive Rules – LiveNews . co . nz",
+        "url": "https://livenews.co.nz/2026/08/21/5-096-million-units-exported-in-six-months-beyond-the-headline-figure-china-is-reshaping-global-automotive-rules/",
+        "published_at": "2026-08-21T01:45:00+00:00",
+        "collected_at": "2026-08-21T03:35:26.537474+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "a7be6b67c29231b6aeba",
+    "title": "Brazil launches AI supercomputer push while balancing US and Chinese tech",
+    "status": "报道中",
+    "category": "经贸/科技",
+    "severity": "low",
+    "priority_score": 61,
+    "confidence_score": 63,
+    "importance_score": 45,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-21T01:38:37+00:00",
+    "last_seen": "2026-08-21T03:00:00+00:00",
+    "source_count": 2,
+    "news_count": 2,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "United States",
+      "Qatar"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "69638e426b30c26192ef",
+        "origin_type": "news",
+        "source": "aljazeera.com",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Brazil launches AI supercomputer push while balancing US and Chinese tech",
+        "url": "https://www.aljazeera.com/economy/2026/8/21/brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech",
+        "published_at": "2026-08-21T03:00:00+00:00",
+        "collected_at": "2026-08-21T03:35:26.537474+00:00",
+        "relation": "direct",
+        "confidence": 94
+      },
+      {
+        "id": "2a14b2006c3c8a03c335",
+        "origin_type": "news",
+        "source": "Al Jazeera",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Brazil launches AI supercomputer push while balancing US and Chinese tech",
+        "url": "https://www.aljazeera.com/economy/2026/8/21/brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech?traffic_source=rss",
+        "published_at": "2026-08-21T01:38:37+00:00",
+        "collected_at": "2026-08-21T03:35:26.537474+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "46ed71d5041139e167b6",
+    "title": "Chinese new energy vehicles gain ground in Italy",
     "status": "报道中",
     "category": "其他",
-    "severity": "critical",
-    "priority_score": 57,
+    "severity": "low",
+    "priority_score": 61,
+    "confidence_score": 46,
+    "importance_score": 40,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-21T01:45:00+00:00",
+    "last_seen": "2026-08-21T03:00:00+00:00",
+    "source_count": 2,
+    "news_count": 2,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "China",
+      "Greece"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "01dbbc50cc9bde04c0f2",
+        "origin_type": "news",
+        "source": "beijingbulletin.com",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Chinese new energy vehicles gain ground in Italy",
+        "url": "http://www.beijingbulletin.com/news/279254873/chinese-new-energy-vehicles-gain-ground-in-italy",
+        "published_at": "2026-08-21T03:00:00+00:00",
+        "collected_at": "2026-08-21T03:35:26.537474+00:00",
+        "relation": "direct",
+        "confidence": 94
+      },
+      {
+        "id": "24cc2b2c1f42cae8278c",
+        "origin_type": "news",
+        "source": "greekherald.com",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Chinese new energy vehicles gain ground in Italy",
+        "url": "http://www.greekherald.com/news/279254873/chinese-new-energy-vehicles-gain-ground-in-italy",
+        "published_at": "2026-08-21T01:45:00+00:00",
+        "collected_at": "2026-08-21T03:35:26.537474+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "b6ddf9820d606f9b0d24",
+    "title": "China Infrastructure & Logistics Group Strategically Partners with Wuhan New Materials to Enter the Blue Ocean of Port Protection New Materials",
+    "status": "报道中",
+    "category": "海外利益",
+    "severity": "medium",
+    "priority_score": 60,
     "confidence_score": 40,
-    "importance_score": 69,
-    "china_relevance_score": 55,
-    "first_seen": "2026-08-20T03:17:07.807712+00:00",
-    "last_seen": "2026-08-20T03:17:07.807712+00:00",
+    "importance_score": 44,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-20T11:27:00+00:00",
+    "last_seen": "2026-08-20T11:27:00+00:00",
     "source_count": 1,
     "news_count": 1,
     "social_count": 0,
     "platforms": [],
     "countries": [
-      "New Zealand"
+      "Laos"
     ],
     "entities": [],
-    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=New Zealand; 中国关联利益=中新增贸, 南太平洋, 农产品, 安全合作; 中国关联实体/项目=China-New Zealand FTA",
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
     "evidence": [
       {
-        "id": "5d69507856e3f38793ed",
+        "id": "59f96792627307da721b",
         "origin_type": "news",
-        "source": "NZ Herald",
+        "source": "Laotian Times",
         "source_kind": "news",
         "platform": null,
         "author": null,
-        "title": "Bishop's stocks up, Stanford's down after failed leadership coup",
-        "url": "https://www.nzherald.co.nz/nz/politics/chris-bishops-stocks-up-erica-stanfords-down-after-failed-leadership-coup-audrey-young/premium/LYHY3I67XJDDNF3PRC2LMKZHGQ/",
+        "title": "China Infrastructure & Logistics Group Strategically Partners with Wuhan New Materials to Enter the Blue Ocean of Port Protection New Materials",
+        "url": "https://laotiantimes.com/2026/08/20/china-infrastructure-logistics-group-strategically-partners-with-wuhan-new-materials-to-enter-the-blue-ocean-of-port-protection-new-materials/",
+        "published_at": "2026-08-20T11:27:00+00:00",
+        "collected_at": "2026-08-21T03:35:26.537474+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "5f6e4dc522dda958f591",
+    "title": "Hong Kong convicts activists in national security trial",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 56,
+    "importance_score": 42,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-21T03:35:26.537474+00:00",
+    "last_seen": "2026-08-21T03:35:26.537474+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Germany"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "468f34c09a6a5cd57ce2",
+        "origin_type": "news",
+        "source": "Deutsche Welle",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Hong Kong convicts activists in national security trial",
+        "url": "https://www.dw.com/en/hong-kong-convicts-activists-in-national-security-trial/a-78452415",
         "published_at": null,
-        "collected_at": "2026-08-20T03:17:07.807712+00:00",
+        "collected_at": "2026-08-21T03:35:26.537474+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "bc4e26e711cfe9c829d9",
+    "title": "Hong Kong Tiananmen vigil organizers convicted of inciting subversion",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 56,
+    "importance_score": 42,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-21T03:35:26.537474+00:00",
+    "last_seen": "2026-08-21T03:35:26.537474+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Japan"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "1c03729a460b56160446",
+        "origin_type": "news",
+        "source": "Nikkei Asia",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Hong Kong Tiananmen vigil organizers convicted of inciting subversion",
+        "url": "https://asia.nikkei.com/spotlight/hong-kong-security-law/hong-kong-tiananmen-vigil-organizers-convicted-of-inciting-subversion",
+        "published_at": null,
+        "collected_at": "2026-08-21T03:35:26.537474+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "ac73e84b1c4bea4e910e",
+    "title": "‘A slap in the face to the Irish public’: TikTok rejects Oireachtas invite after M9 crash",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-21T03:35:26.537474+00:00",
+    "last_seen": "2026-08-21T03:35:26.537474+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Ireland"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "e8a0766449c0d584322c",
+        "origin_type": "news",
+        "source": "Irish Times",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "‘A slap in the face to the Irish public’: TikTok rejects Oireachtas invite after M9 crash",
+        "url": "https://www.irishtimes.com/politics/2026/08/20/a-slap-in-the-face-to-the-irish-public-tiktok-rejects-oireachtas-invite-after-m9-crash/",
+        "published_at": null,
+        "collected_at": "2026-08-21T03:35:26.537474+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "147faa953eb7234a1276",
+    "title": "China urges S. Korea to seek friendly ties, blames U.S. for Korean tensions",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-21T03:35:26.537474+00:00",
+    "last_seen": "2026-08-21T03:35:26.537474+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Japan"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "85ec8ff795e46b73f14f",
+        "origin_type": "news",
+        "source": "Kyodo News",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "China urges S. Korea to seek friendly ties, blames U.S. for Korean tensions",
+        "url": "https://english.kyodonews.net/articles/-/82701",
+        "published_at": null,
+        "collected_at": "2026-08-21T03:35:26.537474+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "db207f4aaed383b641d6",
+    "title": "Senators give TikTok deadline over 'depraved' safety test",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-21T03:35:26.537474+00:00",
+    "last_seen": "2026-08-21T03:35:26.537474+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Pakistan"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "d5a1bc9e4c40766bdec2",
+        "origin_type": "news",
+        "source": "The News International",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Senators give TikTok deadline over 'depraved' safety test",
+        "url": "https://www.thenews.com.pk/latest/1412977-senators-give-tiktok-deadline-over-depraved-safety-test",
+        "published_at": null,
+        "collected_at": "2026-08-21T03:35:26.537474+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "1c5b12b43a6162cd2c80",
+    "title": "China hunts for lunar ice in one of solar system's coldest places",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-21T03:35:26.537474+00:00",
+    "last_seen": "2026-08-21T03:35:26.537474+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Singapore"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "683877b8ca5becbbbd7c",
+        "origin_type": "news",
+        "source": "Channel NewsAsia",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "China hunts for lunar ice in one of solar system's coldest places",
+        "url": "https://www.channelnewsasia.com/east-asia/china-lunar-ice-space-mission-moon-south-pole-6332311",
+        "published_at": null,
+        "collected_at": "2026-08-21T03:35:26.537474+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "632b4d38136f1c124c4f",
+    "title": "Immigration busts syndicate linked to blacklisted Chinese nationals, love scams",
+    "status": "报道中",
+    "category": "外交/制裁",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-21T03:35:26.537474+00:00",
+    "last_seen": "2026-08-21T03:35:26.537474+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Malaysia"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "b176b2a3c2b8290c4b27",
+        "origin_type": "news",
+        "source": "The Star Malaysia",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Immigration busts syndicate linked to blacklisted Chinese nationals, love scams",
+        "url": "https://www.thestar.com.my/news/nation/2026/08/21/immigration-busts-syndicate-linked-to-blacklisted-chinese-nationals-love-scams",
+        "published_at": null,
+        "collected_at": "2026-08-21T03:35:26.537474+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "55255a791408b9399bff",
+    "title": "King visits Shenzhen showcase of Chinese companies, meets their senior executives",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-21T03:35:26.537474+00:00",
+    "last_seen": "2026-08-21T03:35:26.537474+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Jordan"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "7bcb1de4518a2f079375",
+        "origin_type": "news",
+        "source": "Jordan Times",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "King visits Shenzhen showcase of Chinese companies, meets their senior executives",
+        "url": "https://jordantimes.com/news/local/king-visits-shenzhen-showcase-of-chinese-companies-operating-in-advanced-air-mobility-robotics",
+        "published_at": null,
+        "collected_at": "2026-08-21T03:35:26.537474+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "678364f97d0886613d8b",
+    "title": "National World Bank likely to support second phase of Dar es Salaam Port project 11 hours ago - 3 min read",
+    "status": "报道中",
+    "category": "海外利益",
+    "severity": "medium",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 50,
+    "china_relevance_score": 79,
+    "first_seen": "2026-08-21T03:35:26.537474+00:00",
+    "last_seen": "2026-08-21T03:35:26.537474+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Tanzania"
+    ],
+    "entities": [
+      "World Bank"
+    ],
+    "reason": "命中中国海外关联企业/项目；事件关联地区=Tanzania; 中国关联利益=港口, 矿业, 铁路, 东非合作; 中国关联实体/项目=Bagamoyo port discussions, Chinese mining investment | 事件关联地区=Global; 中国关联利益=全球贸易, 金融, 能源, 粮食, 关键矿产, 航运, 核安全, 太空; 中国关联实体/项目=WTO, IMF, World Bank, IAEA, IEA, UN",
+    "evidence": [
+      {
+        "id": "6c76a368b245817fe371",
+        "origin_type": "news",
+        "source": "The Citizen Tanzania",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "National World Bank likely to support second phase of Dar es Salaam Port project 11 hours ago - 3 min read",
+        "url": "https://www.thecitizen.co.tz/tanzania/news/national/world-bank-likely-to-support-second-phase-of-dar-es-salaam-port-project-5565234",
+        "published_at": null,
+        "collected_at": "2026-08-21T03:35:26.537474+00:00",
+        "relation": "indirect",
+        "confidence": 84
+      }
+    ]
+  },
+  {
+    "id": "3be5ea2c8ae8d37ce019",
+    "title": "After two decades, China is preparing its boldest Moon mission yet",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-21T03:35:26.537474+00:00",
+    "last_seen": "2026-08-21T03:35:26.537474+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Australia"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "62fbedc77022b2a81831",
+        "origin_type": "news",
+        "source": "SBS News",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "After two decades, China is preparing its boldest Moon mission yet",
+        "url": "https://www.sbs.com.au/news/article/china-preparing-moon-mission/cjuayau29",
+        "published_at": null,
+        "collected_at": "2026-08-21T03:35:26.537474+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "c53d4f95d14693f76846",
+    "title": "Why the music of Zhou Yunpeng continues to resonate in a rapidly changing China",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-21T03:26:21+00:00",
+    "last_seen": "2026-08-21T03:26:21+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "India"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "e463261f40e190e0f3f0",
+        "origin_type": "news",
+        "source": "The Hindu",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Why the music of Zhou Yunpeng continues to resonate in a rapidly changing China",
+        "url": "https://www.thehindu.com/society/zhou-yunpeng-folk-singer-beijing-people-social-issues-china/article71359689.ece",
+        "published_at": "2026-08-21T03:26:21+00:00",
+        "collected_at": "2026-08-21T03:35:26.537474+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "0ec773507d007d882a81",
+    "title": "U.S. designates American held by China as wrongfully detained",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-21T03:17:00+00:00",
+    "last_seen": "2026-08-21T03:17:00+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Japan"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "4f1d48a198325b59d990",
+        "origin_type": "news",
+        "source": "The Japan Times",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "U.S. designates American held by China as wrongfully detained",
+        "url": "https://www.japantimes.co.jp/news/2026/08/21/world/politics/american-china-wrongfully-detained/",
+        "published_at": "2026-08-21T03:17:00+00:00",
+        "collected_at": "2026-08-21T03:35:26.537474+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "89b0b8beaa64ce8af2b5",
+    "title": "Ex-Google engineer’s conviction for stealing AI secrets partially overturned",
+    "status": "报道中",
+    "category": "经贸/科技",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-21T03:15:41+00:00",
+    "last_seen": "2026-08-21T03:15:41+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Philippines"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "971055507c5ba522d34f",
+        "origin_type": "news",
+        "source": "Rappler",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Ex-Google engineer’s conviction for stealing AI secrets partially overturned",
+        "url": "https://www.rappler.com/technology/ex-google-engineer-linwei-ding-conviction-stealing-ai-secrets-partially-overturned/",
+        "published_at": "2026-08-21T03:15:41+00:00",
+        "collected_at": "2026-08-21T03:35:26.537474+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "c3a5f6af2718e5105c02",
+    "title": "N.K. leader's sister says reduced military exercise put Seoul 'in poor plight of canceling war games'",
+    "status": "报道中",
+    "category": "安全/冲突",
+    "severity": "high",
+    "priority_score": 58,
+    "confidence_score": 72,
+    "importance_score": 74,
+    "china_relevance_score": 55,
+    "first_seen": "2026-08-21T03:35:26.537474+00:00",
+    "last_seen": "2026-08-21T03:35:26.537474+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "South Korea"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=South Korea; 中国关联利益=中韩关系, 半导体, 电池, 朝鲜半岛, 供应链, 对美技术政策; 中国关联实体/项目=Samsung China exposure, SK Hynix China fabs, LG Energy Solution",
+    "evidence": [
+      {
+        "id": "e51816b2999f3b528d12",
+        "origin_type": "news",
+        "source": "Yonhap News",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "N.K. leader's sister says reduced military exercise put Seoul 'in poor plight of canceling war games'",
+        "url": "https://en.yna.co.kr/view/AEN20260820011651320?section=nk/nk",
+        "published_at": null,
+        "collected_at": "2026-08-21T03:35:26.537474+00:00",
         "relation": "potential",
         "confidence": 62
       }
     ]
   },
   {
-    "id": "49945b5e06046b6eb1a9",
-    "title": "Chinese national in blue state charged with illegally voting in federal election under another man's name: DOJ",
+    "id": "1ff1fdc6f28a3bd41f24",
+    "title": "增品扩面 再突破 中国人寿财险甘肃省分公司填补全省马鹿林麝养殖保障空白 _ 中华网",
     "status": "报道中",
     "category": "其他",
-    "severity": "medium",
-    "priority_score": 57,
+    "severity": "low",
+    "priority_score": 58,
     "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-21T03:00:00+00:00",
+    "last_seen": "2026-08-21T03:00:00+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "China"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "25677cdc9052f8e701b8",
+        "origin_type": "news",
+        "source": "m.tech.china.com",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "增品扩面 再突破 中国人寿财险甘肃省分公司填补全省马鹿林麝养殖保障空白 _ 中华网",
+        "url": "https://m.tech.china.com/redian/2026/0821/082026_1946104.html",
+        "published_at": "2026-08-21T03:00:00+00:00",
+        "collected_at": "2026-08-21T03:35:26.537474+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "afb375945863cd1ab414",
+    "title": "US warns allies and China to join Iran economic pressure campaign",
+    "status": "报道中",
+    "category": "安全/冲突",
+    "severity": "low",
+    "priority_score": 58,
+    "confidence_score": 56,
     "importance_score": 41,
     "china_relevance_score": 99,
-    "first_seen": "2026-08-20T01:39:20+00:00",
-    "last_seen": "2026-08-20T01:39:20+00:00",
+    "first_seen": "2026-08-21T02:38:09+00:00",
+    "last_seen": "2026-08-21T02:38:09+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "France"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "3484fc075bb553e1b59d",
+        "origin_type": "news",
+        "source": "France 24",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "US warns allies and China to join Iran economic pressure campaign",
+        "url": "https://www.france24.com/en/middle-east/20260821-us-warns-allies-and-china-to-join-iran-economic-pressure-campaign",
+        "published_at": "2026-08-21T02:38:09+00:00",
+        "collected_at": "2026-08-21T03:35:26.537474+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "c7e4bd6cb21682be0d79",
+    "title": "US vows to 'collapse' Iran with new sanctions as energy prices spike",
+    "status": "报道中",
+    "category": "外交/制裁",
+    "severity": "high",
+    "priority_score": 57,
+    "confidence_score": 40,
+    "importance_score": 64,
+    "china_relevance_score": 55,
+    "first_seen": "2026-08-21T02:21:02+00:00",
+    "last_seen": "2026-08-21T02:21:02+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "United Kingdom"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=United Kingdom; 中国关联利益=中英关系, 金融, 香港议题, 投资审查, 科技, 核电, 教育, 情报安全; 中国关联实体/项目=Huawei, CGN, HSBC China exposure, TikTok | 事件关联地区=United States; 中国关联利益=中美关系, 贸易与关税, 科技与出口管制, 半导体, 人工智能, 金融制裁, 军事与印太, 台海; 中国关联实体/项目=Huawei, ZTE, SMIC, ByteDance, TikTok, DJI, CATL, BYD, China Telecom, China Mobile | 事件关联地区=Iran; 中国关联利益=能源, 制裁, 核问题, 中东安全, 中伊合作; 中国关联实体/项目=China-Iran energy trade",
+    "evidence": [
+      {
+        "id": "3fc6e47623b27c00e14f",
+        "origin_type": "news",
+        "source": "Middle East Eye",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "US vows to 'collapse' Iran with new sanctions as energy prices spike",
+        "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-vows-collapse-iran-new-sanctions-energy-prices-spike",
+        "published_at": "2026-08-21T02:21:02+00:00",
+        "collected_at": "2026-08-21T03:35:26.537474+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "3a744ea34254c1bc93cd",
+    "title": "China closes the gap in AI race with US",
+    "status": "报道中",
+    "category": "经贸/科技",
+    "severity": "low",
+    "priority_score": 57,
+    "confidence_score": 40,
+    "importance_score": 35,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-20T22:36:10+00:00",
+    "last_seen": "2026-08-20T22:36:10+00:00",
     "source_count": 1,
     "news_count": 1,
     "social_count": 0,
@@ -98,16 +950,92 @@
     "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
     "evidence": [
       {
-        "id": "04dace698354b3d60b9a",
+        "id": "e1fcc2678d4c6e1b9785",
         "origin_type": "news",
-        "source": "Fox News",
+        "source": "Semafor",
         "source_kind": "news",
         "platform": null,
         "author": null,
-        "title": "Chinese national in blue state charged with illegally voting in federal election under another man's name: DOJ",
-        "url": "https://www.foxnews.com/politics/chinese-national-blue-state-charged-illegally-voting-federal-election-another-mans-name-doj",
-        "published_at": "2026-08-20T01:39:20+00:00",
-        "collected_at": "2026-08-20T03:17:07.807712+00:00",
+        "title": "China closes the gap in AI race with US",
+        "url": "https://www.semafor.com/article/08/20/2026/china-closes-the-gap-in-ai-race-with-us",
+        "published_at": "2026-08-20T22:36:10+00:00",
+        "collected_at": "2026-08-21T03:35:26.537474+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "1a2a71a0ec45262d41c2",
+    "title": "The anti-ballistic missile shortage",
+    "status": "报道中",
+    "category": "安全/冲突",
+    "severity": "critical",
+    "priority_score": 57,
+    "confidence_score": 40,
+    "importance_score": 69,
+    "china_relevance_score": 55,
+    "first_seen": "2026-08-20T05:29:37+00:00",
+    "last_seen": "2026-08-20T05:29:37+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Australia"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=Australia; 中国关联利益=中澳关系, 铁矿石, 锂矿, 关键矿产, AUKUS, 南太平洋, 农产品; 中国关联实体/项目=Pilbara iron ore China exposure, lithium supply chains | 事件关联地区=United States; 中国关联利益=中美关系, 贸易与关税, 科技与出口管制, 半导体, 人工智能, 金融制裁, 军事与印太, 台海; 中国关联实体/项目=Huawei, ZTE, SMIC, ByteDance, TikTok, DJI, CATL, BYD, China Telecom, China Mobile | 事件关联地区=Iran; 中国关联利益=能源, 制裁, 核问题, 中东安全, 中伊合作; 中国关联实体/项目=China-Iran energy trade",
+    "evidence": [
+      {
+        "id": "612520b3f7902f1100db",
+        "origin_type": "news",
+        "source": "Australian Strategic Policy Institute (ASPI)",
+        "source_kind": "think_tank",
+        "platform": null,
+        "author": null,
+        "title": "The anti-ballistic missile shortage",
+        "url": "https://www.aspistrategist.org.au/the-anti-ballistic-missile-shortage/",
+        "published_at": "2026-08-20T05:29:37+00:00",
+        "collected_at": "2026-08-21T03:35:26.537474+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "a3f4903b020d885db517",
+    "title": "Eurasian Cinema Academy award screenings to begin in China",
+    "status": "报道中",
+    "category": "安全/冲突",
+    "severity": "low",
+    "priority_score": 55,
+    "confidence_score": 40,
+    "importance_score": 34,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-20T19:54:39+00:00",
+    "last_seen": "2026-08-20T19:54:39+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Russia"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "4053b8161175ee9c725c",
+        "origin_type": "news",
+        "source": "RT",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Eurasian Cinema Academy award screenings to begin in China",
+        "url": "https://www.rt.com/pop-culture/644454-eurasian-cinema-academy-award-screenings-china/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "published_at": "2026-08-20T19:54:39+00:00",
+        "collected_at": "2026-08-21T03:35:26.537474+00:00",
         "relation": "direct",
         "confidence": 94
       }
