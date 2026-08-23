@@ -1,13 +1,537 @@
 [
   {
+    "id": "c08cb0036afff3033a70",
+    "title": "WATCH: Chinese humanoid robots beat Usain Bolt's 100m record at Beijing games",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 65,
+    "confidence_score": 54,
+    "importance_score": 43,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-23T03:35:12.073988+00:00",
+    "last_seen": "2026-08-23T03:35:12.073988+00:00",
+    "source_count": 3,
+    "news_count": 3,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "India",
+      "Nepal",
+      "Sri Lanka"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "c1ce1dc4a1bd43f7f13b",
+        "origin_type": "news",
+        "source": "WION",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "WATCH: Chinese humanoid robots beat Usain Bolt's 100m record at Beijing games",
+        "url": "https://www.wionews.com/trending/watch-chinese-humanoid-robots-beat-usain-bolt-s-100m-record-at-world-humanoid-robot-games-1787453863341",
+        "published_at": null,
+        "collected_at": "2026-08-23T03:35:12.073988+00:00",
+        "relation": "direct",
+        "confidence": 94
+      },
+      {
+        "id": "306b95f184ada27f40fd",
+        "origin_type": "news",
+        "source": "The Kathmandu Post",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Chinese robots beat Usain Bolt’s 100m world record at Beijing games",
+        "url": "https://kathmandupost.com/science-technology/2026/08/23/chinese-robots-beat-usain-bolt-s-100m-world-record-at-beijing-games",
+        "published_at": null,
+        "collected_at": "2026-08-23T03:35:12.073988+00:00",
+        "relation": "direct",
+        "confidence": 94
+      },
+      {
+        "id": "cdbf751968ff68e157a0",
+        "origin_type": "news",
+        "source": "Daily Mirror Sri Lanka",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Chinese robots beat Usain Bolt’s 100m world record at Beijing games",
+        "url": "https://www.dailymirror.lk/breaking-news/Chinese-robots-beat-Usain-Bolts-100m-world-record-at-Beijing-games/108-348689",
+        "published_at": null,
+        "collected_at": "2026-08-23T03:35:12.073988+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "0574bcf1168dbda88c60",
+    "title": "Taiwan's security council quietly steps up as architect of China strategy",
+    "status": "报道中",
+    "category": "台海/印太",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 56,
+    "importance_score": 42,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-23T03:35:12.073988+00:00",
+    "last_seen": "2026-08-23T03:35:12.073988+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Japan"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "ed15a32ccaa0bc220480",
+        "origin_type": "news",
+        "source": "Nikkei Asia",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Taiwan's security council quietly steps up as architect of China strategy",
+        "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-s-security-council-quietly-steps-up-as-architect-of-china-strategy",
+        "published_at": null,
+        "collected_at": "2026-08-23T03:35:12.073988+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "92ecf919d81e597453da",
+    "title": "She was a trad wife. Now she's 53, divorced and posting on TikTok",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-23T03:35:12.073988+00:00",
+    "last_seen": "2026-08-23T03:35:12.073988+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "United States"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "27f52d009638912823e4",
+        "origin_type": "news",
+        "source": "USA Today",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "She was a trad wife. Now she's 53, divorced and posting on TikTok",
+        "url": "https://www.usatoday.com/story/life/health-wellness/2026/08/22/former-trad-wives-now-divorced-warning-young-women/91304292007/",
+        "published_at": null,
+        "collected_at": "2026-08-23T03:35:12.073988+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "a6dd016ae2d3969cb90d",
+    "title": "中国で「世界ヒト型ロボット運動会」開幕 100メートル走9秒32",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 56,
+    "importance_score": 42,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-23T03:35:12.073988+00:00",
+    "last_seen": "2026-08-23T03:35:12.073988+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Japan"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "37f731e7f29d78b1d915",
+        "origin_type": "news",
+        "source": "Nikkei",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "中国で「世界ヒト型ロボット運動会」開幕 100メートル走9秒32",
+        "url": "https://www.nikkei.com/article/DGXZQOGM220TI0S6A820C2000000/",
+        "published_at": null,
+        "collected_at": "2026-08-23T03:35:12.073988+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "f846d805a433ea966df7",
+    "title": "中国の人型ロボット、１００ｍ走でウサイン・ボルト超え９秒３２…ゴール後はマットに激突し炎上",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-23T03:35:12.073988+00:00",
+    "last_seen": "2026-08-23T03:35:12.073988+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Japan"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "b7d65e791a9bf229c080",
+        "origin_type": "news",
+        "source": "Yomiuri Shimbun",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "中国の人型ロボット、１００ｍ走でウサイン・ボルト超え９秒３２…ゴール後はマットに激突し炎上",
+        "url": "https://www.yomiuri.co.jp/economy/20260823-GYT1T00004/",
+        "published_at": null,
+        "collected_at": "2026-08-23T03:35:12.073988+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "6caeaf25420b3d9dd66e",
+    "title": "Up Close: He grew up caught between two cultures. Now he's preserving his Chinese grandmother's hawker legacy",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-23T03:35:12.073988+00:00",
+    "last_seen": "2026-08-23T03:35:12.073988+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Singapore"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "9a162c095c33f69273aa",
+        "origin_type": "news",
+        "source": "TODAY Singapore",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Up Close: He grew up caught between two cultures. Now he's preserving his Chinese grandmother's hawker legacy",
+        "url": "https://www.channelnewsasia.com/today/up-close/maxwell-food-centre-hawker-fuzhou-oyster-cake-mixed-race-6328021",
+        "published_at": null,
+        "collected_at": "2026-08-23T03:35:12.073988+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "29e790266c9992ae035d",
+    "title": "Pacific nations detain Chinese, Indonesian boats for illegal fishing",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-23T03:35:12.073988+00:00",
+    "last_seen": "2026-08-23T03:35:12.073988+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Indonesia"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "b3bc41f413e102ec01eb",
+        "origin_type": "news",
+        "source": "The Jakarta Post",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Pacific nations detain Chinese, Indonesian boats for illegal fishing",
+        "url": "https://www.thejakartapost.com/world/2026/08/21/pacific-nations-detain-chinese-indonesian-boats-for-illegal-fishing",
+        "published_at": null,
+        "collected_at": "2026-08-23T03:35:12.073988+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "749c15f34c56c9c704dd",
+    "title": "Sam was sent to prison during China's crackdown in Hong Kong. He returned to a city in silence",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-23T03:35:12.073988+00:00",
+    "last_seen": "2026-08-23T03:35:12.073988+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Australia"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "3d395e392982061502a2",
+        "origin_type": "news",
+        "source": "SBS News",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Sam was sent to prison during China's crackdown in Hong Kong. He returned to a city in silence",
+        "url": "https://www.sbs.com.au/news/dateline/article/sam-was-sent-to-prison-during-chinas-crackdown-in-hong-kong-he-returned-to-a-city-in-silence/cub2afki9",
+        "published_at": null,
+        "collected_at": "2026-08-23T03:35:12.073988+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "ae89bc56f8f4945b9ddd",
+    "title": "Russian skaters sweep golds on international comeback (VIDEOS)",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-23T03:28:18+00:00",
+    "last_seen": "2026-08-23T03:28:18+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Russia"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "78bac77cdea90e3a4f05",
+        "origin_type": "news",
+        "source": "RT",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Russian skaters sweep golds on international comeback (VIDEOS)",
+        "url": "https://www.rt.com/pop-culture/644545-russian-junior-figure-skaters-grand-prix/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "published_at": "2026-08-23T03:28:18+00:00",
+        "collected_at": "2026-08-23T03:35:12.073988+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "cba13cd9eebe63328af2",
+    "title": "Netmarble chief to buy W374b Tencent stake to tighten control",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 58,
+    "confidence_score": 40,
+    "importance_score": 36,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-23T01:54:38+00:00",
+    "last_seen": "2026-08-23T01:54:38+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "South Korea"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "cb85c09ab41b6c652b25",
+        "origin_type": "news",
+        "source": "The Korea Herald",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Netmarble chief to buy W374b Tencent stake to tighten control",
+        "url": "https://www.koreaherald.com/article/10849000",
+        "published_at": "2026-08-23T01:54:38+00:00",
+        "collected_at": "2026-08-23T03:35:12.073988+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "13179591ddf968862940",
+    "title": "Japan and India hold first event focused on recycling of key minerals",
+    "status": "报道中",
+    "category": "海外利益",
+    "severity": "low",
+    "priority_score": 58,
+    "confidence_score": 40,
+    "importance_score": 36,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-23T01:20:00+00:00",
+    "last_seen": "2026-08-23T01:20:00+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Japan"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "38299aeba5ab52848951",
+        "origin_type": "news",
+        "source": "The Japan Times",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Japan and India hold first event focused on recycling of key minerals",
+        "url": "https://www.japantimes.co.jp/news/2026/08/23/japan/japan-india-key-minerals-recycle/",
+        "published_at": "2026-08-23T01:20:00+00:00",
+        "collected_at": "2026-08-23T03:35:12.073988+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "b775fa7f271033dd55f2",
+    "title": "Azerbaijan reports increase in trade turnover with China",
+    "status": "报道中",
+    "category": "经贸/科技",
+    "severity": "low",
+    "priority_score": 58,
+    "confidence_score": 40,
+    "importance_score": 36,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-23T01:00:00+00:00",
+    "last_seen": "2026-08-23T01:00:00+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Azerbaijan"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "a5318d470b0e68402fb1",
+        "origin_type": "news",
+        "source": "Trend News Agency",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Azerbaijan reports increase in trade turnover with China",
+        "url": "https://www.trend.az/business/4217258.html",
+        "published_at": "2026-08-23T01:00:00+00:00",
+        "collected_at": "2026-08-23T03:35:12.073988+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "b4066c72d505b44d5619",
+    "title": "Künstliche Intelligenz: Chinas Sprint-Roboter laufen schneller als Usain Bolt",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 57,
+    "confidence_score": 40,
+    "importance_score": 35,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-22T22:50:00+00:00",
+    "last_seen": "2026-08-22T22:50:00+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Germany"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "069db067328458d2c195",
+        "origin_type": "news",
+        "source": "Der Spiegel",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Künstliche Intelligenz: Chinas Sprint-Roboter laufen schneller als Usain Bolt",
+        "url": "https://www.spiegel.de/wissenschaft/technik/kuenstliche-intelligenz-chinas-sprint-roboter-laufen-schneller-als-usain-bolt-a-43ff06fd-afc4-4a0d-88a9-feca28344b02#ref=rss",
+        "published_at": "2026-08-22T22:50:00+00:00",
+        "collected_at": "2026-08-23T03:35:12.073988+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
     "id": "7316022360afec744e33",
     "title": "Tesla and others begin record vehicle recall in China",
     "status": "报道中",
     "category": "其他",
     "severity": "low",
-    "priority_score": 59,
+    "priority_score": 57,
     "confidence_score": 46,
-    "importance_score": 37,
+    "importance_score": 35,
     "china_relevance_score": 99,
     "first_seen": "2026-08-22T03:13:46.891737+00:00",
     "last_seen": "2026-08-22T16:50:00+00:00",
@@ -49,6 +573,44 @@
         "collected_at": "2026-08-22T03:13:46.891737+00:00",
         "relation": "direct",
         "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "390b71416d475aaa676f",
+    "title": "Iran warns countries against joining in US sanctions",
+    "status": "报道中",
+    "category": "安全/冲突",
+    "severity": "high",
+    "priority_score": 56,
+    "confidence_score": 40,
+    "importance_score": 62,
+    "china_relevance_score": 55,
+    "first_seen": "2026-08-22T22:50:31+00:00",
+    "last_seen": "2026-08-22T22:50:31+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Ireland"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=United States; 中国关联利益=中美关系, 贸易与关税, 科技与出口管制, 半导体, 人工智能, 金融制裁, 军事与印太, 台海; 中国关联实体/项目=Huawei, ZTE, SMIC, ByteDance, TikTok, DJI, CATL, BYD, China Telecom, China Mobile | 事件关联地区=Iran; 中国关联利益=能源, 制裁, 核问题, 中东安全, 中伊合作; 中国关联实体/项目=China-Iran energy trade",
+    "evidence": [
+      {
+        "id": "ad76624eaddda64f96e1",
+        "origin_type": "news",
+        "source": "RTE News",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Iran warns countries against joining in US sanctions",
+        "url": "https://www.rte.ie/news/world/2026/0822/1588886-middle-east/",
+        "published_at": "2026-08-22T22:50:31+00:00",
+        "collected_at": "2026-08-23T03:35:12.073988+00:00",
+        "relation": "potential",
+        "confidence": 62
       }
     ]
   }
