@@ -1,11 +1,125 @@
 [
   {
+    "id": "8a8a84ccc4aabb2c68ed",
+    "title": "Nepal flood rescue efforts intensify as number of missing soars past 2,000 Rescuers pulled out survivors and helicopters ferried people to safety as Nepal and China raced to respond after catastrophic flash floods​ killed hundreds of people. 6H ago",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "high",
+    "priority_score": 75,
+    "confidence_score": 40,
+    "importance_score": 64,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-29T00:20:48.948660+00:00",
+    "last_seen": "2026-08-29T00:20:48.948660+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "United States"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "f2a78fd6830e8fed93d4",
+        "origin_type": "news",
+        "source": "CBS News",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Nepal flood rescue efforts intensify as number of missing soars past 2,000 Rescuers pulled out survivors and helicopters ferried people to safety as Nepal and China raced to respond after catastrophic flash floods​ killed hundreds of people. 6H ago",
+        "url": "https://www.cbsnews.com/news/nepal-flood-rescue-efforts-death-toll/",
+        "published_at": null,
+        "collected_at": "2026-08-29T00:20:48.948660+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "98f967c7254839d5efa7",
+    "title": "Related: Hundreds dead as over 2,000 remain missing in massive Nepal-Tibet flood",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "high",
+    "priority_score": 75,
+    "confidence_score": 40,
+    "importance_score": 64,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-29T00:20:48.948660+00:00",
+    "last_seen": "2026-08-29T00:20:48.948660+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "United States"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "9ea5c62ee3af2d728049",
+        "origin_type": "news",
+        "source": "ABC News US",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Related: Hundreds dead as over 2,000 remain missing in massive Nepal-Tibet flood",
+        "url": "https://abcnews.com/International/hundreds-dead-1000-remain-missing-massive-nepal-tibet/story?id=136022919",
+        "published_at": null,
+        "collected_at": "2026-08-29T00:20:48.948660+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "8b286bfb094e8da967c3",
+    "title": "ネパール土石流、中国側では５人死亡・５００人超が行方不明…決壊の危険が高い「せき止め湖」が出現",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "high",
+    "priority_score": 75,
+    "confidence_score": 40,
+    "importance_score": 64,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-29T00:20:48.948660+00:00",
+    "last_seen": "2026-08-29T00:20:48.948660+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Japan"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "6cb3d0fa58540f1b443b",
+        "origin_type": "news",
+        "source": "Yomiuri Shimbun",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "ネパール土石流、中国側では５人死亡・５００人超が行方不明…決壊の危険が高い「せき止め湖」が出現",
+        "url": "https://www.yomiuri.co.jp/world/20260828-GYT1T00320/",
+        "published_at": null,
+        "collected_at": "2026-08-29T00:20:48.948660+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
     "id": "77cac7127ea3b662996d",
     "title": "LIVE China suspends rescue efforts at Nepal-Tibet border due to risk of second flood Flash flooding on Wednesday has killed at least 475 people, as Beijing warns that a newly formed lake of rising water near the Nepal border could burst its banks.",
     "status": "报道中",
     "category": "安全/冲突",
     "severity": "high",
-    "priority_score": 68,
+    "priority_score": 67,
     "confidence_score": 56,
     "importance_score": 62,
     "china_relevance_score": 99,
@@ -38,12 +152,536 @@
     ]
   },
   {
+    "id": "afb35238619a97159282",
+    "title": "Israel army carries out rare West Bank air strike, killing 'three terrorists'",
+    "status": "报道中",
+    "category": "安全/冲突",
+    "severity": "critical",
+    "priority_score": 63,
+    "confidence_score": 56,
+    "importance_score": 80,
+    "china_relevance_score": 55,
+    "first_seen": "2026-08-28T17:14:47+00:00",
+    "last_seen": "2026-08-28T17:14:47+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "France"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=France; 中国关联利益=中法关系, 航空航天, 核能, 农产品, 欧盟对华政策, 奢侈品, 电动汽车; 中国关联实体/项目=Airbus China exposure, EDF cooperation, CMA CGM China exposure | 事件关联地区=Israel; 中国关联利益=科技, 港口, 中东安全, 中美科技竞争, 基础设施; 中国关联实体/项目=Haifa port China-related discussions, Israeli tech investment",
+    "evidence": [
+      {
+        "id": "652d71ff42afe4588c11",
+        "origin_type": "news",
+        "source": "France 24",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Israel army carries out rare West Bank air strike, killing 'three terrorists'",
+        "url": "https://www.france24.com/en/middle-east/20260828-israel-army-carries-out-rare-west-bank-air-strike-killing-three-terrorists",
+        "published_at": "2026-08-28T17:14:47+00:00",
+        "collected_at": "2026-08-29T00:20:48.948660+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "4dce544735ce5477ca8d",
+    "title": "LIVE Death toll rises in Nepal-China border disaster as lake poses new flood threat",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 62,
+    "confidence_score": 79,
+    "importance_score": 50,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-28T06:22:03+00:00",
+    "last_seen": "2026-08-29T00:20:48.948660+00:00",
+    "source_count": 2,
+    "news_count": 2,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "United States",
+      "South Korea"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "ca5f628a7c2dadf620f2",
+        "origin_type": "news",
+        "source": "Associated Press",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "LIVE Death toll rises in Nepal-China border disaster as lake poses new flood threat",
+        "url": "https://apnews.com/live/nepal-china-flash-flood-news-updates-08-28-2026",
+        "published_at": null,
+        "collected_at": "2026-08-29T00:20:48.948660+00:00",
+        "relation": "direct",
+        "confidence": 94
+      },
+      {
+        "id": "ea0cd3037cd79c5a166a",
+        "origin_type": "news",
+        "source": "The Korea Times",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Death toll rises to 469 in Nepal-China border disaster as lake poses new flood threat",
+        "url": "https://www.koreatimes.co.kr/world/20260828/death-toll-rises-to-469-in-nepal-china-border-disaster-as-lake-poses-new-flood-threat?utm_source=rss",
+        "published_at": "2026-08-28T06:22:03+00:00",
+        "collected_at": "2026-08-28T06:26:14.575245+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "70bb84aac956736470c0",
+    "title": "Number of missing in deadly Nepal, China floods jumps past 2,400",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 62,
+    "confidence_score": 46,
+    "importance_score": 40,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-28T02:54:11+00:00",
+    "last_seen": "2026-08-29T00:20:48.948660+00:00",
+    "source_count": 2,
+    "news_count": 2,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Singapore",
+      "Ireland"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "2dcf1317a5994dee37a1",
+        "origin_type": "news",
+        "source": "Channel NewsAsia",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Number of missing in deadly Nepal, China floods jumps past 2,400",
+        "url": "https://www.channelnewsasia.com/asia/nepal-tibet-china-floods-missing-2400-6348831",
+        "published_at": null,
+        "collected_at": "2026-08-29T00:20:48.948660+00:00",
+        "relation": "direct",
+        "confidence": 94
+      },
+      {
+        "id": "ae02c1f00a7d3687e5c5",
+        "origin_type": "news",
+        "source": "RTE News",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Over 2,400 missing after deadly Nepal, China floods",
+        "url": "https://www.rte.ie/news/world/2026/0828/1589512-nepal-flooding-rescue/",
+        "published_at": "2026-08-28T02:54:11+00:00",
+        "collected_at": "2026-08-29T00:20:48.948660+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "04e9cd3b619ac413eeb3",
+    "title": "Rescuers retrieve flood survivors caked in mud as death toll in Nepal-China border disaster climbs",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 72,
+    "importance_score": 47,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-29T00:20:48.948660+00:00",
+    "last_seen": "2026-08-29T00:20:48.948660+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "United States"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "337230f3a1aac80e2d80",
+        "origin_type": "news",
+        "source": "Associated Press",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Rescuers retrieve flood survivors caked in mud as death toll in Nepal-China border disaster climbs",
+        "url": "https://apnews.com/article/nepal-tibet-china-glacier-floods-ae9973b5fd2b1dc6d54c3e88b1b55bdc",
+        "published_at": null,
+        "collected_at": "2026-08-29T00:20:48.948660+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "04879dae9d10d4b8f19b",
+    "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China. 2 hrs ago Asia",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 56,
+    "importance_score": 42,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-29T00:20:48.948660+00:00",
+    "last_seen": "2026-08-29T00:20:48.948660+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "United Kingdom"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "656c83397def3cd6fa63",
+        "origin_type": "news",
+        "source": "BBC News",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China. 2 hrs ago Asia",
+        "url": "https://www.bbc.com/news/articles/cx2z415w2gpo",
+        "published_at": null,
+        "collected_at": "2026-08-29T00:20:48.948660+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "2ebaefe6e86e090073d7",
+    "title": "Nepal-Tibet flash flood: Rescuers race against time",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 56,
+    "importance_score": 42,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-29T00:20:48.948660+00:00",
+    "last_seen": "2026-08-29T00:20:48.948660+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Germany"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "2bf408402af6e5d93e22",
+        "origin_type": "news",
+        "source": "Deutsche Welle",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Nepal-Tibet flash flood: Rescuers race against time",
+        "url": "https://www.dw.com/en/nepal-tibet-flash-flood-rescuers-race-against-time/g-78546990",
+        "published_at": null,
+        "collected_at": "2026-08-29T00:20:48.948660+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "f12a94b0becd331aa166",
+    "title": "Nepal-Tibet flood deaths pass 500, thousands still missing",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 56,
+    "importance_score": 42,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-29T00:20:48.948660+00:00",
+    "last_seen": "2026-08-29T00:20:48.948660+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Germany"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "98b21e5572f0a3446636",
+        "origin_type": "news",
+        "source": "Deutsche Welle",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Nepal-Tibet flood deaths pass 500, thousands still missing",
+        "url": "https://www.dw.com/en/nepal-tibet-flood-deaths-pass-500-thousands-still-missing/a-78539559",
+        "published_at": null,
+        "collected_at": "2026-08-29T00:20:48.948660+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "e1c52216cc90eaa4c704",
+    "title": "China's hypercompetition goes global as Beijing frets over backlash",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 56,
+    "importance_score": 42,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-29T00:20:48.948660+00:00",
+    "last_seen": "2026-08-29T00:20:48.948660+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Japan"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "f88e0a8d81b75624f64d",
+        "origin_type": "news",
+        "source": "Nikkei Asia",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "China's hypercompetition goes global as Beijing frets over backlash",
+        "url": "https://asia.nikkei.com/spotlight/big-in-asia/china-s-hypercompetition-goes-global-as-beijing-frets-over-backlash",
+        "published_at": null,
+        "collected_at": "2026-08-29T00:20:48.948660+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "9770fa2588b398202ae8",
+    "title": "Through the Lens: Deadly flood hits Nepal and Tibet in Himalayan valley",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 56,
+    "importance_score": 42,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-29T00:20:48.948660+00:00",
+    "last_seen": "2026-08-29T00:20:48.948660+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Japan"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "af8c45dff7ffcf94a718",
+        "origin_type": "news",
+        "source": "Nikkei Asia",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Through the Lens: Deadly flood hits Nepal and Tibet in Himalayan valley",
+        "url": "https://asia.nikkei.com/photos/through-the-lens-deadly-flood-hits-nepal-and-tibet-in-himalayan-valley",
+        "published_at": null,
+        "collected_at": "2026-08-29T00:20:48.948660+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "9e80b20778be21c60d8e",
+    "title": "Visualizing the scale of devastation in Nepal and China Massive landslides have wreaked havoc. Follow the river down the path of destruction.",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-29T00:20:48.948660+00:00",
+    "last_seen": "2026-08-29T00:20:48.948660+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "United States"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "89afb74749daf8e74424",
+        "origin_type": "news",
+        "source": "CNN",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Visualizing the scale of devastation in Nepal and China Massive landslides have wreaked havoc. Follow the river down the path of destruction.",
+        "url": "https://edition.cnn.com/2026/08/28/asia/map-nepal-china-flood-landslide-damage-vis",
+        "published_at": null,
+        "collected_at": "2026-08-29T00:20:48.948660+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "ff890238893e1be10389",
+    "title": "China curbing flood information? Why Nepal reports 500+ deaths, Beijing just 5",
+    "status": "报道中",
+    "category": "海外利益",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-29T00:20:48.948660+00:00",
+    "last_seen": "2026-08-29T00:20:48.948660+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "India"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "38bd8d082f68849e5cea",
+        "origin_type": "news",
+        "source": "Hindustan Times",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "China curbing flood information? Why Nepal reports 500+ deaths, Beijing just 5",
+        "url": "https://www.hindustantimes.com/world-news/is-china-suppressing-flood-information-from-tibet-side-nepal-says-toll-crossed-500-beijing-reports-5-deaths-101787933488455.html",
+        "published_at": null,
+        "collected_at": "2026-08-29T00:20:48.948660+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "dd07afc44479fd2d3971",
+    "title": "Number of Australians missing in Nepal-Tibet floods rises amid warning of looming crisis",
+    "status": "报道中",
+    "category": "安全/冲突",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-29T00:20:48.948660+00:00",
+    "last_seen": "2026-08-29T00:20:48.948660+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Australia"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "51969f72de60d8cac875",
+        "origin_type": "news",
+        "source": "SBS News",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Number of Australians missing in Nepal-Tibet floods rises amid warning of looming crisis",
+        "url": "https://www.sbs.com.au/news/article/number-of-australians-missing-in-nepal-tibet-floods-rises-amid-warning-of-looming-crisis/ldenez5uu",
+        "published_at": null,
+        "collected_at": "2026-08-29T00:20:48.948660+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "3079fc71c92c634754c5",
+    "title": "Trump could discuss 'tacit' NK nuke acceptance with Kim in possible summit: ex-official",
+    "status": "报道中",
+    "category": "外交/制裁",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-29T00:17:02+00:00",
+    "last_seen": "2026-08-29T00:17:02+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "South Korea"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "6286ab53345e8420f579",
+        "origin_type": "news",
+        "source": "The Korea Times",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Trump could discuss 'tacit' NK nuke acceptance with Kim in possible summit: ex-official",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260829/trump-could-discuss-tacit-nk-nuke-acceptance-with-kim-in-possible-summit-ex-official?utm_source=rss",
+        "published_at": "2026-08-29T00:17:02+00:00",
+        "collected_at": "2026-08-29T00:20:48.948660+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
     "id": "80c74bbfbbcc8d5d52e6",
     "title": "• Live Updates Live Updates 4 min ago China suspends rescue efforts near Nepal border area 'Real possibility' of secondary disaster hinders teams from hard-hit land port, state media reports",
     "status": "报道中",
     "category": "海外利益",
     "severity": "medium",
-    "priority_score": 60,
+    "priority_score": 59,
     "confidence_score": 40,
     "importance_score": 43,
     "china_relevance_score": 99,
@@ -76,17 +714,17 @@
     ]
   },
   {
-    "id": "b9e81844f1017151d89c",
-    "title": "US Treasury Secretary says blockade on Iran will 'crush failing Iranian economy'",
+    "id": "5b06a7e458e0a57c2655",
+    "title": "Israeli military attacks have killed 4,352 in Lebanon since 2 March",
     "status": "报道中",
-    "category": "其他",
-    "severity": "critical",
-    "priority_score": 58,
+    "category": "安全/冲突",
+    "severity": "high",
+    "priority_score": 57,
     "confidence_score": 40,
-    "importance_score": 71,
+    "importance_score": 64,
     "china_relevance_score": 55,
-    "first_seen": "2026-08-28T05:36:44+00:00",
-    "last_seen": "2026-08-28T05:36:44+00:00",
+    "first_seen": "2026-08-28T23:11:53+00:00",
+    "last_seen": "2026-08-28T23:11:53+00:00",
     "source_count": 1,
     "news_count": 1,
     "social_count": 0,
@@ -95,72 +733,133 @@
       "United Kingdom"
     ],
     "entities": [],
-    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=United Kingdom; 中国关联利益=中英关系, 金融, 香港议题, 投资审查, 科技, 核电, 教育, 情报安全; 中国关联实体/项目=Huawei, CGN, HSBC China exposure, TikTok | 事件关联地区=United States; 中国关联利益=中美关系, 贸易与关税, 科技与出口管制, 半导体, 人工智能, 金融制裁, 军事与印太, 台海; 中国关联实体/项目=Huawei, ZTE, SMIC, ByteDance, TikTok, DJI, CATL, BYD, China Telecom, China Mobile | 事件关联地区=Iran; 中国关联利益=能源, 制裁, 核问题, 中东安全, 中伊合作; 中国关联实体/项目=China-Iran energy trade",
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=United Kingdom; 中国关联利益=中英关系, 金融, 香港议题, 投资审查, 科技, 核电, 教育, 情报安全; 中国关联实体/项目=Huawei, CGN, HSBC China exposure, TikTok",
     "evidence": [
       {
-        "id": "cfdc9a3d53bde1e299a7",
+        "id": "f9fe945ca933e33e2986",
         "origin_type": "news",
         "source": "Middle East Eye",
         "source_kind": "news",
         "platform": null,
         "author": null,
-        "title": "US Treasury Secretary says blockade on Iran will 'crush failing Iranian economy'",
-        "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-treasury-secretary-says-blockade-iran-will-crush-failing-iranian",
-        "published_at": "2026-08-28T05:36:44+00:00",
-        "collected_at": "2026-08-28T06:26:14.575245+00:00",
+        "title": "Israeli military attacks have killed 4,352 in Lebanon since 2 March",
+        "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-attacks-have-killed-4352-lebanon-2-march",
+        "published_at": "2026-08-28T23:11:53+00:00",
+        "collected_at": "2026-08-29T00:20:48.948660+00:00",
         "relation": "potential",
         "confidence": 62
       }
     ]
   },
   {
-    "id": "e7af7825034dc89e8890",
-    "title": "🔴 Nepal-Tibet live: China halts rescue at disaster epicentre over flood risk",
+    "id": "35f8044d8588628f736d",
+    "title": "Crue dévastatrice au Népal et au Tibet: quatre Français portés disparus",
     "status": "报道中",
-    "category": "其他",
+    "category": "海外利益",
     "severity": "low",
-    "priority_score": 55,
-    "confidence_score": 63,
-    "importance_score": 38,
+    "priority_score": 57,
+    "confidence_score": 40,
+    "importance_score": 35,
     "china_relevance_score": 99,
-    "first_seen": "2026-08-28T05:03:38+00:00",
-    "last_seen": "2026-08-28T06:26:14.575245+00:00",
-    "source_count": 2,
-    "news_count": 2,
+    "first_seen": "2026-08-28T20:30:30+00:00",
+    "last_seen": "2026-08-28T20:30:30+00:00",
+    "source_count": 1,
+    "news_count": 1,
     "social_count": 0,
     "platforms": [],
     "countries": [
-      "Singapore",
       "France"
     ],
     "entities": [],
     "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
     "evidence": [
       {
-        "id": "e9da4a145d19f083e080",
+        "id": "325301bad110c9fa7e6d",
         "origin_type": "news",
-        "source": "Channel NewsAsia",
+        "source": "RFI",
         "source_kind": "news",
         "platform": null,
         "author": null,
-        "title": "Nepal-Tibet disaster: Rescue efforts at Tibet disaster epicentre halted over flood risk",
-        "url": "https://www.channelnewsasia.com/asia/nepal-tibet-flood-landslide-live-update-day-3-6346556",
-        "published_at": null,
-        "collected_at": "2026-08-28T06:26:14.575245+00:00",
+        "title": "Crue dévastatrice au Népal et au Tibet: quatre Français portés disparus",
+        "url": "https://www.rfi.fr/fr/asie-pacifique/20260828-crue-d%C3%A9vastatrice-au-n%C3%A9pal-et-au-tibet-quatre-fran%C3%A7ais-port%C3%A9s-disparus",
+        "published_at": "2026-08-28T20:30:30+00:00",
+        "collected_at": "2026-08-29T00:20:48.948660+00:00",
         "relation": "direct",
         "confidence": 94
-      },
+      }
+    ]
+  },
+  {
+    "id": "1fcc08955a2cd26bc140",
+    "title": "Nijmegen based chip manufacturer shows strong recovery figures after China-NL conflict",
+    "status": "报道中",
+    "category": "安全/冲突",
+    "severity": "low",
+    "priority_score": 56,
+    "confidence_score": 40,
+    "importance_score": 34,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-28T18:40:00+00:00",
+    "last_seen": "2026-08-28T18:40:00+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Netherlands"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
       {
-        "id": "bc3684962263637bc0d0",
+        "id": "ef65fc734593aa2ea527",
         "origin_type": "news",
-        "source": "France 24",
+        "source": "NL Times",
         "source_kind": "news",
         "platform": null,
         "author": null,
-        "title": "🔴 Nepal-Tibet live: China halts rescue at disaster epicentre over flood risk",
-        "url": "https://www.france24.com/en/asia-pacific/20260828-nepal-tibet-live-china-warns-lake-formed-by-mudslide-on-nepal-border-could-breach",
-        "published_at": "2026-08-28T05:03:38+00:00",
-        "collected_at": "2026-08-28T06:26:14.575245+00:00",
+        "title": "Nijmegen based chip manufacturer shows strong recovery figures after China-NL conflict",
+        "url": "https://nltimes.nl/2026/08/28/nijmegen-based-chip-manufacturer-shows-strong-recovery-figures-china-nl-conflict",
+        "published_at": "2026-08-28T18:40:00+00:00",
+        "collected_at": "2026-08-29T00:20:48.948660+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "3958a33c64169e26b1e4",
+    "title": "The Key Lesson of the Global War on Terror",
+    "status": "报道中",
+    "category": "安全/冲突",
+    "severity": "low",
+    "priority_score": 56,
+    "confidence_score": 40,
+    "importance_score": 34,
+    "china_relevance_score": 99,
+    "first_seen": "2026-08-28T17:52:11+00:00",
+    "last_seen": "2026-08-28T17:52:11+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "United States"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "cc6caacb15b81bd2fef7",
+        "origin_type": "news",
+        "source": "Heritage Foundation",
+        "source_kind": "think_tank",
+        "platform": null,
+        "author": null,
+        "title": "The Key Lesson of the Global War on Terror",
+        "url": "https://www.heritage.org/defense/commentary/the-key-lesson-the-global-war-terror",
+        "published_at": "2026-08-28T17:52:11+00:00",
+        "collected_at": "2026-08-29T00:20:48.948660+00:00",
         "relation": "direct",
         "confidence": 94
       }
