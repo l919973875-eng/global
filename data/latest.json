@@ -1,1 +1,458 @@
-[]
+[
+  {
+    "id": "04431058dc672f5d6919",
+    "title": "Stellantis: trattative con cinesi Huawei e Jac Group per partnership su Maserati",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-05T00:36:04.021194+00:00",
+    "last_seen": "2026-09-05T00:36:04.021194+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Italy"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "a5af89baabab6a7e079d",
+        "origin_type": "news",
+        "source": "Il Sole 24 Ore",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Stellantis: trattative con cinesi Huawei e Jac Group per partnership su Maserati",
+        "url": "https://www.ilsole24ore.com/art/stellantis-trattative-cinesi-huawei-e-jac-group-partnership-maserati-AJkRkm3",
+        "published_at": null,
+        "collected_at": "2026-09-05T00:36:04.021194+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "604e4ba58c3e78319126",
+    "title": "加害の記憶 戦後81年 中国で頭下げ…「父の罪背負う」 戦争トラウマ2世が抱える後悔 9/5 09:00 深掘り",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-05T00:36:04.021194+00:00",
+    "last_seen": "2026-09-05T00:36:04.021194+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Japan"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "c6b898926f5134abd1a8",
+        "origin_type": "news",
+        "source": "Mainichi",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "加害の記憶 戦後81年 中国で頭下げ…「父の罪背負う」 戦争トラウマ2世が抱える後悔 9/5 09:00 深掘り",
+        "url": "https://mainichi.jp/articles/20260904/k00/00m/040/129000c",
+        "published_at": null,
+        "collected_at": "2026-09-05T00:36:04.021194+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "65b04cda400929191cd6",
+    "title": "US, China gear up for critical AI safety dialogue",
+    "status": "报道中",
+    "category": "经贸/科技",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-05T00:36:04.021194+00:00",
+    "last_seen": "2026-09-05T00:36:04.021194+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "India"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "1b206e36416609f272a1",
+        "origin_type": "news",
+        "source": "The Economic Times",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "US, China gear up for critical AI safety dialogue",
+        "url": "https://economictimes.indiatimes.com/ai/ai-insights/us-china-gear-up-for-mid-september-ai-safety-dialogue/articleshow/133770855.cms",
+        "published_at": null,
+        "collected_at": "2026-09-05T00:36:04.021194+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "3376cc98fc83a67f282e",
+    "title": "Goh-Shevon end winless streak against China for crack at world No. 1 pair",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-05T00:36:04.021194+00:00",
+    "last_seen": "2026-09-05T00:36:04.021194+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Malaysia"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "f89b5d24413483b36d95",
+        "origin_type": "news",
+        "source": "The Star Malaysia",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Goh-Shevon end winless streak against China for crack at world No. 1 pair",
+        "url": "https://www.thestar.com.my/sport/badminton/2026/09/05/goh-shevon-end-winless-streak-against-china-for-crack-at-world-no-1-pair",
+        "published_at": null,
+        "collected_at": "2026-09-05T00:36:04.021194+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "186fd93618beccfe861b",
+    "title": "Man charged after allegedly attempting to import heroin into Australia",
+    "status": "报道中",
+    "category": "海外利益",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-05T00:29:48+00:00",
+    "last_seen": "2026-09-05T00:29:48+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Australia"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "66e1222a10fa601c64db",
+        "origin_type": "news",
+        "source": "Sydney Morning Herald",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Man charged after allegedly attempting to import heroin into Australia",
+        "url": "https://www.smh.com.au/national/man-charged-after-allegedly-attempting-to-import-heroin-into-australia-20260905-p60uob.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+        "published_at": "2026-09-05T00:29:48+00:00",
+        "collected_at": "2026-09-05T00:36:04.021194+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "ff436522155488db7172",
+    "title": "Nigeria: Suspected oil thieves dead after inhaling fumes",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "high",
+    "priority_score": 58,
+    "confidence_score": 56,
+    "importance_score": 69,
+    "china_relevance_score": 55,
+    "first_seen": "2026-09-05T00:36:04.021194+00:00",
+    "last_seen": "2026-09-05T00:36:04.021194+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Germany"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=Germany; 中国关联利益=中德经贸, 汽车产业, 机械制造, 对华投资, 欧盟对华政策, 半导体, 化工; 中国关联实体/项目=Volkswagen China exposure, BASF China exposure, CATL, Huawei | 事件关联地区=Nigeria; 中国关联利益=铁路, 港口, 电信, 石油, 中资企业与人员安全; 中国关联实体/项目=CCECC, Huawei, Lekki-related Chinese investment",
+    "evidence": [
+      {
+        "id": "bd792d143b4f0d009c61",
+        "origin_type": "news",
+        "source": "Deutsche Welle",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Nigeria: Suspected oil thieves dead after inhaling fumes",
+        "url": "https://www.dw.com/en/nigeria-oil-theft-dozens-dead/a-79001997",
+        "published_at": null,
+        "collected_at": "2026-09-05T00:36:04.021194+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "14492a031aad69f54927",
+    "title": "Two reportedly killed in Israeli drone strike in southern Lebanon",
+    "status": "报道中",
+    "category": "海外利益",
+    "severity": "high",
+    "priority_score": 58,
+    "confidence_score": 40,
+    "importance_score": 64,
+    "china_relevance_score": 55,
+    "first_seen": "2026-09-05T00:36:04.021194+00:00",
+    "last_seen": "2026-09-05T00:36:04.021194+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Israel"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=Israel; 中国关联利益=科技, 港口, 中东安全, 中美科技竞争, 基础设施; 中国关联实体/项目=Haifa port China-related discussions, Israeli tech investment",
+    "evidence": [
+      {
+        "id": "5e5b76d17d8b3ba4a483",
+        "origin_type": "news",
+        "source": "Haaretz",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Two reportedly killed in Israeli drone strike in southern Lebanon",
+        "url": "https://www.haaretz.com/israel-news/israel-security/2026-09-04/ty-article-live/police-terrorist-neutralized-after-trying-to-attack-forces-in-jlem-old-city/000001a0-6a21-d1e9-ade0-fbf343520000?liveBlogItemId=1358834179#1358834179",
+        "published_at": null,
+        "collected_at": "2026-09-05T00:36:04.021194+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "3ecba4e1485af3c6ab6a",
+    "title": "China’s Xi seeks to bring large CEO delegation on U.S. visit",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 58,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-05T00:10:00+00:00",
+    "last_seen": "2026-09-05T00:10:00+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Japan"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "4dc753f7e6e5497559f3",
+        "origin_type": "news",
+        "source": "The Japan Times",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "China’s Xi seeks to bring large CEO delegation on U.S. visit",
+        "url": "https://www.japantimes.co.jp/business/2026/09/05/china-xi-ceo-delegation-us-visit/",
+        "published_at": "2026-09-05T00:10:00+00:00",
+        "collected_at": "2026-09-05T00:36:04.021194+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "cc84eb71a266552abdf7",
+    "title": "EUA impõem sanções a banco turco e a duas subsidiárias em nova pressão contra Irã",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 58,
+    "confidence_score": 40,
+    "importance_score": 36,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-04T23:01:09+00:00",
+    "last_seen": "2026-09-04T23:01:09+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Brazil"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "88283417dd4564eea3dd",
+        "origin_type": "news",
+        "source": "Valor Econômico",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "EUA impõem sanções a banco turco e a duas subsidiárias em nova pressão contra Irã",
+        "url": "https://valor.globo.com/mundo/noticia/2026/09/04/eua-impem-sanes-a-banco-turco-e-a-duas-subsidirias-em-nova-presso-contra-ir.ghtml",
+        "published_at": "2026-09-04T23:01:09+00:00",
+        "collected_at": "2026-09-05T00:36:04.021194+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "f8ce8da15f2495fc788b",
+    "title": "Another golf push cart company is threatened by Canada’s tariffs on Chinese EVs",
+    "status": "报道中",
+    "category": "经贸/科技",
+    "severity": "low",
+    "priority_score": 57,
+    "confidence_score": 40,
+    "importance_score": 35,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-04T20:47:36+00:00",
+    "last_seen": "2026-09-04T20:47:36+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Canada"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "f617b1f35aec7d069eda",
+        "origin_type": "news",
+        "source": "National Post",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Another golf push cart company is threatened by Canada’s tariffs on Chinese EVs",
+        "url": "https://nationalpost.com/news/canada/another-golf-push-cart-company-is-threatened-by-canadas-tariffs-on-chinese-evs",
+        "published_at": "2026-09-04T20:47:36+00:00",
+        "collected_at": "2026-09-05T00:36:04.021194+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "953ea60ca94ec3f24c61",
+    "title": "Why did Beijing reject the G20 statement?",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 55,
+    "confidence_score": 40,
+    "importance_score": 33,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-04T16:48:04+00:00",
+    "last_seen": "2026-09-04T16:48:04+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Iran"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "89d3a45ed3aeedb9fa24",
+        "origin_type": "news",
+        "source": "Tehran Times",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Why did Beijing reject the G20 statement?",
+        "url": "https://www.tehrantimes.com/news/529670/Why-did-Beijing-reject-the-G20-statement",
+        "published_at": "2026-09-04T16:48:04+00:00",
+        "collected_at": "2026-09-05T00:36:04.021194+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "7215e407214d6a6909a0",
+    "title": "Humanoid Robots and China’s Vision of the Future",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 55,
+    "confidence_score": 56,
+    "importance_score": 38,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-04T14:49:00+00:00",
+    "last_seen": "2026-09-04T14:49:00+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "United States"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "5dea692e4e85f5c1eeeb",
+        "origin_type": "news",
+        "source": "The Diplomat",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Humanoid Robots and China’s Vision of the Future",
+        "url": "https://thediplomat.com/2026/09/humanoid-robots-and-chinas-vision-of-the-future/",
+        "published_at": "2026-09-04T14:49:00+00:00",
+        "collected_at": "2026-09-05T00:36:04.021194+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  }
+]
