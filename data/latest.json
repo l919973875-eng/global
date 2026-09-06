@@ -1,1 +1,502 @@
-[]
+[
+  {
+    "id": "cede879a9c73c3e2a8c8",
+    "title": "Iran war live: IRGC claims new attacks on US warships over naval blockade",
+    "status": "报道中",
+    "category": "安全/冲突",
+    "severity": "critical",
+    "priority_score": 66,
+    "confidence_score": 56,
+    "importance_score": 83,
+    "china_relevance_score": 55,
+    "first_seen": "2026-09-06T00:00:00+00:00",
+    "last_seen": "2026-09-06T00:00:00+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Qatar"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=United States; 中国关联利益=中美关系, 贸易与关税, 科技与出口管制, 半导体, 人工智能, 金融制裁, 军事与印太, 台海; 中国关联实体/项目=Huawei, ZTE, SMIC, ByteDance, TikTok, DJI, CATL, BYD, China Telecom, China Mobile | 事件关联地区=Iran; 中国关联利益=能源, 制裁, 核问题, 中东安全, 中伊合作; 中国关联实体/项目=China-Iran energy trade",
+    "evidence": [
+      {
+        "id": "8730e4f247a24ad822a4",
+        "origin_type": "news",
+        "source": "Al Jazeera",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Iran war live: IRGC claims new attacks on US warships over naval blockade",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade?traffic_source=rss",
+        "published_at": "2026-09-06T00:00:00+00:00",
+        "collected_at": "2026-09-06T00:38:34.943030+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "66ff8ad272492d90ca8b",
+    "title": "U.S. military strikes Iranian oil tankers after Navy warships were targeted with missiles",
+    "status": "报道中",
+    "category": "安全/冲突",
+    "severity": "medium",
+    "priority_score": 59,
+    "confidence_score": 93,
+    "importance_score": 70,
+    "china_relevance_score": 55,
+    "first_seen": "2026-09-05T15:05:08+00:00",
+    "last_seen": "2026-09-06T00:38:34.943030+00:00",
+    "source_count": 4,
+    "news_count": 4,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "United States",
+      "Canada",
+      "Saudi Arabia"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=United States; 中国关联利益=中美关系, 贸易与关税, 科技与出口管制, 半导体, 人工智能, 金融制裁, 军事与印太, 台海; 中国关联实体/项目=Huawei, ZTE, SMIC, ByteDance, TikTok, DJI, CATL, BYD, China Telecom, China Mobile",
+    "evidence": [
+      {
+        "id": "ed6ae9fb62e40c36d0b3",
+        "origin_type": "news",
+        "source": "Associated Press",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "US strikes 3 Iranian oil tankers after saying warships were targeted with ballistic missiles",
+        "url": "https://apnews.com/article/iran-us-war-oil-tankers-b3650799901c56a6deeca962cbaa4109",
+        "published_at": null,
+        "collected_at": "2026-09-06T00:38:34.943030+00:00",
+        "relation": "potential",
+        "confidence": 62
+      },
+      {
+        "id": "f6618f355849f0ea44de",
+        "origin_type": "news",
+        "source": "The Globe and Mail",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "U.S. military strikes Iranian oil tankers after Navy warships were targeted with missiles",
+        "url": "https://www.theglobeandmail.com/world/article-us-iran-war-military-strikes-iranian-oil-tankers/",
+        "published_at": null,
+        "collected_at": "2026-09-06T00:38:34.943030+00:00",
+        "relation": "potential",
+        "confidence": 62
+      },
+      {
+        "id": "5608b6efb0a87fc67586",
+        "origin_type": "news",
+        "source": "Arab News",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted with missiles",
+        "url": "https://www.arabnews.com/middle-east/us-military-hits-3-iranian-oil-tankers-after-saying-navy-warships-were-targeted-with-missiles-3000563",
+        "published_at": null,
+        "collected_at": "2026-09-06T00:38:34.943030+00:00",
+        "relation": "potential",
+        "confidence": 62
+      },
+      {
+        "id": "8b955cfaba41af2ae8df",
+        "origin_type": "news",
+        "source": "NPR",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted",
+        "url": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
+        "published_at": "2026-09-05T15:05:08+00:00",
+        "collected_at": "2026-09-06T00:38:34.943030+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "cbedb3d2151f279102c9",
+    "title": "Chinese energy giants tap Brazil for imports, oil field exploration",
+    "status": "报道中",
+    "category": "海外利益",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 56,
+    "importance_score": 42,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-06T00:38:34.943030+00:00",
+    "last_seen": "2026-09-06T00:38:34.943030+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Japan"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "7d4615251f80dac071c1",
+        "origin_type": "news",
+        "source": "Nikkei Asia",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Chinese energy giants tap Brazil for imports, oil field exploration",
+        "url": "https://asia.nikkei.com/business/energy/chinese-energy-giants-tap-brazil-for-imports-oil-field-exploration",
+        "published_at": null,
+        "collected_at": "2026-09-06T00:38:34.943030+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "34f7cb5035b944836b92",
+    "title": "Bulgaria-China Economic Commission to Meet in Beijing on September 10",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-06T00:38:34.943030+00:00",
+    "last_seen": "2026-09-06T00:38:34.943030+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Bulgaria"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "ba19b8fe2f5e6816dd16",
+        "origin_type": "news",
+        "source": "BTA",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Bulgaria-China Economic Commission to Meet in Beijing on September 10",
+        "url": "https://www.bta.bg/en/news/world/1198780-bulgaria-china-economic-commission-to-meet-in-beijing-on-september-10",
+        "published_at": null,
+        "collected_at": "2026-09-06T00:38:34.943030+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "057d976984c91efc7f62",
+    "title": "等身大の中国 モンゴル文字がなぜ下に？ 「序列」にこだわる中国の民族政策 9/6 07:00 中国の政治文化は序列を極めて重視する。日々のニュースで指導者の名前や映像が出る順序、その配置は微妙な風向きを読み取る重要な手がかりだ。その論理が現在の民族政策にも当てはまることを実感する出来事があった。 内モンゴル自治区の区都、フフホト市を訪ねた時のことだ。鉄道駅に降り立つと、「駅出口」などの案内",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-06T00:38:34.943030+00:00",
+    "last_seen": "2026-09-06T00:38:34.943030+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Japan"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "6219b722bb3f135cab6c",
+        "origin_type": "news",
+        "source": "Mainichi",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "等身大の中国 モンゴル文字がなぜ下に？ 「序列」にこだわる中国の民族政策 9/6 07:00 中国の政治文化は序列を極めて重視する。日々のニュースで指導者の名前や映像が出る順序、その配置は微妙な風向きを読み取る重要な手がかりだ。その論理が現在の民族政策にも当てはまることを実感する出来事があった。 内モンゴル自治区の区都、フフホト市を訪ねた時のことだ。鉄道駅に降り立つと、「駅出口」などの案内",
+        "url": "https://mainichi.jp/articles/20260904/k00/00m/030/270000c",
+        "published_at": null,
+        "collected_at": "2026-09-06T00:38:34.943030+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "7e89a3d15fdb7e817652",
+    "title": "Pakistan conquer China in AHF Junior Asia Cup",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-06T00:38:34.943030+00:00",
+    "last_seen": "2026-09-06T00:38:34.943030+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Pakistan"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "91bd24ca9fda68214eef",
+        "origin_type": "news",
+        "source": "The Express Tribune",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Pakistan conquer China in AHF Junior Asia Cup",
+        "url": "https://tribune.com.pk/story/2627628/Pakistan-conquer-China-in-AHF-Junior-Asia-Cup",
+        "published_at": null,
+        "collected_at": "2026-09-06T00:38:34.943030+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "9ebc538dd70a77a86996",
+    "title": "Late rescues renew hope for survivors in deadly Nepal floods",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-06T00:38:34.943030+00:00",
+    "last_seen": "2026-09-06T00:38:34.943030+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Nepal"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "011680a77605df60043f",
+        "origin_type": "news",
+        "source": "The Kathmandu Post",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Late rescues renew hope for survivors in deadly Nepal floods",
+        "url": "https://kathmandupost.com/national/2026/09/05/miraculous-rescues-offer-renewed-hope-after-nepal-floods",
+        "published_at": null,
+        "collected_at": "2026-09-06T00:38:34.943030+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "b789740b299662fa188e",
+    "title": "China Masters: All-Malaysian Men's Doubles Final Dream Goes Up In Smoke",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-06T00:38:34.943030+00:00",
+    "last_seen": "2026-09-06T00:38:34.943030+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Malaysia"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "48ef7e66beaef62411c0",
+        "origin_type": "news",
+        "source": "Bernama",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "China Masters: All-Malaysian Men's Doubles Final Dream Goes Up In Smoke",
+        "url": "https://www.bernama.com/en/sports/news.php?id=2603513",
+        "published_at": null,
+        "collected_at": "2026-09-06T00:38:34.943030+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "11d50f908b20669c516b",
+    "title": "China is accused of ‘weaponising tourism’ to this island paradise. Australia is stepping in",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-06T00:38:34.943030+00:00",
+    "last_seen": "2026-09-06T00:38:34.943030+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Australia"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "f3097b2405e8d41cdf69",
+        "origin_type": "news",
+        "source": "SBS News",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "China is accused of ‘weaponising tourism’ to this island paradise. Australia is stepping in",
+        "url": "https://www.sbs.com.au/news/article/china-is-accused-of-weaponising-tourism-to-this-island-paradise-australia-is-stepping-in/qd5p3aboj",
+        "published_at": null,
+        "collected_at": "2026-09-06T00:38:34.943030+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "f928f8bb8df418dd5891",
+    "title": "Trump says Iran conflict, which has killed 18 US service members and injured hundreds more, is ‘small potatoes’",
+    "status": "报道中",
+    "category": "安全/冲突",
+    "severity": "high",
+    "priority_score": 58,
+    "confidence_score": 40,
+    "importance_score": 64,
+    "china_relevance_score": 55,
+    "first_seen": "2026-09-06T00:38:34.943030+00:00",
+    "last_seen": "2026-09-06T00:38:34.943030+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "United States"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=United States; 中国关联利益=中美关系, 贸易与关税, 科技与出口管制, 半导体, 人工智能, 金融制裁, 军事与印太, 台海; 中国关联实体/项目=Huawei, ZTE, SMIC, ByteDance, TikTok, DJI, CATL, BYD, China Telecom, China Mobile | 事件关联地区=Iran; 中国关联利益=能源, 制裁, 核问题, 中东安全, 中伊合作; 中国关联实体/项目=China-Iran energy trade",
+    "evidence": [
+      {
+        "id": "09bea8a8c8e1ed3f2dc7",
+        "origin_type": "news",
+        "source": "CNN",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Trump says Iran conflict, which has killed 18 US service members and injured hundreds more, is ‘small potatoes’",
+        "url": "https://edition.cnn.com/2026/09/04/politics/small-potatoes-trump-iran",
+        "published_at": null,
+        "collected_at": "2026-09-06T00:38:34.943030+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "d49a1377cef517710646",
+    "title": "China’s latest Middle East play makes Egypt a pivot of power",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 57,
+    "confidence_score": 40,
+    "importance_score": 35,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-05T20:40:51+00:00",
+    "last_seen": "2026-09-05T20:40:51+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Russia"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "366427de5f6f69635e6d",
+        "origin_type": "news",
+        "source": "RT",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "China’s latest Middle East play makes Egypt a pivot of power",
+        "url": "https://www.rt.com/news/645162-china-egypt-middle-east/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+        "published_at": "2026-09-05T20:40:51+00:00",
+        "collected_at": "2026-09-06T00:38:34.943030+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "92bd2e57d41c69126e0b",
+    "title": "Nepal tunnel rescue revives hopes 10 days after flood",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 55,
+    "confidence_score": 40,
+    "importance_score": 33,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-05T15:33:46+00:00",
+    "last_seen": "2026-09-05T15:33:46+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Canada"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "3261368a892e629fc0b3",
+        "origin_type": "news",
+        "source": "National Post",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Nepal tunnel rescue revives hopes 10 days after flood",
+        "url": "https://nationalpost.com/news/nepal-tunnel-rescue-revives-hopes-10-days-after-flood",
+        "published_at": "2026-09-05T15:33:46+00:00",
+        "collected_at": "2026-09-06T00:38:34.943030+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  }
+]
