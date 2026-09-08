@@ -1,1 +1,744 @@
-[]
+[
+  {
+    "id": "d70458ed3c6fa5e1463e",
+    "title": "As Nepal identifies those killed in the floods, questions grow over China's reporting",
+    "status": "报道中",
+    "category": "海外利益",
+    "severity": "high",
+    "priority_score": 70,
+    "confidence_score": 40,
+    "importance_score": 60,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-07T13:31:16+00:00",
+    "last_seen": "2026-09-07T13:31:16+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "United States"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "87de126fbbc17ecd83a0",
+        "origin_type": "news",
+        "source": "NPR",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "As Nepal identifies those killed in the floods, questions grow over China's reporting",
+        "url": "https://www.npr.org/2026/09/07/nx-s1-5960357/nepal-floods-questions-over-chinas-reporting",
+        "published_at": "2026-09-07T13:31:16+00:00",
+        "collected_at": "2026-09-08T00:37:59.605363+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "f38c6bf1f4330db79863",
+    "title": "Myanmar military intensifies operations to retake China project areas",
+    "status": "报道中",
+    "category": "安全/冲突",
+    "severity": "medium",
+    "priority_score": 67,
+    "confidence_score": 56,
+    "importance_score": 56,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-08T00:37:59.605363+00:00",
+    "last_seen": "2026-09-08T00:37:59.605363+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Japan"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "5985d752a568dd25b3fa",
+        "origin_type": "news",
+        "source": "Nikkei Asia",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Myanmar military intensifies operations to retake China project areas",
+        "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/myanmar-military-intensifies-operations-to-retake-china-project-areas",
+        "published_at": null,
+        "collected_at": "2026-09-08T00:37:59.605363+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "39ee1377b8a80fe51d04",
+    "title": "• Analysis Analysis Trump’s blockade pushes Iran toward military escalation Cornered by sanctions and strikes, Tehran weighs risky military escalation to force US back to negotiations",
+    "status": "报道中",
+    "category": "安全/冲突",
+    "severity": "critical",
+    "priority_score": 66,
+    "confidence_score": 40,
+    "importance_score": 78,
+    "china_relevance_score": 55,
+    "first_seen": "2026-09-08T00:37:59.605363+00:00",
+    "last_seen": "2026-09-08T00:37:59.605363+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "United States"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=United States; 中国关联利益=中美关系, 贸易与关税, 科技与出口管制, 半导体, 人工智能, 金融制裁, 军事与印太, 台海; 中国关联实体/项目=Huawei, ZTE, SMIC, ByteDance, TikTok, DJI, CATL, BYD, China Telecom, China Mobile | 事件关联地区=Iran; 中国关联利益=能源, 制裁, 核问题, 中东安全, 中伊合作; 中国关联实体/项目=China-Iran energy trade",
+    "evidence": [
+      {
+        "id": "227c49a91ac190361305",
+        "origin_type": "news",
+        "source": "CNN",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "• Analysis Analysis Trump’s blockade pushes Iran toward military escalation Cornered by sanctions and strikes, Tehran weighs risky military escalation to force US back to negotiations",
+        "url": "https://edition.cnn.com/2026/09/07/middleeast/trump-blockade-iran-military-escalation-intl-latam",
+        "published_at": null,
+        "collected_at": "2026-09-08T00:37:59.605363+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "94369df63000b9864c4e",
+    "title": "Houthis accuse Saudi Arabia of killing seven in Yemen prison air strike",
+    "status": "报道中",
+    "category": "社会动荡",
+    "severity": "critical",
+    "priority_score": 66,
+    "confidence_score": 56,
+    "importance_score": 83,
+    "china_relevance_score": 55,
+    "first_seen": "2026-09-07T23:50:53+00:00",
+    "last_seen": "2026-09-07T23:50:53+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Qatar"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=Saudi Arabia; 中国关联利益=石油, 人民币结算讨论, 新能源, 中东外交, 炼化, 数字经济; 中国关联实体/项目=Sinopec, Aramco-China projects, Huawei",
+    "evidence": [
+      {
+        "id": "2cadbfb0d8229b7c1252",
+        "origin_type": "news",
+        "source": "Al Jazeera",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Houthis accuse Saudi Arabia of killing seven in Yemen prison air strike",
+        "url": "https://www.aljazeera.com/news/2026/9/7/houthis-accuse-saudi-arabia-of-killing-seven-in-yemen-prison-attack?traffic_source=rss",
+        "published_at": "2026-09-07T23:50:53+00:00",
+        "collected_at": "2026-09-08T00:37:59.605363+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "da7340dcd754fb4cea77",
+    "title": "Bulgaria Invites Chinese Bus Maker King Long to Explore Investment Opportunities",
+    "status": "报道中",
+    "category": "经贸/科技",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-08T00:37:59.605363+00:00",
+    "last_seen": "2026-09-08T00:37:59.605363+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Bulgaria"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "d67bb34fb601343af9bc",
+        "origin_type": "news",
+        "source": "BTA",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Bulgaria Invites Chinese Bus Maker King Long to Explore Investment Opportunities",
+        "url": "https://www.bta.bg/en/news/world/1199473-bulgaria-invites-chinese-bus-maker-king-long-to-explore-investment-opportunities",
+        "published_at": null,
+        "collected_at": "2026-09-08T00:37:59.605363+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "625d1a2e758345571fe1",
+    "title": "Japan seeking Takaichi-Trump talks late Sept., eyeing U.S.-China summit",
+    "status": "报道中",
+    "category": "外交/制裁",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-08T00:37:59.605363+00:00",
+    "last_seen": "2026-09-08T00:37:59.605363+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Japan"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "76564cdab922175c3dff",
+        "origin_type": "news",
+        "source": "Kyodo News",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Japan seeking Takaichi-Trump talks late Sept., eyeing U.S.-China summit",
+        "url": "https://english.kyodonews.net/articles/-/84220",
+        "published_at": null,
+        "collected_at": "2026-09-08T00:37:59.605363+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "9c2c07b9e91896ab89d4",
+    "title": "Japan scrambles jets after China spy aircraft flights over East China Sea",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-08T00:37:59.605363+00:00",
+    "last_seen": "2026-09-08T00:37:59.605363+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Japan"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "eebc51b6adf2f42a5d3e",
+        "origin_type": "news",
+        "source": "Kyodo News",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Japan scrambles jets after China spy aircraft flights over East China Sea",
+        "url": "https://english.kyodonews.net/articles/-/84207",
+        "published_at": null,
+        "collected_at": "2026-09-08T00:37:59.605363+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "fec3a470f50a968493be",
+    "title": "Dance floor to war: China readies humanoid robots",
+    "status": "报道中",
+    "category": "安全/冲突",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-08T00:37:59.605363+00:00",
+    "last_seen": "2026-09-08T00:37:59.605363+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "India"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "0f5057ec67e61e24b7a2",
+        "origin_type": "news",
+        "source": "The Economic Times",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Dance floor to war: China readies humanoid robots",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/from-dance-floor-to-war-china-readies-humanoid-robots-for-combat/articleshow/133867836.cms",
+        "published_at": null,
+        "collected_at": "2026-09-08T00:37:59.605363+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "67afbffdb05fdb7b59d6",
+    "title": "576 Nepalis stranded in China after Bhotekoshi floods repatriated",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-08T00:37:59.605363+00:00",
+    "last_seen": "2026-09-08T00:37:59.605363+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Nepal"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "d3cc729eb184062c76f3",
+        "origin_type": "news",
+        "source": "The Kathmandu Post",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "576 Nepalis stranded in China after Bhotekoshi floods repatriated",
+        "url": "https://kathmandupost.com/national/2026/09/07/576-nepalis-stranded-in-china-after-bhotekoshi-floods-repatriated",
+        "published_at": null,
+        "collected_at": "2026-09-08T00:37:59.605363+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "a0058c1acf9341dc54af",
+    "title": "ABC Trade and Investment signs MoU with All-China Environment Federation",
+    "status": "报道中",
+    "category": "经贸/科技",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-08T00:37:59.605363+00:00",
+    "last_seen": "2026-09-08T00:37:59.605363+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Sri Lanka"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "40176f7d5b3c33d0157a",
+        "origin_type": "news",
+        "source": "Daily FT Sri Lanka",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "ABC Trade and Investment signs MoU with All-China Environment Federation",
+        "url": "https://www.ft.lk/business/ABC-Trade-and-Investment-signs-MoU-with-All-China-Environment-Federation/34-796969",
+        "published_at": null,
+        "collected_at": "2026-09-08T00:37:59.605363+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "e22036c14217ca236982",
+    "title": "Egypt-China 'Eagles of Civilization 2026' air exercise concludes",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-08T00:37:59.605363+00:00",
+    "last_seen": "2026-09-08T00:37:59.605363+00:00",
+    "source_count": 1,
+    "news_count": 4,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Egypt"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "df37bf16d8328b06eed9",
+        "origin_type": "news",
+        "source": "Ahram Online",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Egypt-China 'Eagles of Civilization 2026' air exercise concludes",
+        "url": "https://english.ahram.org.eg/NewsContent/1/1237/576150/Egypt/Defence/EgyptChina-;Eagles-of-Civilization-;-air-exercise-.aspx",
+        "published_at": null,
+        "collected_at": "2026-09-08T00:37:59.605363+00:00",
+        "relation": "direct",
+        "confidence": 94
+      },
+      {
+        "id": "f7e82224b2c13e5b52d8",
+        "origin_type": "news",
+        "source": "Ahram Online",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "PHOTO GALLERY: Egypt, China launch ‘Eagles of Civilization 2026’ joint air exercise",
+        "url": "https://english.ahram.org.eg/NewsContentMulti/575611/Multimedia.aspx",
+        "published_at": null,
+        "collected_at": "2026-09-08T00:37:59.605363+00:00",
+        "relation": "direct",
+        "confidence": 94
+      },
+      {
+        "id": "220c2a883c3b5b5220f0",
+        "origin_type": "news",
+        "source": "Ahram Online",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Egypt, China continue joint air exercise ‘Eagles of Civilization 2026’",
+        "url": "https://english.ahram.org.eg/News/575608.aspx",
+        "published_at": null,
+        "collected_at": "2026-09-08T00:37:59.605363+00:00",
+        "relation": "direct",
+        "confidence": 94
+      },
+      {
+        "id": "eb015d5dfb6e55e72448",
+        "origin_type": "news",
+        "source": "Ahram Online",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "In Photos: Egypt, China launch joint air exercise ‘Eagles of Civilization 2026’",
+        "url": "https://english.ahram.org.eg/News/575068.aspx",
+        "published_at": null,
+        "collected_at": "2026-09-08T00:37:59.605363+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "fc46fa10d4637833cc91",
+    "title": "6 Killed in Ukrainian Drone Strikes Across Russia and Crimea Russia’s Defense Ministry said it intercepted 306 Ukrainian drones across Russia and annexed Crimea overnight. 1 Min read",
+    "status": "报道中",
+    "category": "社会动荡",
+    "severity": "high",
+    "priority_score": 58,
+    "confidence_score": 40,
+    "importance_score": 64,
+    "china_relevance_score": 55,
+    "first_seen": "2026-09-08T00:37:59.605363+00:00",
+    "last_seen": "2026-09-08T00:37:59.605363+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Russia"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=Russia; 中国关联利益=中俄关系, 能源, 远东, 跨境贸易, 军事合作, 北极, 中亚, 人员与劳务; 中国关联实体/项目=Power of Siberia, Yamal LNG China exposure, China-Russia border trade",
+    "evidence": [
+      {
+        "id": "202f2c4e74739e725b90",
+        "origin_type": "news",
+        "source": "The Moscow Times",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "6 Killed in Ukrainian Drone Strikes Across Russia and Crimea Russia’s Defense Ministry said it intercepted 306 Ukrainian drones across Russia and annexed Crimea overnight. 1 Min read",
+        "url": "https://www.themoscowtimes.com/2026/09/07/6-killed-in-ukrainian-drone-strikes-across-russia-and-crimea-a93650",
+        "published_at": null,
+        "collected_at": "2026-09-08T00:37:59.605363+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "3ebdbc83fdd57ffa3f74",
+    "title": "Israeli ministers call for sanctions on Britain over Falkland Islands",
+    "status": "报道中",
+    "category": "外交/制裁",
+    "severity": "high",
+    "priority_score": 58,
+    "confidence_score": 40,
+    "importance_score": 64,
+    "china_relevance_score": 55,
+    "first_seen": "2026-09-07T22:36:58+00:00",
+    "last_seen": "2026-09-07T23:36:24+00:00",
+    "source_count": 1,
+    "news_count": 2,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "United Kingdom"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=United Kingdom; 中国关联利益=中英关系, 金融, 香港议题, 投资审查, 科技, 核电, 教育, 情报安全; 中国关联实体/项目=Huawei, CGN, HSBC China exposure, TikTok | 事件关联地区=Israel; 中国关联利益=科技, 港口, 中东安全, 中美科技竞争, 基础设施; 中国关联实体/项目=Haifa port China-related discussions, Israeli tech investment",
+    "evidence": [
+      {
+        "id": "23e5c618c962ca585ce4",
+        "origin_type": "news",
+        "source": "Middle East Eye",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Israeli ministers call for sanctions on Britain over Falkland Islands",
+        "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-ministers-call-sanctions-britain-over-falkland-islands",
+        "published_at": "2026-09-07T23:36:24+00:00",
+        "collected_at": "2026-09-08T00:37:59.605363+00:00",
+        "relation": "potential",
+        "confidence": 62
+      },
+      {
+        "id": "26c2998e9a946b0e7ed2",
+        "origin_type": "news",
+        "source": "Middle East Eye",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Israeli ministers call for sanctions on Britain over Falkland Islands",
+        "url": "https://www.middleeasteye.net/news/israeli-ministers-call-sanctions-britain-over-falkland-islands",
+        "published_at": "2026-09-07T22:36:58+00:00",
+        "collected_at": "2026-09-08T00:37:59.605363+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "ae77ec25b882cf351e6c",
+    "title": "China anuncia inyección de casi US$54.000 millones a sus principales bancos y aseguradoras",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 58,
+    "confidence_score": 40,
+    "importance_score": 36,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-07T22:52:20+00:00",
+    "last_seen": "2026-09-07T22:52:20+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Chile"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "97a132d58304cb532873",
+        "origin_type": "news",
+        "source": "BioBioChile",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "China anuncia inyección de casi US$54.000 millones a sus principales bancos y aseguradoras",
+        "url": "https://www.biobiochile.cl/noticias/economia/negocios-y-empresas/2026/09/07/china-anuncia-inyeccion-de-casi-us54-000-millones-a-sus-principales-bancos-y-aseguradoras.shtml",
+        "published_at": "2026-09-07T22:52:20+00:00",
+        "collected_at": "2026-09-08T00:37:59.605363+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "17712adab0883521bdc1",
+    "title": "AI upends China’s graduate job market",
+    "status": "报道中",
+    "category": "经贸/科技",
+    "severity": "low",
+    "priority_score": 58,
+    "confidence_score": 40,
+    "importance_score": 36,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-07T22:28:16+00:00",
+    "last_seen": "2026-09-07T22:28:16+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "United States"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "76d2accfb0ade9a459c3",
+        "origin_type": "news",
+        "source": "Semafor",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "AI upends China’s graduate job market",
+        "url": "https://www.semafor.com/article/09/07/2026/ai-upends-chinas-graduate-job-market",
+        "published_at": "2026-09-07T22:28:16+00:00",
+        "collected_at": "2026-09-08T00:37:59.605363+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "a28bc3743918552cdf98",
+    "title": "Malaysia eyes Huawei chips despite US warnings",
+    "status": "报道中",
+    "category": "安全/冲突",
+    "severity": "low",
+    "priority_score": 58,
+    "confidence_score": 40,
+    "importance_score": 36,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-07T22:24:57+00:00",
+    "last_seen": "2026-09-07T22:24:57+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "United States"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "c309af07af863bea538b",
+        "origin_type": "news",
+        "source": "Semafor",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Malaysia eyes Huawei chips despite US warnings",
+        "url": "https://www.semafor.com/article/09/07/2026/malaysia-eyes-huawei-chips-despite-us-warnings",
+        "published_at": "2026-09-07T22:24:57+00:00",
+        "collected_at": "2026-09-08T00:37:59.605363+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "620b2649a55251083fe9",
+    "title": "Port of Rotterdam tops Dutch ranking on cutting emissions from business flying",
+    "status": "报道中",
+    "category": "海外利益",
+    "severity": "medium",
+    "priority_score": 58,
+    "confidence_score": 40,
+    "importance_score": 49,
+    "china_relevance_score": 79,
+    "first_seen": "2026-09-07T22:00:00+00:00",
+    "last_seen": "2026-09-07T22:00:00+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Netherlands"
+    ],
+    "entities": [
+      "Port of Rotterdam"
+    ],
+    "reason": "命中中国海外关联企业/项目；事件关联地区=Netherlands; 中国关联利益=半导体设备, 光刻机, 出口管制, 港口物流, 欧盟对华政策; 中国关联实体/项目=ASML, Port of Rotterdam, COSCO | 事件关联地区=Global; 中国关联利益=全球贸易, 金融, 能源, 粮食, 关键矿产, 航运, 核安全, 太空; 中国关联实体/项目=WTO, IMF, World Bank, IAEA, IEA, UN",
+    "evidence": [
+      {
+        "id": "212df42716c5e87dc114",
+        "origin_type": "news",
+        "source": "NL Times",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Port of Rotterdam tops Dutch ranking on cutting emissions from business flying",
+        "url": "https://nltimes.nl/2026/09/07/port-rotterdam-tops-dutch-ranking-cutting-emissions-business-flying",
+        "published_at": "2026-09-07T22:00:00+00:00",
+        "collected_at": "2026-09-08T00:37:59.605363+00:00",
+        "relation": "indirect",
+        "confidence": 84
+      }
+    ]
+  },
+  {
+    "id": "765f02faf24dc7f69862",
+    "title": "EU trade chief to meet CEOs over China strategy",
+    "status": "报道中",
+    "category": "经贸/科技",
+    "severity": "low",
+    "priority_score": 55,
+    "confidence_score": 56,
+    "importance_score": 38,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-07T16:16:55+00:00",
+    "last_seen": "2026-09-07T16:16:55+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "European Union"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "0c77204860e6a4d1a7a1",
+        "origin_type": "news",
+        "source": "POLITICO Europe",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "EU trade chief to meet CEOs over China strategy",
+        "url": "https://www.politico.eu/article/eu-trade-chief-maros-sefcovic-meet-eu-ceos-over-china-strategy/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "published_at": "2026-09-07T16:16:55+00:00",
+        "collected_at": "2026-09-08T00:37:59.605363+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  }
+]
