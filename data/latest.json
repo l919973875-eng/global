@@ -1,5 +1,765 @@
 [
   {
+    "id": "006ef05a00ed5d3f4f78",
+    "title": "Envoy: War and blockade part of same strategy to weaken Iran",
+    "status": "报道中",
+    "category": "安全/冲突",
+    "severity": "critical",
+    "priority_score": 65,
+    "confidence_score": 40,
+    "importance_score": 77,
+    "china_relevance_score": 55,
+    "first_seen": "2026-09-09T22:04:56+00:00",
+    "last_seen": "2026-09-09T22:04:56+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Iran"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=Iran; 中国关联利益=能源, 制裁, 核问题, 中东安全, 中伊合作; 中国关联实体/项目=China-Iran energy trade | 事件关联地区=United States; 中国关联利益=中美关系, 贸易与关税, 科技与出口管制, 半导体, 人工智能, 金融制裁, 军事与印太, 台海; 中国关联实体/项目=Huawei, ZTE, SMIC, ByteDance, TikTok, DJI, CATL, BYD, China Telecom, China Mobile | 事件关联地区=Global; 中国关联利益=全球贸易, 金融, 能源, 粮食, 关键矿产, 航运, 核安全, 太空; 中国关联实体/项目=WTO, IMF, World Bank, IAEA, IEA, UN",
+    "evidence": [
+      {
+        "id": "02b45fecae89db2b7679",
+        "origin_type": "news",
+        "source": "IRNA English",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Envoy: War and blockade part of same strategy to weaken Iran",
+        "url": "https://en.irna.ir/news/86260023/Envoy-War-and-blockade-part-of-same-strategy-to-weaken-Iran",
+        "published_at": "2026-09-09T22:04:56+00:00",
+        "collected_at": "2026-09-10T00:33:29.377931+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "6869537a160043d1a0b5",
+    "title": "Myanmar military kills 7 in airstrike on Sagaing car workshop",
+    "status": "报道中",
+    "category": "安全/冲突",
+    "severity": "critical",
+    "priority_score": 60,
+    "confidence_score": 40,
+    "importance_score": 72,
+    "china_relevance_score": 55,
+    "first_seen": "2026-09-09T09:29:21+00:00",
+    "last_seen": "2026-09-09T09:29:21+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Myanmar"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=Myanmar; 中国关联利益=中缅经济走廊, 油气管道, 皎漂港, 边境安全, 武装冲突, 稀土; 中国关联实体/项目=Kyaukpyu Port, China-Myanmar Economic Corridor, oil and gas pipelines",
+    "evidence": [
+      {
+        "id": "6bada3c98b6e466cf9c9",
+        "origin_type": "news",
+        "source": "Myanmar Now",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Myanmar military kills 7 in airstrike on Sagaing car workshop",
+        "url": "https://myanmar-now.org/en/news/myanmar-military-kills-7-in-airstrike-on-sagaing-car-workshop/",
+        "published_at": "2026-09-09T09:29:21+00:00",
+        "collected_at": "2026-09-10T00:33:29.377931+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "e1e91042be3f9a3b9ad8",
+    "title": "Analysis: Shanghai may be cradling Xi Jinping's successor",
+    "status": "报道中",
+    "category": "经贸/科技",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 56,
+    "importance_score": 42,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-10T00:33:29.377931+00:00",
+    "last_seen": "2026-09-10T00:33:29.377931+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Japan"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "d72b24150996cedd1a34",
+        "origin_type": "news",
+        "source": "Nikkei Asia",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Analysis: Shanghai may be cradling Xi Jinping's successor",
+        "url": "https://asia.nikkei.com/editor-s-picks/china-up-close/analysis-shanghai-may-be-cradling-xi-jinping-s-successor",
+        "published_at": null,
+        "collected_at": "2026-09-10T00:33:29.377931+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "1ba2f1d7d38fe020f76e",
+    "title": "US business confidence in China rebounds from record low: report",
+    "status": "报道中",
+    "category": "海外利益",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 56,
+    "importance_score": 42,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-10T00:33:29.377931+00:00",
+    "last_seen": "2026-09-10T00:33:29.377931+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Japan"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "4af3cab6b51cf7b3af86",
+        "origin_type": "news",
+        "source": "Nikkei Asia",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "US business confidence in China rebounds from record low: report",
+        "url": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/us-business-confidence-in-china-rebounds-from-record-low-report",
+        "published_at": null,
+        "collected_at": "2026-09-10T00:33:29.377931+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "6905b808fe9b9aa59593",
+    "title": "Russia, Vietnam discussing regular train services via China - transport minister",
+    "status": "报道中",
+    "category": "海外利益",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-10T00:33:29.377931+00:00",
+    "last_seen": "2026-09-10T00:33:29.377931+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Russia"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "26b77deac92204d2b3db",
+        "origin_type": "news",
+        "source": "Interfax",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Russia, Vietnam discussing regular train services via China - transport minister",
+        "url": "https://interfax.com/newsroom/top-stories/119065/",
+        "published_at": null,
+        "collected_at": "2026-09-10T00:33:29.377931+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "7086336800f9eb07e4df",
+    "title": "China's CRTG to build road from Batumi to border with Turkey for $310 mln within East-West transport corridor",
+    "status": "报道中",
+    "category": "海外利益",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-10T00:33:29.377931+00:00",
+    "last_seen": "2026-09-10T00:33:29.377931+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Russia"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "1f96454bd02263193f4d",
+        "origin_type": "news",
+        "source": "Interfax",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "China's CRTG to build road from Batumi to border with Turkey for $310 mln within East-West transport corridor",
+        "url": "https://interfax.com/newsroom/top-stories/119062/",
+        "published_at": null,
+        "collected_at": "2026-09-10T00:33:29.377931+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "5ee9afdf68955b252fc8",
+    "title": "Chinese goods rerouted through Birgunj as Nepal’s northern crossings remain disrupted",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-10T00:33:29.377931+00:00",
+    "last_seen": "2026-09-10T00:33:29.377931+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Nepal"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "6a4dc4f74b22a1c7c926",
+        "origin_type": "news",
+        "source": "The Kathmandu Post",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Chinese goods rerouted through Birgunj as Nepal’s northern crossings remain disrupted",
+        "url": "https://kathmandupost.com/money/2026/09/09/chinese-goods-rerouted-through-birgunj-as-nepal-s-northern-crossings-remain-disrupted",
+        "published_at": null,
+        "collected_at": "2026-09-10T00:33:29.377931+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "50944c5e0a7efdaffcdd",
+    "title": "# 2 SA exporters get bite at the cherry as China opens fruit market",
+    "status": "报道中",
+    "category": "海外利益",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-10T00:33:29.377931+00:00",
+    "last_seen": "2026-09-10T00:33:29.377931+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "South Africa"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "e6edf542c4249bd999cd",
+        "origin_type": "news",
+        "source": "Business Day South Africa",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "# 2 SA exporters get bite at the cherry as China opens fruit market",
+        "url": "https://www.businessday.co.za/economy/2026-09-09-china-opens-cherry-market-to-south-african-exporters/",
+        "published_at": null,
+        "collected_at": "2026-09-10T00:33:29.377931+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "6439c8cd1f6f6e2a63d4",
+    "title": "World Cup’s 7ft 3in teen sensation leaves rivals scrambling",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-10T00:12:38+00:00",
+    "last_seen": "2026-09-10T00:12:38+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "New Zealand"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "ede9eeb07473c92d6c1a",
+        "origin_type": "news",
+        "source": "Stuff",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "World Cup’s 7ft 3in teen sensation leaves rivals scrambling",
+        "url": "https://www.stuff.co.nz/sport/361031619/zhang-ziyu-towers-her-world-cup-debut-7foot3-sensation",
+        "published_at": "2026-09-10T00:12:38+00:00",
+        "collected_at": "2026-09-10T00:33:29.377931+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "d4cf42ac001903d6107a",
+    "title": "Muted US response to UK's West Bank sanctions may reflect simmering frustration The UK accuses Israel's government of turning a blind eye to the \"ethnic cleansing\" of Palestinians by settlers. 3 hrs ago Middle East",
+    "status": "报道中",
+    "category": "外交/制裁",
+    "severity": "high",
+    "priority_score": 58,
+    "confidence_score": 56,
+    "importance_score": 69,
+    "china_relevance_score": 55,
+    "first_seen": "2026-09-10T00:33:29.377931+00:00",
+    "last_seen": "2026-09-10T00:33:29.377931+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "United Kingdom"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=United Kingdom; 中国关联利益=中英关系, 金融, 香港议题, 投资审查, 科技, 核电, 教育, 情报安全; 中国关联实体/项目=Huawei, CGN, HSBC China exposure, TikTok | 事件关联地区=United States; 中国关联利益=中美关系, 贸易与关税, 科技与出口管制, 半导体, 人工智能, 金融制裁, 军事与印太, 台海; 中国关联实体/项目=Huawei, ZTE, SMIC, ByteDance, TikTok, DJI, CATL, BYD, China Telecom, China Mobile | 事件关联地区=Israel; 中国关联利益=科技, 港口, 中东安全, 中美科技竞争, 基础设施; 中国关联实体/项目=Haifa port China-related discussions, Israeli tech investment",
+    "evidence": [
+      {
+        "id": "0de82a18516a1d939db9",
+        "origin_type": "news",
+        "source": "BBC News",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Muted US response to UK's West Bank sanctions may reflect simmering frustration The UK accuses Israel's government of turning a blind eye to the \"ethnic cleansing\" of Palestinians by settlers. 3 hrs ago Middle East",
+        "url": "https://www.bbc.com/news/articles/cevw2lxnwk9o",
+        "published_at": null,
+        "collected_at": "2026-09-10T00:33:29.377931+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "0ed5193c3471bcf078b1",
+    "title": "Switzerland: Two killed in power plant explosion",
+    "status": "报道中",
+    "category": "安全/冲突",
+    "severity": "high",
+    "priority_score": 58,
+    "confidence_score": 56,
+    "importance_score": 69,
+    "china_relevance_score": 55,
+    "first_seen": "2026-09-10T00:33:29.377931+00:00",
+    "last_seen": "2026-09-10T00:33:29.377931+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Germany"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=Germany; 中国关联利益=中德经贸, 汽车产业, 机械制造, 对华投资, 欧盟对华政策, 半导体, 化工; 中国关联实体/项目=Volkswagen China exposure, BASF China exposure, CATL, Huawei",
+    "evidence": [
+      {
+        "id": "3f73e13d5b040a171501",
+        "origin_type": "news",
+        "source": "Deutsche Welle",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Switzerland: Two killed in power plant explosion",
+        "url": "https://www.dw.com/en/switzerland-two-killed-in-power-plant-explosion/a-79205516",
+        "published_at": null,
+        "collected_at": "2026-09-10T00:33:29.377931+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "8e050ab69bbed2b6dd8a",
+    "title": "4 Killed in Ukrainian Attack on Novorossiysk Russian officials said more than two dozen people were wounded during the overnight attack on the port city. 1 Min read",
+    "status": "报道中",
+    "category": "安全/冲突",
+    "severity": "high",
+    "priority_score": 58,
+    "confidence_score": 40,
+    "importance_score": 64,
+    "china_relevance_score": 55,
+    "first_seen": "2026-09-10T00:33:29.377931+00:00",
+    "last_seen": "2026-09-10T00:33:29.377931+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Russia"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=Russia; 中国关联利益=中俄关系, 能源, 远东, 跨境贸易, 军事合作, 北极, 中亚, 人员与劳务; 中国关联实体/项目=Power of Siberia, Yamal LNG China exposure, China-Russia border trade",
+    "evidence": [
+      {
+        "id": "4916a2afb03ac925d05e",
+        "origin_type": "news",
+        "source": "The Moscow Times",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "4 Killed in Ukrainian Attack on Novorossiysk Russian officials said more than two dozen people were wounded during the overnight attack on the port city. 1 Min read",
+        "url": "https://www.themoscowtimes.com/2026/09/09/4-killed-in-ukrainian-attack-on-novorossiysk-a93664",
+        "published_at": null,
+        "collected_at": "2026-09-10T00:33:29.377931+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "4fc7be818591b0210302",
+    "title": "Türkiye extends its condolences for victims of explosion in Syria’s Idlib province",
+    "status": "报道中",
+    "category": "安全/冲突",
+    "severity": "high",
+    "priority_score": 58,
+    "confidence_score": 40,
+    "importance_score": 64,
+    "china_relevance_score": 55,
+    "first_seen": "2026-09-10T00:33:29.377931+00:00",
+    "last_seen": "2026-09-10T00:33:29.377931+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Turkey"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=Turkey; 中国关联利益=中间走廊, 中东, 中亚, 贸易, 新能源, 维吾尔议题; 中国关联实体/项目=Middle Corridor, Chinese EV investment",
+    "evidence": [
+      {
+        "id": "484fe3487b931814da10",
+        "origin_type": "news",
+        "source": "Anadolu Agency",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Türkiye extends its condolences for victims of explosion in Syria’s Idlib province",
+        "url": "https://www.aa.com.tr/en/turkiye/turkiye-extends-its-condolences-for-victims-of-explosion-in-syria-s-idlib-province/4052685",
+        "published_at": null,
+        "collected_at": "2026-09-10T00:33:29.377931+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "1653cfb465ab1e7534d2",
+    "title": "43 days of pain as nurses strike leaves 522 dead",
+    "status": "报道中",
+    "category": "社会动荡",
+    "severity": "high",
+    "priority_score": 58,
+    "confidence_score": 40,
+    "importance_score": 64,
+    "china_relevance_score": 55,
+    "first_seen": "2026-09-10T00:33:29.377931+00:00",
+    "last_seen": "2026-09-10T00:33:29.377931+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Kenya"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=Kenya; 中国关联利益=蒙内铁路, 港口, 东非物流, 债务, 电信; 中国关联实体/项目=Mombasa-Nairobi Standard Gauge Railway, Huawei",
+    "evidence": [
+      {
+        "id": "2873d300a13ec43c4e84",
+        "origin_type": "news",
+        "source": "The Standard Kenya",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "43 days of pain as nurses strike leaves 522 dead",
+        "url": "https://www.standardmedia.co.ke/health/health-science/article/2001557433/43-days-of-pain-as-nurses-strike-leaves-522-dead",
+        "published_at": null,
+        "collected_at": "2026-09-10T00:33:29.377931+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "48f1405b3ad20890bae5",
+    "title": "Marco Rubio abordará en Perú el Escudo de las Américas, China y cooperación militar",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 58,
+    "confidence_score": 40,
+    "importance_score": 36,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-09T23:45:52+00:00",
+    "last_seen": "2026-09-09T23:45:52+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Ecuador"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "6c7546b214d6c937bd00",
+        "origin_type": "news",
+        "source": "El Universo Ecuador",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Marco Rubio abordará en Perú el Escudo de las Américas, China y cooperación militar",
+        "url": "https://eluniverso.com/noticias/internacional/marco-rubio-abordara-en-peru-el-escudo-de-las-americas-china-y-cooperacion-militar-nota/",
+        "published_at": "2026-09-09T23:45:52+00:00",
+        "collected_at": "2026-09-10T00:33:29.377931+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "c5032222c47af17039a9",
+    "title": "El Escudo de las Américas y el pulso de Trump a China marcan la visita de Rubio a Perú",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 58,
+    "confidence_score": 40,
+    "importance_score": 36,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-09T23:30:13+00:00",
+    "last_seen": "2026-09-09T23:30:13+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Argentina"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "26df538e03f6799e413e",
+        "origin_type": "news",
+        "source": "Clarín",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "El Escudo de las Américas y el pulso de Trump a China marcan la visita de Rubio a Perú",
+        "url": "https://www.clarin.com/estados-unidos/el-escudo-de-las-americas-y-el-pulso-de-trump-a-china-marcan-la-visita-de-rubio-a-peru_0_WaBTga3IPC.html",
+        "published_at": "2026-09-09T23:30:13+00:00",
+        "collected_at": "2026-09-10T00:33:29.377931+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "0a226e3e1dde318ec9e6",
+    "title": "EU unveils new 'Made in Europe' guidelines to counter China",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 58,
+    "confidence_score": 40,
+    "importance_score": 36,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-09T22:40:36+00:00",
+    "last_seen": "2026-09-09T22:40:36+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "United States"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "eb9999174fc690174004",
+        "origin_type": "news",
+        "source": "Semafor",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "EU unveils new 'Made in Europe' guidelines to counter China",
+        "url": "https://www.semafor.com/article/09/09/2026/eu-unveils-new-made-in-europe-guidelines-to-counter-china",
+        "published_at": "2026-09-09T22:40:36+00:00",
+        "collected_at": "2026-09-10T00:33:29.377931+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "ba997bf8117604dd87c1",
+    "title": "Ambassador: China is ready to share its experience in combating telephone fraud with Kyrgyzstan",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 58,
+    "confidence_score": 40,
+    "importance_score": 36,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-09T22:23:40+00:00",
+    "last_seen": "2026-09-09T22:23:40+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Kyrgyzstan"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "83d5f283d5d6444421eb",
+        "origin_type": "news",
+        "source": "AKIpress",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Ambassador: China is ready to share its experience in combating telephone fraud with Kyrgyzstan",
+        "url": "https://akipress.com/news:918023",
+        "published_at": "2026-09-09T22:23:40+00:00",
+        "collected_at": "2026-09-10T00:33:29.377931+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "20a0295a47f8391529b9",
+    "title": "Hamas member released in exchange for Israeli soldier Gilad Shalit killed in Gaza",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "high",
+    "priority_score": 57,
+    "confidence_score": 40,
+    "importance_score": 64,
+    "china_relevance_score": 55,
+    "first_seen": "2026-09-09T23:25:42+00:00",
+    "last_seen": "2026-09-09T23:25:42+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "United Kingdom"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=United Kingdom; 中国关联利益=中英关系, 金融, 香港议题, 投资审查, 科技, 核电, 教育, 情报安全; 中国关联实体/项目=Huawei, CGN, HSBC China exposure, TikTok",
+    "evidence": [
+      {
+        "id": "08b947a4efa031d12ac6",
+        "origin_type": "news",
+        "source": "Middle East Eye",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Hamas member released in exchange for Israeli soldier Gilad Shalit killed in Gaza",
+        "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-member-released-exchange-israeli-soldier-killed-gaza-strike",
+        "published_at": "2026-09-09T23:25:42+00:00",
+        "collected_at": "2026-09-10T00:33:29.377931+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "781057d89c84741cbfca",
+    "title": "Что означает риск сокращения спроса на нефть в Китае почти на 9% в 2026 году",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 57,
+    "confidence_score": 40,
+    "importance_score": 35,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-09T21:22:53+00:00",
+    "last_seen": "2026-09-09T21:22:53+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Russia"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "1e09e629ecfd94f20f46",
+        "origin_type": "news",
+        "source": "Vedomosti",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Что означает риск сокращения спроса на нефть в Китае почти на 9% в 2026 году",
+        "url": "https://www.vedomosti.ru/economics/articles/2026/09/10/1227669-risk-sokrascheniya-sprosa-na-neft-v-kitae",
+        "published_at": "2026-09-09T21:22:53+00:00",
+        "collected_at": "2026-09-10T00:33:29.377931+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
     "id": "fdf391417d047bfcaff0",
     "title": "Exclusive: SpaceX moves to keep Chinese nationals, parts out of supply chain",
     "status": "报道中",
@@ -32,6 +792,196 @@
         "url": "https://asia.nikkei.com/business/technology/exclusive-spacex-moves-to-keep-chinese-nationals-parts-out-of-supply-chain",
         "published_at": null,
         "collected_at": "2026-09-09T00:37:47.862972+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "0144114c20a73e96ba0d",
+    "title": "European Commission proposes EU preference in public procurement, excluding Chinese firms",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 56,
+    "confidence_score": 56,
+    "importance_score": 39,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-09T19:09:19+00:00",
+    "last_seen": "2026-09-09T19:09:19+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Europe"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "6769c404d17f342b8f89",
+        "origin_type": "news",
+        "source": "Euronews",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "European Commission proposes EU preference in public procurement, excluding Chinese firms",
+        "url": "http://www.euronews.com/my-europe/2026/09/09/european-commission-proposes-eu-preference-in-public-procurement-excluding-chinese-firms",
+        "published_at": "2026-09-09T19:09:19+00:00",
+        "collected_at": "2026-09-10T00:33:29.377931+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "cd5ef1e70187ddf0a754",
+    "title": "Fifty Chinese nationals convicted in Madagascar for crimes deported",
+    "status": "报道中",
+    "category": "海外利益",
+    "severity": "low",
+    "priority_score": 55,
+    "confidence_score": 40,
+    "importance_score": 33,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-09T15:29:45+00:00",
+    "last_seen": "2026-09-09T15:29:45+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Africa"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "ffb00743cb4c256ab8ed",
+        "origin_type": "news",
+        "source": "Africanews",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Fifty Chinese nationals convicted in Madagascar for crimes deported",
+        "url": "http://www.africanews.com/2026/09/09/fifty-chinese-nationals-convicted-in-madagascar-for-crimes-deported/",
+        "published_at": "2026-09-09T15:29:45+00:00",
+        "collected_at": "2026-09-10T00:33:29.377931+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "fc6e927cf2965f7f4b73",
+    "title": "The Hong Kong Shopping Festival achieved success in the Chinese Mainland with over 115 million views",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 55,
+    "confidence_score": 40,
+    "importance_score": 33,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-09T15:10:16+00:00",
+    "last_seen": "2026-09-09T15:10:16+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Indonesia"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "4b34f77162387890f540",
+        "origin_type": "news",
+        "source": "ANTARA News",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "The Hong Kong Shopping Festival achieved success in the Chinese Mainland with over 115 million views",
+        "url": "https://en.antaranews.com/news/430737/the-hong-kong-shopping-festival-achieved-success-in-the-chinese-mainland-with-over-115-million-views",
+        "published_at": "2026-09-09T15:10:16+00:00",
+        "collected_at": "2026-09-10T00:33:29.377931+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "8727ce774e38999e1546",
+    "title": "The 43rd Hong Kong Watch & Clock Design Competition results announced",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 55,
+    "confidence_score": 40,
+    "importance_score": 33,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-09T15:07:57+00:00",
+    "last_seen": "2026-09-09T15:07:57+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Indonesia"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "477296e7d9584a9fe41a",
+        "origin_type": "news",
+        "source": "ANTARA News",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "The 43rd Hong Kong Watch & Clock Design Competition results announced",
+        "url": "https://en.antaranews.com/news/430736/the-43rd-hong-kong-watch-clock-design-competition-results-announced",
+        "published_at": "2026-09-09T15:07:57+00:00",
+        "collected_at": "2026-09-10T00:33:29.377931+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "98eb80c66fe9b68978db",
+    "title": "Xi Comes to Washington: Expectations for the Trump–Xi Summit",
+    "status": "报道中",
+    "category": "外交/制裁",
+    "severity": "low",
+    "priority_score": 55,
+    "confidence_score": 40,
+    "importance_score": 33,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-09T14:40:35+00:00",
+    "last_seen": "2026-09-09T14:40:35+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "United States"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "af9afa96af1edead6c08",
+        "origin_type": "news",
+        "source": "Heritage Foundation",
+        "source_kind": "think_tank",
+        "platform": null,
+        "author": null,
+        "title": "Xi Comes to Washington: Expectations for the Trump–Xi Summit",
+        "url": "https://www.heritage.org/china/report/xi-comes-washington-expectations-the-trump-xi-summit",
+        "published_at": "2026-09-09T14:40:35+00:00",
+        "collected_at": "2026-09-10T00:33:29.377931+00:00",
         "relation": "direct",
         "confidence": 94
       }
