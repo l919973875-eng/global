@@ -1,1 +1,1140 @@
-[]
+[
+  {
+    "id": "17d26870c3563dfc6293",
+    "title": "Q&A clash: Podcast host arrested at Paul Henry event; Milo's trademark victory over Chinese firm",
+    "status": "报道中",
+    "category": "经贸/科技",
+    "severity": "high",
+    "priority_score": 75,
+    "confidence_score": 40,
+    "importance_score": 64,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-11T00:34:21.264078+00:00",
+    "last_seen": "2026-09-11T00:34:21.264078+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "New Zealand"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "7c9391fbcb085300ac4f",
+        "origin_type": "news",
+        "source": "NZ Herald",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Q&A clash: Podcast host arrested at Paul Henry event; Milo's trademark victory over Chinese firm",
+        "url": "https://www.nzherald.co.nz/business/media-insider/media-insider-podcast-host-arrested-after-removal-from-paul-henry-event-stuff-executive-changes-milo-marketing-legal-win-tom-phillips-netflix-doco/premium/OM6EZREVAJHLFMMSP23D7THU4A/",
+        "published_at": null,
+        "collected_at": "2026-09-11T00:34:21.264078+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "7f5d73aa82711255852c",
+    "title": "Spanish Brand Returns From The Dead With Rebadged Nissans Built In China",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "high",
+    "priority_score": 74,
+    "confidence_score": 40,
+    "importance_score": 64,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-10T23:45:00+00:00",
+    "last_seen": "2026-09-10T23:45:00+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "United States"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "53757afc05516d000ab1",
+        "origin_type": "news",
+        "source": "carscoops.com",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Spanish Brand Returns From The Dead With Rebadged Nissans Built In China",
+        "url": "https://www.carscoops.com/2026/09/galloper-iberica/",
+        "published_at": "2026-09-10T23:45:00+00:00",
+        "collected_at": "2026-09-11T00:34:21.264078+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "4e5af4d0198eddbf548e",
+    "title": "犯下这事儿 ， 中国女留学生5年后绿卡面谈时被捕",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "high",
+    "priority_score": 74,
+    "confidence_score": 40,
+    "importance_score": 64,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-10T23:45:00+00:00",
+    "last_seen": "2026-09-10T23:45:00+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "China"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "9d36f2f54a5f460b2e8b",
+        "origin_type": "news",
+        "source": "aboluowang.com",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "犯下这事儿 ， 中国女留学生5年后绿卡面谈时被捕",
+        "url": "https://www.aboluowang.com/2026/0911/2431800.html",
+        "published_at": "2026-09-10T23:45:00+00:00",
+        "collected_at": "2026-09-11T00:34:21.264078+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "ae81452c01221051fc7d",
+    "title": "Myanmar military, MNDAA move to strengthen positions amid rising tensions",
+    "status": "报道中",
+    "category": "安全/冲突",
+    "severity": "medium",
+    "priority_score": 61,
+    "confidence_score": 40,
+    "importance_score": 45,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-10T11:48:31+00:00",
+    "last_seen": "2026-09-10T11:48:31+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Myanmar"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "5e02783057d9e6f21175",
+        "origin_type": "news",
+        "source": "Myanmar Now",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Myanmar military, MNDAA move to strengthen positions amid rising tensions",
+        "url": "https://myanmar-now.org/en/news/myanmar-military-mndaa-move-to-strengthen-positions-amid-rising-tensions/",
+        "published_at": "2026-09-10T11:48:31+00:00",
+        "collected_at": "2026-09-11T00:34:21.264078+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "ac881a126948b06b0a65",
+    "title": "China's CXMT tops SK Hynix, Micron to take memory profit margin crown",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 56,
+    "importance_score": 42,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-11T00:34:21.264078+00:00",
+    "last_seen": "2026-09-11T00:34:21.264078+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Japan"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "553cf20facb0cd272016",
+        "origin_type": "news",
+        "source": "Nikkei Asia",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "China's CXMT tops SK Hynix, Micron to take memory profit margin crown",
+        "url": "https://asia.nikkei.com/business/tech/semiconductors/china-s-cxmt-tops-sk-hynix-micron-to-take-memory-profit-margin-crown",
+        "published_at": null,
+        "collected_at": "2026-09-11T00:34:21.264078+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "9ec2f7917a02befbb134",
+    "title": "Azerbaijan, China's CC7 corporation discuss bolstering cooperation in petrochemical sector",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-11T00:34:21.264078+00:00",
+    "last_seen": "2026-09-11T00:34:21.264078+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Russia"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "8e95a58476dc534d1214",
+        "origin_type": "news",
+        "source": "Interfax",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Azerbaijan, China's CC7 corporation discuss bolstering cooperation in petrochemical sector",
+        "url": "https://interfax.com/newsroom/top-stories/119081/",
+        "published_at": null,
+        "collected_at": "2026-09-11T00:34:21.264078+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "dc66463b009371a5f3e3",
+    "title": "First block train launches from China to Iran in transit through Uzbekistan",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-11T00:34:21.264078+00:00",
+    "last_seen": "2026-09-11T00:34:21.264078+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Russia"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "6fc09998c65609af1c1e",
+        "origin_type": "news",
+        "source": "Interfax",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "First block train launches from China to Iran in transit through Uzbekistan",
+        "url": "https://interfax.com/newsroom/top-stories/119080/",
+        "published_at": null,
+        "collected_at": "2026-09-11T00:34:21.264078+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "2cc2a5ef6136a75deeaa",
+    "title": "中国が米AI「クロード」で自国AIを訓練 中国軍情報も無断転送、アンソロピック発表",
+    "status": "报道中",
+    "category": "经贸/科技",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-11T00:34:21.264078+00:00",
+    "last_seen": "2026-09-11T00:34:21.264078+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Japan"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "8918952628cd92345469",
+        "origin_type": "news",
+        "source": "Sankei",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "中国が米AI「クロード」で自国AIを訓練 中国軍情報も無断転送、アンソロピック発表",
+        "url": "https://www.sankei.com/article/20260911-X53LAWNGCVNK5FJIBCE7XYBYMY/",
+        "published_at": null,
+        "collected_at": "2026-09-11T00:34:21.264078+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "29095564ef90461e5500",
+    "title": "Xi’s first visit in 7 years: India and China look to consolidate peace along LAC",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-11T00:34:21.264078+00:00",
+    "last_seen": "2026-09-11T00:34:21.264078+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "India"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "256e135a6d09ba720d09",
+        "origin_type": "news",
+        "source": "Hindustan Times",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Xi’s first visit in 7 years: India and China look to consolidate peace along LAC",
+        "url": "https://www.hindustantimes.com/india-news/xis-first-visit-in-7-years-india-and-china-look-to-consolidate-peace-along-lac-101789058786769.html",
+        "published_at": null,
+        "collected_at": "2026-09-11T00:34:21.264078+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "524b601e46076c65e121",
+    "title": "Foreign victims shut out of Korea's 'jeonse' fraud relief efforts",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-11T00:27:02+00:00",
+    "last_seen": "2026-09-11T00:27:02+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "South Korea"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "65f5ac8dce2f63966138",
+        "origin_type": "news",
+        "source": "The Korea Times",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Foreign victims shut out of Korea's 'jeonse' fraud relief efforts",
+        "url": "https://www.koreatimes.co.kr/economy/20260911/foreign-victims-shut-out-of-koreas-jeonse-fraud-relief-efforts?utm_source=rss",
+        "published_at": "2026-09-11T00:27:02+00:00",
+        "collected_at": "2026-09-11T00:34:21.264078+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "f585fe61e078dab25e24",
+    "title": "Voronezh Woman Killed and Caspian Seaport Hit in Ukrainian Drone Strikes In a separate seaborne drone attack on the Black Sea city of Sochi, 28 people were injured, local officials said Thursday morning. 1 Min read",
+    "status": "报道中",
+    "category": "安全/冲突",
+    "severity": "high",
+    "priority_score": 58,
+    "confidence_score": 40,
+    "importance_score": 64,
+    "china_relevance_score": 55,
+    "first_seen": "2026-09-11T00:34:21.264078+00:00",
+    "last_seen": "2026-09-11T00:34:21.264078+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Russia"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=Russia; 中国关联利益=中俄关系, 能源, 远东, 跨境贸易, 军事合作, 北极, 中亚, 人员与劳务; 中国关联实体/项目=Power of Siberia, Yamal LNG China exposure, China-Russia border trade",
+    "evidence": [
+      {
+        "id": "46cbe2e975f3747f63cd",
+        "origin_type": "news",
+        "source": "The Moscow Times",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Voronezh Woman Killed and Caspian Seaport Hit in Ukrainian Drone Strikes In a separate seaborne drone attack on the Black Sea city of Sochi, 28 people were injured, local officials said Thursday morning. 1 Min read",
+        "url": "https://www.themoscowtimes.com/2026/09/10/voronezh-woman-killed-and-caspian-seaport-hit-in-ukrainian-drone-strikes-a93674",
+        "published_at": null,
+        "collected_at": "2026-09-11T00:34:21.264078+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "f6c7b3f044739aa6a729",
+    "title": "Mastermind of Islamabad imambargah attack, four ISKP terrorists killed in Peshawar IBO",
+    "status": "报道中",
+    "category": "安全/冲突",
+    "severity": "high",
+    "priority_score": 58,
+    "confidence_score": 40,
+    "importance_score": 64,
+    "china_relevance_score": 55,
+    "first_seen": "2026-09-11T00:34:21.264078+00:00",
+    "last_seen": "2026-09-11T00:34:21.264078+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Pakistan"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=Pakistan; 中国关联利益=中巴经济走廊, 瓜达尔港, 中国公民安全, 电力, 基础设施, 反恐, 印巴关系; 中国关联实体/项目=CPEC, Gwadar Port, Chinese power projects",
+    "evidence": [
+      {
+        "id": "1f547e455a71e121230d",
+        "origin_type": "news",
+        "source": "The Express Tribune",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Mastermind of Islamabad imambargah attack, four ISKP terrorists killed in Peshawar IBO",
+        "url": "https://tribune.com.pk/story/2628584/mastermind-of-islamabad-imambargah-attack-four-iskp-terrorists-killed-in-ibo",
+        "published_at": null,
+        "collected_at": "2026-09-11T00:34:21.264078+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "760db0c76a310d09c136",
+    "title": "One Palestinian killed, others wounded in Israeli strike on Gaza, Palestinian media reports",
+    "status": "报道中",
+    "category": "海外利益",
+    "severity": "high",
+    "priority_score": 58,
+    "confidence_score": 40,
+    "importance_score": 64,
+    "china_relevance_score": 55,
+    "first_seen": "2026-09-11T00:34:21.264078+00:00",
+    "last_seen": "2026-09-11T00:34:21.264078+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Israel"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=Israel; 中国关联利益=科技, 港口, 中东安全, 中美科技竞争, 基础设施; 中国关联实体/项目=Haifa port China-related discussions, Israeli tech investment",
+    "evidence": [
+      {
+        "id": "29395f6c21c3a853e16a",
+        "origin_type": "news",
+        "source": "Haaretz",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "One Palestinian killed, others wounded in Israeli strike on Gaza, Palestinian media reports",
+        "url": "https://www.haaretz.com/israel-news/israel-security/2026-09-10/ty-article-live/multiple-u-s-aircraft-damaged-in-overnight-strikes-on-jordan-air-base-cbs-says/000001a0-8913-d219-a3ed-bddb34d70000?liveBlogItemId=284188915#284188915",
+        "published_at": null,
+        "collected_at": "2026-09-11T00:34:21.264078+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "00759ef1e5d19cf3cb2f",
+    "title": "Nine former pilot officers from Assad era arrested for ‘war crimes’",
+    "status": "报道中",
+    "category": "安全/冲突",
+    "severity": "high",
+    "priority_score": 58,
+    "confidence_score": 40,
+    "importance_score": 64,
+    "china_relevance_score": 55,
+    "first_seen": "2026-09-11T00:23:02+00:00",
+    "last_seen": "2026-09-11T00:23:02+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "United Kingdom"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=United Kingdom; 中国关联利益=中英关系, 金融, 香港议题, 投资审查, 科技, 核电, 教育, 情报安全; 中国关联实体/项目=Huawei, CGN, HSBC China exposure, TikTok",
+    "evidence": [
+      {
+        "id": "9ccb8fe45b476bd92298",
+        "origin_type": "news",
+        "source": "Middle East Eye",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Nine former pilot officers from Assad era arrested for ‘war crimes’",
+        "url": "https://www.middleeasteye.net/live-blog/live-blog-update/nine-former-pilot-officers-assad-era-arrested-war-crimes",
+        "published_at": "2026-09-11T00:23:02+00:00",
+        "collected_at": "2026-09-11T00:34:21.264078+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "471da83413d323f5a16c",
+    "title": "Two arrested at socialist anti-Trump protest after assault at ‘closest entry point’ to GOP convention: police",
+    "status": "报道中",
+    "category": "社会动荡",
+    "severity": "high",
+    "priority_score": 58,
+    "confidence_score": 40,
+    "importance_score": 64,
+    "china_relevance_score": 55,
+    "first_seen": "2026-09-11T00:22:16+00:00",
+    "last_seen": "2026-09-11T00:22:16+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "United States"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=United States; 中国关联利益=中美关系, 贸易与关税, 科技与出口管制, 半导体, 人工智能, 金融制裁, 军事与印太, 台海; 中国关联实体/项目=Huawei, ZTE, SMIC, ByteDance, TikTok, DJI, CATL, BYD, China Telecom, China Mobile",
+    "evidence": [
+      {
+        "id": "1824e10fbb2754d27e99",
+        "origin_type": "news",
+        "source": "Fox News",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Two arrested at socialist anti-Trump protest after assault at ‘closest entry point’ to GOP convention: police",
+        "url": "https://www.foxnews.com/politics/two-arrested-socialist-anti-trump-protest-assault-closest-entry-point-gop-convention-police",
+        "published_at": "2026-09-11T00:22:16+00:00",
+        "collected_at": "2026-09-11T00:34:21.264078+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "c51a3d3e004b18de8157",
+    "title": "US sanctions Iraqi paramilitary group Kataib Hezbollah",
+    "status": "报道中",
+    "category": "安全/冲突",
+    "severity": "high",
+    "priority_score": 58,
+    "confidence_score": 40,
+    "importance_score": 64,
+    "china_relevance_score": 55,
+    "first_seen": "2026-09-11T00:04:45+00:00",
+    "last_seen": "2026-09-11T00:04:45+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "United Kingdom"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=United Kingdom; 中国关联利益=中英关系, 金融, 香港议题, 投资审查, 科技, 核电, 教育, 情报安全; 中国关联实体/项目=Huawei, CGN, HSBC China exposure, TikTok | 事件关联地区=United States; 中国关联利益=中美关系, 贸易与关税, 科技与出口管制, 半导体, 人工智能, 金融制裁, 军事与印太, 台海; 中国关联实体/项目=Huawei, ZTE, SMIC, ByteDance, TikTok, DJI, CATL, BYD, China Telecom, China Mobile | 事件关联地区=Iran; 中国关联利益=能源, 制裁, 核问题, 中东安全, 中伊合作; 中国关联实体/项目=China-Iran energy trade",
+    "evidence": [
+      {
+        "id": "1b37e39222e9f402553e",
+        "origin_type": "news",
+        "source": "Middle East Eye",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "US sanctions Iraqi paramilitary group Kataib Hezbollah",
+        "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-sanctions-iraqi-paramilitary-group-kataib-hezbollah",
+        "published_at": "2026-09-11T00:04:45+00:00",
+        "collected_at": "2026-09-11T00:34:21.264078+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "244b717d1b94a92d5e25",
+    "title": "Puerto de Chancay: lo que dice Cosco Shipping ante cuestionamientos de Estados Unidos",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 58,
+    "confidence_score": 40,
+    "importance_score": 36,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-10T23:55:37+00:00",
+    "last_seen": "2026-09-10T23:55:37+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Peru"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "cebf4c8c718d36c64d40",
+        "origin_type": "news",
+        "source": "Gestión",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Puerto de Chancay: lo que dice Cosco Shipping ante cuestionamientos de Estados Unidos",
+        "url": "https://gestion.pe/economia/puerto-de-chancay-que-dice-cosco-shipping-ports-ante-los-cuestionamientos-de-estados-unidos-noticia/",
+        "published_at": "2026-09-10T23:55:37+00:00",
+        "collected_at": "2026-09-11T00:34:21.264078+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "4594dba6e6025a4907ba",
+    "title": "中共大力封杀 营救博主述北京女被拐2经历",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 58,
+    "confidence_score": 40,
+    "importance_score": 36,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-10T23:45:00+00:00",
+    "last_seen": "2026-09-10T23:45:00+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "China"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "74a808d78211774f52ca",
+        "origin_type": "news",
+        "source": "aboluowang.com",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "中共大力封杀 营救博主述北京女被拐2经历",
+        "url": "https://www.aboluowang.com/2026/0911/2431773.html",
+        "published_at": "2026-09-10T23:45:00+00:00",
+        "collected_at": "2026-09-11T00:34:21.264078+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "b20a95e0fb83a7956683",
+    "title": "3 Tiananmen vigil organizers set to be sentenced in Hong Kong national security case",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 58,
+    "confidence_score": 40,
+    "importance_score": 36,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-10T23:45:00+00:00",
+    "last_seen": "2026-09-10T23:45:00+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Canada"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "81de860c09b12adef2e8",
+        "origin_type": "news",
+        "source": "therecord.com",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "3 Tiananmen vigil organizers set to be sentenced in Hong Kong national security case",
+        "url": "https://www.therecord.com/news/world/asia/3-tiananmen-vigil-organizers-set-to-be-sentenced-in-hong-kong-national-security-case/article_78520e07-3c47-57bb-99eb-058fe0e1d133.html",
+        "published_at": "2026-09-10T23:45:00+00:00",
+        "collected_at": "2026-09-11T00:34:21.264078+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "7a7ad29dddeaaa2b71e3",
+    "title": "中国知识产权行政执法十大案例发布 - 新华网",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 58,
+    "confidence_score": 40,
+    "importance_score": 36,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-10T23:45:00+00:00",
+    "last_seen": "2026-09-10T23:45:00+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "China"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "c1f35581aef244729713",
+        "origin_type": "news",
+        "source": "xinhuanet.com",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "中国知识产权行政执法十大案例发布 - 新华网",
+        "url": "http://www.xinhuanet.com/20260911/df3ff8e9f5d84398a2ea4562161b161e/c.html",
+        "published_at": "2026-09-10T23:45:00+00:00",
+        "collected_at": "2026-09-11T00:34:21.264078+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "c715e2bbfb157a441de5",
+    "title": "Chinese energy firms showcase tech , commitment to cooperation at Iraq intl oil , gas expo - Xinhua",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 58,
+    "confidence_score": 40,
+    "importance_score": 36,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-10T23:45:00+00:00",
+    "last_seen": "2026-09-10T23:45:00+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "3d858e1f8c96b5cc69f0",
+        "origin_type": "news",
+        "source": "english.news.cn",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Chinese energy firms showcase tech , commitment to cooperation at Iraq intl oil , gas expo - Xinhua",
+        "url": "https://english.news.cn/20260911/79df9ea058ea4682b6571bff4999cfde/c.html",
+        "published_at": "2026-09-10T23:45:00+00:00",
+        "collected_at": "2026-09-11T00:34:21.264078+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "e0e6c355644ec6b453cb",
+    "title": "中方敦促推动伊核问题重回政治外交解决轨道",
+    "status": "报道中",
+    "category": "外交/制裁",
+    "severity": "low",
+    "priority_score": 58,
+    "confidence_score": 40,
+    "importance_score": 36,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-10T23:45:00+00:00",
+    "last_seen": "2026-09-10T23:45:00+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "China"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "b1309db32431f6cf3c28",
+        "origin_type": "news",
+        "source": "hqtime.huanqiu.com",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "中方敦促推动伊核问题重回政治外交解决轨道",
+        "url": "https://hqtime.huanqiu.com/share/article/4TA5MqwqJms",
+        "published_at": "2026-09-10T23:45:00+00:00",
+        "collected_at": "2026-09-11T00:34:21.264078+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "272c9db90849d0d6ac5d",
+    "title": "南海擾動一路奔西 ！ 專家示警下周新發展 | ETtoday生活新聞",
+    "status": "报道中",
+    "category": "台海/印太",
+    "severity": "low",
+    "priority_score": 58,
+    "confidence_score": 40,
+    "importance_score": 36,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-10T23:45:00+00:00",
+    "last_seen": "2026-09-10T23:45:00+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Taiwan"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "84d309508574202c423d",
+        "origin_type": "news",
+        "source": "ettoday.net",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "南海擾動一路奔西 ！ 專家示警下周新發展 | ETtoday生活新聞",
+        "url": "https://www.ettoday.net/news/20260911/3235357.htm",
+        "published_at": "2026-09-10T23:45:00+00:00",
+        "collected_at": "2026-09-11T00:34:21.264078+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "454cbc1d9082622beab0",
+    "title": "Chinese AI startup Moonshot reportedly eyes Hong Kong, Shanghai dual-listing",
+    "status": "报道中",
+    "category": "经贸/科技",
+    "severity": "low",
+    "priority_score": 58,
+    "confidence_score": 40,
+    "importance_score": 36,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-10T22:25:57+00:00",
+    "last_seen": "2026-09-10T22:25:57+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "United States"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "dcd5f4f638d0b3c08d35",
+        "origin_type": "news",
+        "source": "Semafor",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Chinese AI startup Moonshot reportedly eyes Hong Kong, Shanghai dual-listing",
+        "url": "https://www.semafor.com/article/09/10/2026/chinese-ai-startup-moonshot-reportedly-eyes-hong-kong-shanghai-dual-listing",
+        "published_at": "2026-09-10T22:25:57+00:00",
+        "collected_at": "2026-09-11T00:34:21.264078+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "006dea82bdbdf22563cf",
+    "title": "Palestinian engineer killed in Israeli attack in Gaza's Khan Younis",
+    "status": "报道中",
+    "category": "安全/冲突",
+    "severity": "high",
+    "priority_score": 57,
+    "confidence_score": 40,
+    "importance_score": 64,
+    "china_relevance_score": 55,
+    "first_seen": "2026-09-10T23:04:50+00:00",
+    "last_seen": "2026-09-10T23:04:50+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "United Kingdom"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=United Kingdom; 中国关联利益=中英关系, 金融, 香港议题, 投资审查, 科技, 核电, 教育, 情报安全; 中国关联实体/项目=Huawei, CGN, HSBC China exposure, TikTok",
+    "evidence": [
+      {
+        "id": "897d861f6483b416024b",
+        "origin_type": "news",
+        "source": "Middle East Eye",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Palestinian engineer killed in Israeli attack in Gaza's Khan Younis",
+        "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-engineer-killed-israeli-attack-gazas-khan-younis",
+        "published_at": "2026-09-10T23:04:50+00:00",
+        "collected_at": "2026-09-11T00:34:21.264078+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "5c10e9aedebb5c17ea32",
+    "title": "5 paralegals arrested, 27 hurt in protest vs Pax Silica",
+    "status": "报道中",
+    "category": "社会动荡",
+    "severity": "high",
+    "priority_score": 57,
+    "confidence_score": 40,
+    "importance_score": 64,
+    "china_relevance_score": 55,
+    "first_seen": "2026-09-10T22:56:18+00:00",
+    "last_seen": "2026-09-10T22:56:18+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Philippines"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=Philippines; 中国关联利益=南海, 美菲同盟, 海警与军事基地, 矿产, 中菲经贸; 中国关联实体/项目=South China Sea disputes | 事件关联地区=United States; 中国关联利益=中美关系, 贸易与关税, 科技与出口管制, 半导体, 人工智能, 金融制裁, 军事与印太, 台海; 中国关联实体/项目=Huawei, ZTE, SMIC, ByteDance, TikTok, DJI, CATL, BYD, China Telecom, China Mobile",
+    "evidence": [
+      {
+        "id": "55a9e8a22a0d2461ad80",
+        "origin_type": "news",
+        "source": "Rappler",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "5 paralegals arrested, 27 hurt in protest vs Pax Silica",
+        "url": "https://www.rappler.com/philippines/paralegals-arrested-pax-silica-protest/",
+        "published_at": "2026-09-10T22:56:18+00:00",
+        "collected_at": "2026-09-11T00:34:21.264078+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "f36390b671029ec138b9",
+    "title": "Kyrgyzstan will need to develop cold-chain logistics to increase berry exports to China - Ministry of Agriculture",
+    "status": "报道中",
+    "category": "海外利益",
+    "severity": "low",
+    "priority_score": 57,
+    "confidence_score": 40,
+    "importance_score": 35,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-10T21:33:28+00:00",
+    "last_seen": "2026-09-10T21:33:28+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Kyrgyzstan"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "bcc2e11a568816779ea2",
+        "origin_type": "news",
+        "source": "AKIpress",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Kyrgyzstan will need to develop cold-chain logistics to increase berry exports to China - Ministry of Agriculture",
+        "url": "https://akipress.com/news:918303",
+        "published_at": "2026-09-10T21:33:28+00:00",
+        "collected_at": "2026-09-11T00:34:21.264078+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "ba1a6dea63b5ad9504b4",
+    "title": "KazTransOil reveals scope of oil transport via Kazakhstan-China pipeline",
+    "status": "报道中",
+    "category": "海外利益",
+    "severity": "low",
+    "priority_score": 57,
+    "confidence_score": 40,
+    "importance_score": 35,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-10T21:11:00+00:00",
+    "last_seen": "2026-09-10T21:11:00+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Azerbaijan"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "d68f8d9ced08a8dedb40",
+        "origin_type": "news",
+        "source": "Trend News Agency",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "KazTransOil reveals scope of oil transport via Kazakhstan-China pipeline",
+        "url": "https://www.trend.az/casia/kazakhstan/4222523.html",
+        "published_at": "2026-09-10T21:11:00+00:00",
+        "collected_at": "2026-09-11T00:34:21.264078+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "30559ed8d1056fc0ea59",
+    "title": "Utrecht reopens city center street rocked by January explosion; Residents still angered",
+    "status": "报道中",
+    "category": "安全/冲突",
+    "severity": "high",
+    "priority_score": 56,
+    "confidence_score": 40,
+    "importance_score": 63,
+    "china_relevance_score": 55,
+    "first_seen": "2026-09-10T21:10:00+00:00",
+    "last_seen": "2026-09-10T21:10:00+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Netherlands"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=Netherlands; 中国关联利益=半导体设备, 光刻机, 出口管制, 港口物流, 欧盟对华政策; 中国关联实体/项目=ASML, Port of Rotterdam, COSCO",
+    "evidence": [
+      {
+        "id": "a822f56f5d8e58ee6e2a",
+        "origin_type": "news",
+        "source": "NL Times",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Utrecht reopens city center street rocked by January explosion; Residents still angered",
+        "url": "https://nltimes.nl/2026/09/10/utrecht-reopens-city-center-street-rocked-january-explosion-residents-still-angered",
+        "published_at": "2026-09-10T21:10:00+00:00",
+        "collected_at": "2026-09-11T00:34:21.264078+00:00",
+        "relation": "potential",
+        "confidence": 62
+      }
+    ]
+  },
+  {
+    "id": "751bb2e63c52574dc7f3",
+    "title": "Bad actors in China and Russia are already weaponizing Anthropic’s AI",
+    "status": "报道中",
+    "category": "经贸/科技",
+    "severity": "low",
+    "priority_score": 56,
+    "confidence_score": 56,
+    "importance_score": 39,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-10T18:17:29+00:00",
+    "last_seen": "2026-09-10T18:17:29+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "European Union"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "6481d1879ce8b58f456b",
+        "origin_type": "news",
+        "source": "POLITICO Europe",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Bad actors in China and Russia are already weaponizing Anthropic’s AI",
+        "url": "https://www.politico.com/news/2026/09/10/bad-actors-china-russia-weaponizing-anthropic-01070435?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+        "published_at": "2026-09-10T18:17:29+00:00",
+        "collected_at": "2026-09-11T00:34:21.264078+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  }
+]
