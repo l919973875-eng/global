@@ -1,37 +1,303 @@
 [
   {
-    "id": "83406c3bc8775a704d88",
-    "title": "'Everything has fallen': Iran-backed militants capture Red Sea gateway to blockade global shipping",
+    "id": "e8f1bc299d90ac321a70",
+    "title": "KI-Sicherheit Dario Amodei warnt vor KI-Katastrophe Der Anthropic-Chef fordert in einem viel beachteten Essay, die Entwicklung neuer Modelle zu drosseln – und räumt Pannen im eigenen Haus ein. Sein Drei-Stufen-Plan reicht bis nach China.",
     "status": "报道中",
-    "category": "其他",
-    "severity": "critical",
-    "priority_score": 56,
+    "category": "安全/冲突",
+    "severity": "low",
+    "priority_score": 59,
     "confidence_score": 40,
-    "importance_score": 68,
-    "china_relevance_score": 55,
-    "first_seen": "2026-09-12T00:32:33.947258+00:00",
-    "last_seen": "2026-09-12T00:32:33.947258+00:00",
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-13T00:34:26.588694+00:00",
+    "last_seen": "2026-09-13T00:34:26.588694+00:00",
     "source_count": 1,
     "news_count": 1,
     "social_count": 0,
     "platforms": [],
     "countries": [
-      "Australia"
+      "Germany"
     ],
     "entities": [],
-    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=Australia; 中国关联利益=中澳关系, 铁矿石, 锂矿, 关键矿产, AUKUS, 南太平洋, 农产品; 中国关联实体/项目=Pilbara iron ore China exposure, lithium supply chains | 事件关联地区=Iran; 中国关联利益=能源, 制裁, 核问题, 中东安全, 中伊合作; 中国关联实体/项目=China-Iran energy trade | 事件关联地区=Global; 中国关联利益=全球贸易, 金融, 能源, 粮食, 关键矿产, 航运, 核安全, 太空; 中国关联实体/项目=WTO, IMF, World Bank, IAEA, IEA, UN",
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
     "evidence": [
       {
-        "id": "0dbdb431bf2354d44004",
+        "id": "3eb4e3e27af23d1cce03",
         "origin_type": "news",
-        "source": "SBS News",
+        "source": "Handelsblatt",
         "source_kind": "news",
         "platform": null,
         "author": null,
-        "title": "'Everything has fallen': Iran-backed militants capture Red Sea gateway to blockade global shipping",
-        "url": "https://www.sbs.com.au/news/article/houthis-seize-yemen-red-sea-bab-al-mandab-oil-prices/pcten13zl",
+        "title": "KI-Sicherheit Dario Amodei warnt vor KI-Katastrophe Der Anthropic-Chef fordert in einem viel beachteten Essay, die Entwicklung neuer Modelle zu drosseln – und räumt Pannen im eigenen Haus ein. Sein Drei-Stufen-Plan reicht bis nach China.",
+        "url": "https://www.handelsblatt.com/technik/it-internet/ki-sicherheit-dario-amodei-warnt-vor-ki-katastrophe/100254079.html",
         "published_at": null,
-        "collected_at": "2026-09-12T00:32:33.947258+00:00",
+        "collected_at": "2026-09-13T00:34:26.588694+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "8f1759d96b2b6d43eab5",
+    "title": "政府系ファンド投資「米1強」加速、半分の24兆円 AI偏重で中国離れ",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 56,
+    "importance_score": 42,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-13T00:34:26.588694+00:00",
+    "last_seen": "2026-09-13T00:34:26.588694+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Japan"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "19b87827d1cdfbe39455",
+        "origin_type": "news",
+        "source": "Nikkei",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "政府系ファンド投資「米1強」加速、半分の24兆円 AI偏重で中国離れ",
+        "url": "https://www.nikkei.com/article/DGXZQOUB20BOW0Q6A520C2000000/",
+        "published_at": null,
+        "collected_at": "2026-09-13T00:34:26.588694+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "bcbf7976871b4e1feeac",
+    "title": "トランプ氏、米国で現地生産なら中国車容認 「日本もそうしている」",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 56,
+    "importance_score": 42,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-13T00:34:26.588694+00:00",
+    "last_seen": "2026-09-13T00:34:26.588694+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Japan"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "20c3c502d32c4dff8295",
+        "origin_type": "news",
+        "source": "Nikkei",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "トランプ氏、米国で現地生産なら中国車容認 「日本もそうしている」",
+        "url": "https://www.nikkei.com/article/DGXZQOGN1301A0T10C26A9000000/",
+        "published_at": null,
+        "collected_at": "2026-09-13T00:34:26.588694+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "43a1d904edee7ac9e4c1",
+    "title": "ソウルと台北の「二つの総督府」 対照的な運命の根にあるもの 9/13 07:00 日本は戦前、植民地にした朝鮮半島と台湾に「総督府」を置き、統治の中枢機関とした。いずれも近代建築の粋を集めた建物だった。 戦後、ソウルの旧総督府は解体されたが、台北では頼清徳総統が執務する総統府として今も使われる。「二つの総督府」はなぜ、対照的な運命をたどったのか。 朝鮮総督府は約100年前の19",
+    "status": "报道中",
+    "category": "台海/印太",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-13T00:34:26.588694+00:00",
+    "last_seen": "2026-09-13T00:34:26.588694+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Japan"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "0980164e08c69f842f8c",
+        "origin_type": "news",
+        "source": "Mainichi",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "ソウルと台北の「二つの総督府」 対照的な運命の根にあるもの 9/13 07:00 日本は戦前、植民地にした朝鮮半島と台湾に「総督府」を置き、統治の中枢機関とした。いずれも近代建築の粋を集めた建物だった。 戦後、ソウルの旧総督府は解体されたが、台北では頼清徳総統が執務する総統府として今も使われる。「二つの総督府」はなぜ、対照的な運命をたどったのか。 朝鮮総督府は約100年前の19",
+        "url": "https://mainichi.jp/articles/20260911/k00/00m/030/132000c",
+        "published_at": null,
+        "collected_at": "2026-09-13T00:34:26.588694+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "c408d4f3c676aabc86e9",
+    "title": "China threatens to cancel summit if U.S. approves new arms sales to Taiwan",
+    "status": "报道中",
+    "category": "台海/印太",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-13T00:34:26.588694+00:00",
+    "last_seen": "2026-09-13T00:34:26.588694+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Japan"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "5b4d911d83e731e09edb",
+        "origin_type": "news",
+        "source": "Kyodo News",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "China threatens to cancel summit if U.S. approves new arms sales to Taiwan",
+        "url": "https://english.kyodonews.net/articles/-/84865",
+        "published_at": null,
+        "collected_at": "2026-09-13T00:34:26.588694+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "0fb7d8f95ced8ef4e7b2",
+    "title": "China, Russia back India’s UNSC bid, seek greater Global South representation",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-13T00:34:26.588694+00:00",
+    "last_seen": "2026-09-13T00:34:26.588694+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "India"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "f9c36b4b7d1b8b23a5c0",
+        "origin_type": "news",
+        "source": "WION",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "China, Russia back India’s UNSC bid, seek greater Global South representation",
+        "url": "https://www.wionews.com/world/brics-declaration-china-russia-back-india-s-un-role-push-for-greater-global-south-representation-1789219055327",
+        "published_at": null,
+        "collected_at": "2026-09-13T00:34:26.588694+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "6eda6144e5d36ec679f6",
+    "title": "India, China differ in wording on border issue after PM Modi-Xi meeting",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "low",
+    "priority_score": 59,
+    "confidence_score": 40,
+    "importance_score": 37,
+    "china_relevance_score": 99,
+    "first_seen": "2026-09-13T00:34:26.588694+00:00",
+    "last_seen": "2026-09-13T00:34:26.588694+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "India"
+    ],
+    "entities": [],
+    "reason": "内容直接出现中国、中国机构/企业/人员、台湾台海或其他直接涉华实体",
+    "evidence": [
+      {
+        "id": "3bba15f771474813fc41",
+        "origin_type": "news",
+        "source": "India Today",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "India, China differ in wording on border issue after PM Modi-Xi meeting",
+        "url": "https://www.indiatoday.in/india/story/modi-xi-meeting-brics-india-china-differ-on-border-peace-bilateral-ties-2993427-2026-09-12",
+        "published_at": null,
+        "collected_at": "2026-09-13T00:34:26.588694+00:00",
+        "relation": "direct",
+        "confidence": 94
+      }
+    ]
+  },
+  {
+    "id": "adf7be7f2829453069aa",
+    "title": "Three Iranian security force members killed in clashes with gunmen",
+    "status": "报道中",
+    "category": "其他",
+    "severity": "high",
+    "priority_score": 57,
+    "confidence_score": 40,
+    "importance_score": 64,
+    "china_relevance_score": 55,
+    "first_seen": "2026-09-12T22:58:35+00:00",
+    "last_seen": "2026-09-12T22:58:35+00:00",
+    "source_count": 1,
+    "news_count": 1,
+    "social_count": 0,
+    "platforms": [],
+    "countries": [
+      "Saudi Arabia"
+    ],
+    "entities": [],
+    "reason": "发生在存在中国重要利益暴露的国家/地区，且属于重大政治、经济、产业或安全变化；事件关联地区=Saudi Arabia; 中国关联利益=石油, 人民币结算讨论, 新能源, 中东外交, 炼化, 数字经济; 中国关联实体/项目=Sinopec, Aramco-China projects, Huawei | 事件关联地区=Iran; 中国关联利益=能源, 制裁, 核问题, 中东安全, 中伊合作; 中国关联实体/项目=China-Iran energy trade",
+    "evidence": [
+      {
+        "id": "47ea2ad38924336e4cc7",
+        "origin_type": "news",
+        "source": "Arab News",
+        "source_kind": "news",
+        "platform": null,
+        "author": null,
+        "title": "Three Iranian security force members killed in clashes with gunmen",
+        "url": "https://www.arabnews.com/middle-east/three-iranian-security-force-members-killed-in-clashes-with-gunmen-3001517",
+        "published_at": "2026-09-12T22:58:35+00:00",
+        "collected_at": "2026-09-13T00:34:26.588694+00:00",
         "relation": "potential",
         "confidence": 62
       }
